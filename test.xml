@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <body>
+      <query key="" status="resolved">
+        <doi type="report-paper_title">10.6028/NBS.BH.1</doi>
+        <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+        <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+        <crm-item name="member-id" type="number">4068</crm-item>
+        <crm-item name="citation-id" type="number">78696207</crm-item>
+        <crm-item name="book-id" type="number">2050209</crm-item>
+        <crm-item name="deposit-timestamp" type="number">201511031134</crm-item>
+        <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+        <crm-item name="last-update" type="date">2018-03-06T09:55:24Z</crm-item>
+        <crm-item name="created" type="date">2015-11-04T17:31:05Z</crm-item>
+        <crm-item name="citedby-count" type="number">0</crm-item>
+        <doi_record>
+          
+            <report-paper>
+              <report-paper_metadata language="en">
+                <contributors>
+                  <person_name sequence="first" contributor_role="author">
+                    <given_name>Ira H</given_name>
+                    <surname>Woolson</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                    <given_name>Edwin H</given_name>
+                    <surname>Brown</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                    <given_name>John A</given_name>
+                    <surname>Newlin</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                    <given_name>William K</given_name>
+                    <surname>Hatt</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                    <given_name>Ernest J</given_name>
+                    <surname>Russell</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                    <given_name>Rudolph P</given_name>
+                    <surname>Miller</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                    <given_name>Joseph R</given_name>
+                    <surname>Worcester</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                    <given_name>Frank P</given_name>
+                    <surname>Cartwright</surname>
+                  </person_name>
+                </contributors>
+                <titles>
+                  <title>Recommended minimum requirements for small dwelling construction :</title>
+                  <subtitle>report of Building Code Committee July 20, 1922</subtitle>
+                </titles>
+                <edition_number>0</edition_number>
+                <publication_date media_type="online">
+                  <year>1923</year>
+                </publication_date>
+                <publisher>
+                  <publisher_name>National Bureau of Standards</publisher_name>
+                  <publisher_place>Gaithersburg, MD</publisher_place>
+                </publisher>
+                <institution>
+                  <institution_name>National Bureau of Standards</institution_name>
+                  <institution_acronym>NBS</institution_acronym>
+                  <institution_place>Gaithersburg, MD</institution_place>
+                </institution>
+                <publisher_item>
+                  <item_number item_number_type="report-number">NBS BH 1</item_number>
+                </publisher_item>
+                <doi_data>
+                  <doi>10.6028/NBS.BH.1</doi>
+                  <resource>https://nvlpubs.nist.gov/nistpubs/Legacy/BH/nbsbuildinghousing1.pdf</resource>
+                </doi_data>
+              </report-paper_metadata>
+            </report-paper>
+          
+        </doi_record>
+      </query>
+      <query key="" status="resolved">
+        <doi type="report-paper_title">10.6028/NIST.SP.955.Suppl</doi>
+        <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+        <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+        <crm-item name="member-id" type="number">4068</crm-item>
+        <crm-item name="citation-id" type="number">72816899</crm-item>
+        <crm-item name="book-id" type="number">1619483</crm-item>
+        <crm-item name="deposit-timestamp" type="number">201412171026</crm-item>
+        <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+        <crm-item name="last-update" type="date">2018-03-06T09:48:10Z</crm-item>
+        <crm-item name="created" type="date">2014-12-17T15:29:06Z</crm-item>
+        <crm-item name="citedby-count" type="number">0</crm-item>
+        <doi_record>
+          
+            <report-paper>
+              <report-paper_metadata>
+                <contributors>
+                  <person_name sequence="first" contributor_role="author">
+                    <given_name>Keith</given_name>
+                    <surname>Martin</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                    <given_name>Barbara P.</given_name>
+                    <surname>Silcox</surname>
+                  </person_name>
+                </contributors>
+                <titles>
+                  <title>Responding to National Needs: Supplement to Appendices 1994-2009</title>
+                </titles>
+                <publication_date media_type="print">
+                  <month>05</month>
+                  <year>2010</year>
+                </publication_date>
+                <publisher>
+                  <publisher_name>National Institute of Standards and Technology</publisher_name>
+                </publisher>
+                <institution>
+                  <institution_name>National Institute of Standards and Technology</institution_name>
+                  <institution_acronym>NIST</institution_acronym>
+                  <institution_place>Gaithersburg, MD</institution_place>
+                  <!-- repeat as need -->
+                </institution>
+                <publisher_item>
+                  <item_number item_number_type="report-number">NIST SP 955 Suppl.</item_number>
+                </publisher_item>
+                <doi_data>
+                  <doi>10.6028/NIST.SP.955.Suppl</doi>
+                  <resource>https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpub955_Sup.pdf</resource>
+                </doi_data>
+              </report-paper_metadata>
+            </report-paper>
+        </doi_record>
+      </query>
+    </body>
