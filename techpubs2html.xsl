@@ -66,9 +66,8 @@
             <head>
                 <title>NIST Technical Publications Index</title>
                 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<!--                <link rel="stylesheet" type="text/css" href="./css/reset.css"/>
-                <link rel="stylesheet" type="text/css" href="./css/jres-html.css"/>
-                <link rel="stylesheet" type="text/css" href="./css/accordian.css"/>-->
+   <link rel="stylesheet" type="text/css" href="./css/reset.css"/>
+                <link rel="stylesheet" type="text/css" href="./css/techpubs-html.css"/>
                 
             </head>
             <body>
@@ -77,9 +76,9 @@
                 <div id="container">
                     <header id="header">
                         <h1 id="title">NIST Technical Series Publication Index</h1>
-                        <h2 id="contact">NIST Research Library<br/><a href="mailto:library@nist.gov">library@nist.gov</a><br/><a href="https://www.nist.gov/nvl">www.nist.gov/nvl</a></h2>
                     </header>
-                </div>
+                   
+                
                 <!-- Main content -->
                 <xsl:choose>       
                     <xsl:when test="$report-date = 'date'">
@@ -93,7 +92,10 @@
                     </xsl:when>
                     <xsl:otherwise/>
                 </xsl:choose>
-                
+                    <!-- Footer -->
+                    <footer id="footer" class="clearfix">
+                        NIST Research Library&#160;&#124;&#160;<a href="mailto:library@nist.gov">library@nist.gov</a>&#160;&#124;&#160;<a href="https://www.nist.gov/nist-research-library">www.nist.gov/nvl</a></footer>
+                </div>
             </body>
         </html>
     </xsl:template>
@@ -101,14 +103,12 @@
         
         
         <div class="report-paper">
-            <div class="titles"><strong>Title:&#160;</strong> <xsl:value-of select="doi_record/report-paper/report-paper_metadata/titles/title"/>&#160;<xsl:value-of select="doi_record/report-paper/report-paper_metadata/titles/subtitle"/></div>
-            <div class="publication_date"><strong>Date&#160;Published:&#160;</strong> <xsl:call-template name="date"/></div>
-            <div class="authors"><strong>Authors:&#160;</strong><xsl:apply-templates select="doi_record/report-paper/report-paper_metadata/contributors"/></div>
-            <div class="report-number"><strong>Report&#160;Number:&#160;</strong> <xsl:value-of select="doi_record/report-paper/report-paper_metadata/publisher_item/item_number"/></div>
-            <div class="doi_data"><strong>doi:</strong><xsl:value-of select="doi_record/report-paper/report-paper_metadata/doi_data/doi"/>&#160;&#124;&#160;<xsl:call-template name="resource"/></div> 
+            <span class="titles"><label class="label">Title:&#160;</label><xsl:value-of select="doi_record/report-paper/report-paper_metadata/titles/title"/>&#160;<xsl:value-of select="doi_record/report-paper/report-paper_metadata/titles/subtitle"/></span><br/>
+            <span class="publication_date"><label class="label">Date&#160;Published:&#160;</label> <xsl:call-template name="date"/></span><br/>
+            <span class="authors"><label class="label">Authors:&#160;</label><xsl:apply-templates select="doi_record/report-paper/report-paper_metadata/contributors"/></span><br/>
+            <span class="report-number"><label class="label">Report&#160;Number:&#160;</label> <xsl:value-of select="doi_record/report-paper/report-paper_metadata/publisher_item/item_number"/></span><br/>
+            <span class="doi_data"><label class="label">doi:</label><xsl:value-of select="doi_record/report-paper/report-paper_metadata/doi_data/doi"/>&#160;&#124;&#160;<xsl:call-template name="resource"/></span><br/>
         </div>
-        
-        <br></br>
     </xsl:template>
     
     <xsl:template match="contributors">

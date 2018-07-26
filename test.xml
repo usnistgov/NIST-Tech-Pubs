@@ -81,56 +81,72 @@
         </doi_record>
       </query>
       <query key="" status="resolved">
-        <doi type="report-paper_title">10.6028/NIST.SP.955.Suppl</doi>
+        <doi type="report-paper_title">10.6028/NIST.SP.1500-201</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
         <crm-item name="member-id" type="number">4068</crm-item>
-        <crm-item name="citation-id" type="number">72816899</crm-item>
-        <crm-item name="book-id" type="number">1619483</crm-item>
-        <crm-item name="deposit-timestamp" type="number">201412171026</crm-item>
+        <crm-item name="citation-id" type="number">91112843</crm-item>
+        <crm-item name="book-id" type="number">2406805</crm-item>
+        <crm-item name="deposit-timestamp" type="number">201706260753</crm-item>
         <crm-item name="owner-prefix" type="string">10.6028</crm-item>
-        <crm-item name="last-update" type="date">2018-03-06T09:48:10Z</crm-item>
-        <crm-item name="created" type="date">2014-12-17T15:29:06Z</crm-item>
+        <crm-item name="last-update" type="date">2018-03-06T09:13:35Z</crm-item>
+        <crm-item name="created" type="date">2017-06-26T11:56:56Z</crm-item>
         <crm-item name="citedby-count" type="number">0</crm-item>
         <doi_record>
+          <report-paper>
+            <report-paper_metadata>
+              <contributors>
+                <person_name sequence="first" contributor_role="author">
+                  <given_name>Edward R</given_name>
+                  <surname>Griffor</surname>
+                </person_name>
+                <person_name sequence="additional" contributor_role="author">
+                  <given_name>Chris</given_name>
+                  <surname>Greer</surname>
+                </person_name>
+                <person_name sequence="additional" contributor_role="author">
+                  <given_name>David A</given_name>
+                  <surname>Wollman</surname>
+                </person_name>
+                <person_name sequence="additional" contributor_role="author">
+                  <given_name>Martin J</given_name>
+                  <surname>Burns</surname>
+                </person_name>
+              </contributors>
+              <titles>
+                <title>Framework for cyber-physical systems: volume 1, overview</title>
+              </titles>
+              <publication_date media_type="online">
+                <month>06</month>
+                <day>26</day>
+                <year>2017</year>
+              </publication_date>
+              <publisher>
+                <publisher_name>National Institute of Standards and Technology</publisher_name>
+                <publisher_place>Gaithersburg, MD</publisher_place>
+              </publisher>
+              <institution>
+                <institution_name>National Institute of Standards and Technology</institution_name>
+                <institution_acronym>NIST</institution_acronym>
+                <institution_place>Gaithersburg, MD</institution_place>
+                <institution_department>Engineering Laboratory</institution_department>
+              </institution>
+              <publisher_item>
+                <item_number item_number_type="report-number">NIST SP 1500-201</item_number>
+              </publisher_item>
+              <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+                <fr:assertion name="funder_name">
+                  Engineering Laboratory
+                  <fr:assertion name="funder_identifier">https://doi.org/10.13039/100007763</fr:assertion>
+                </fr:assertion>
+              </fr:program>
+              <doi_data>
+                <doi>10.6028/NIST.SP.1500-201</doi>
+                <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1500-201.pdf</resource>
+              </doi_data>
+            </report-paper_metadata>
+          </report-paper>
           
-            <report-paper>
-              <report-paper_metadata>
-                <contributors>
-                  <person_name sequence="first" contributor_role="author">
-                    <given_name>Keith</given_name>
-                    <surname>Martin</surname>
-                  </person_name>
-                  <person_name sequence="additional" contributor_role="author">
-                    <given_name>Barbara P.</given_name>
-                    <surname>Silcox</surname>
-                  </person_name>
-                </contributors>
-                <titles>
-                  <title>Responding to National Needs: Supplement to Appendices 1994-2009</title>
-                </titles>
-                <publication_date media_type="print">
-                  <month>05</month>
-                  <year>2010</year>
-                </publication_date>
-                <publisher>
-                  <publisher_name>National Institute of Standards and Technology</publisher_name>
-                </publisher>
-                <institution>
-                  <institution_name>National Institute of Standards and Technology</institution_name>
-                  <institution_acronym>NIST</institution_acronym>
-                  <institution_place>Gaithersburg, MD</institution_place>
-                  <!-- repeat as need -->
-                </institution>
-                <publisher_item>
-                  <item_number item_number_type="report-number">NIST SP 955 Suppl.</item_number>
-                </publisher_item>
-                <doi_data>
-                  <doi>10.6028/NIST.SP.955.Suppl</doi>
-                  <resource>https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpub955_Sup.pdf</resource>
-                </doi_data>
-              </report-paper_metadata>
-            </report-paper>
         </doi_record>
       </query>
     </body>

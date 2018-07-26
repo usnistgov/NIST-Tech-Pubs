@@ -14,7 +14,7 @@ body{
 header {
     width: 94%;
     padding: 3%;
-    background-color: #2C6791;
+    background-color: #1571ae;
 }
 header #title {
     font-size: 36px;
@@ -22,15 +22,11 @@ header #title {
     color: #fff;
 }
 
-header #volume{
-    font-size: 28px;
-    line-height: 1.4em;
-    color: #fff;
-   }
+
    
  a {
     text-decoration: none;
-        color: #994240;
+        color: #0000ff;
    /* font-size: 1.2em;*/
 }
 
@@ -90,15 +86,8 @@ aside ul li a {
 #content {
     float: left;
     padding: 3%;
-    width: 64%;
+    width: 88%;
     background-color: #fff;
- }
-
-aside {
-    float: right;
-    padding: 3%;
-    width: 24%;
-    background-color: #eee;
  }
 
 footer{
@@ -109,6 +98,10 @@ footer{
     color: #fff;
     text-align: center;
     clear: both;
+}
+
+footer a{
+    color: #fff;
 }
 
 @media all and (max-width : 768px) {
@@ -136,7 +129,7 @@ footer{
     }
 }
 
-/* JRes specific */
+/* TechPubs specific */
 
 h1, h2, h3, h4, h5, h6 {
    display: block;
@@ -145,36 +138,14 @@ h1, h2, h3, h4, h5, h6 {
    font-family: sans-serif;
    font-weight: bold;
    line-height: 1.4em;
-   color: midnightblue;
+   color: #fff;
   }
 
-.article {
-    padding: 1em 0em 1em 0em;
+.report-paper {
+    padding: 0em 0em 0.5em 0em;
 }
-
-.art-title {
-    color: #5F8276;
-    font-size: 18px; 
-    line-height: 1.4em;
+.label {
     font-weight: bold;
-}
-
-.type-head {
-    color: #2C6791;
-    font-size: 20px; 
-    line-height: 1.4em;
-    font-weight: bold;
-}
-
-.authors {
-    font-size: 14px; 
-    line-height: 1.4em;
-    color: #000;
-}
-.info {
-    font-size: 12px; 
-    line-height: 1.4em;
-    color: 	#696969;
 }
 
 div { margin-top: 0.5em }
