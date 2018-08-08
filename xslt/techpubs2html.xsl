@@ -50,11 +50,11 @@
     <xsl:template match="body">
         
         <!-- creates the home page -->
-        <xsl:result-document href="./html/index.html"> 
+        
             <xsl:call-template name="html">
                 <xsl:with-param name="report-date">date</xsl:with-param>
             </xsl:call-template>
-        </xsl:result-document>
+        
      
        
         
@@ -87,6 +87,7 @@
                                 <xsl:sort order="descending" select="doi_record/report-paper/report-paper_metadata/publication_date/year"/>
                                 <xsl:sort order="descending" select="doi_record/report-paper/report-paper_metadata/publication_date/month"/>
                                 <xsl:sort order="descending" select="doi_record/report-paper/report-paper_metadata/publication_date/day"/>
+                                <xsl:sort order="ascending" select="doi_record/report-paper/report-paper_metadata/publisher_item/item_number"/>
                             </xsl:apply-templates>
                         </section>
                     </xsl:when>
