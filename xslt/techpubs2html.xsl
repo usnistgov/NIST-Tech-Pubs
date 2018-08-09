@@ -84,10 +84,11 @@
                     <xsl:when test="$report-date = 'date'">
                         <section id="content">
                             <xsl:apply-templates select="query">
+                                <xsl:sort order="ascending" select="doi_record/report-paper/report-paper_metadata/publisher_item/item_number"/>
                                 <xsl:sort order="descending" select="doi_record/report-paper/report-paper_metadata/publication_date/year"/>
                                 <xsl:sort order="descending" select="doi_record/report-paper/report-paper_metadata/publication_date/month"/>
                                 <xsl:sort order="descending" select="doi_record/report-paper/report-paper_metadata/publication_date/day"/>
-                                <xsl:sort order="ascending" select="doi_record/report-paper/report-paper_metadata/publisher_item/item_number"/>
+                                
                             </xsl:apply-templates>
                         </section>
                     </xsl:when>

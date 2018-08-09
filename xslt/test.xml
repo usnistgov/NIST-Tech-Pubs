@@ -1,0 +1,245 @@
+<body>
+      <query key="myNewType" status="resolved">
+        <doi type="report-paper_title">10.6028/NIST.IR.8205-07</doi>
+        <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+        <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+        <crm-item name="member-id" type="number">4068</crm-item>
+        <crm-item name="citation-id" type="number">100441598</crm-item>
+        <crm-item name="book-id" type="number">3099611</crm-item>
+        <crm-item name="deposit-timestamp" type="number">201808061542</crm-item>
+        <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+        <crm-item name="last-update" type="date">2018-08-06T19:43:57Z</crm-item>
+        <crm-item name="created" type="date">2018-08-06T19:43:57Z</crm-item>
+        <crm-item name="citedby-count" type="number">0</crm-item>
+        <doi_record>
+          
+          <report-paper>
+            <report-paper_metadata>
+              <contributors>
+                  <person_name sequence="first" contributor_role="author">
+                     <given_name>Kathryn</given_name>
+                     <surname>Stephenson</surname>
+                  </person_name>
+              </contributors>
+              <titles>
+                  <title>NIST time and frequency bulletin - July</title>
+              </titles>
+              <publication_date media_type="online">
+                  <month>07</month>
+                  <year>2018</year>
+              </publication_date>
+              <publisher>
+                  <publisher_name>National Institute of Standards and Technology</publisher_name>
+                  <publisher_place>Gaithersburg, MD</publisher_place>
+              </publisher>
+              <institution>
+                  <institution_name>National Institute of Standards and Technology</institution_name>
+                  <institution_acronym>NIST</institution_acronym>
+                  <institution_place>Gaithersburg, MD</institution_place>
+                  <institution_department>Physical Measurement Laboratory</institution_department>
+              </institution>
+              <publisher_item>
+                  <item_number item_number_type="report-number">NIST IR 8205-07</item_number>
+              </publisher_item>
+              <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+                  <fr:assertion name="funder_name">
+                  Physical Measurement Laboratory
+                  <fr:assertion name="funder_identifier">https://doi.org/10.13039/100007769</fr:assertion>
+                  </fr:assertion>
+              </fr:program>
+              <doi_data>
+                  <doi>10.6028/NIST.IR.8205-07</doi>
+                  <resource>https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8205-07.pdf</resource>
+              </doi_data>
+            </report-paper_metadata>
+          </report-paper>
+        </doi_record>
+      </query>
+      <query key="myNewType" status="resolved">
+        <doi type="report-paper_title">10.6028/NIST.SP.500-305</doi>
+        <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+        <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+        <crm-item name="member-id" type="number">4068</crm-item>
+        <crm-item name="citation-id" type="number">100271645</crm-item>
+        <crm-item name="book-id" type="number">3095399</crm-item>
+        <crm-item name="deposit-timestamp" type="number">201807271434</crm-item>
+        <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+        <crm-item name="last-update" type="date">2018-07-27T18:38:36Z</crm-item>
+        <crm-item name="created" type="date">2018-07-27T18:38:34Z</crm-item>
+        <crm-item name="citedby-count" type="number">0</crm-item>
+        <doi_record>
+          
+          <report-paper>
+            <report-paper_metadata>
+              <contributors>
+                  <person_name sequence="first" contributor_role="author">
+                     <given_name>John</given_name>
+                     <surname>Libert</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                     <given_name>John</given_name>
+                     <surname>Grantham</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                     <given_name>Bruce</given_name>
+                     <surname>Bandini</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                     <given_name>Stephen</given_name>
+                     <surname>Wood</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                     <given_name>Michael</given_name>
+                     <surname>Garris</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                     <given_name>Kenneth</given_name>
+                     <surname>Ko</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                     <given_name>Fred</given_name>
+                     <surname>Byers</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                     <given_name>Craig</given_name>
+                     <surname>Watson</surname>
+                  </person_name>
+              </contributors>
+              <titles>
+                  <title>Guidance for evaluating contactless fingerprint acquisition devices</title>
+              </titles>
+              <publication_date media_type="online">
+                  <month>07</month>
+                  <year>2018</year>
+              </publication_date>
+              <publisher>
+                  <publisher_name>National Institute of Standards and Technology</publisher_name>
+                  <publisher_place>Gaithersburg, MD</publisher_place>
+              </publisher>
+              <institution>
+                  <institution_name>National Institute of Standards and Technology</institution_name>
+                  <institution_acronym>NIST</institution_acronym>
+                  <institution_place>Gaithersburg, MD</institution_place>
+                  <institution_department>Information Technology Laboratory</institution_department>
+              </institution>
+              <publisher_item>
+                  <item_number item_number_type="report-number">NIST SP 500-305</item_number>
+              </publisher_item>
+              <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+                  <fr:assertion name="funder_name">
+                  Information Technology Laboratory
+                  <fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764</fr:assertion>
+                  </fr:assertion>
+              </fr:program>
+              <doi_data>
+                  <doi>10.6028/NIST.SP.500-305</doi>
+                  <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.500-305.pdf</resource>
+              </doi_data>
+            </report-paper_metadata>
+          </report-paper>
+          
+        </doi_record>
+      </query>
+      <query key="myNewType" status="resolved">
+        <doi type="report-paper_title">10.6028/NBS.HB.28supp1950</doi>
+        <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+        <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+        <crm-item name="member-id" type="number">4068</crm-item>
+        <crm-item name="citation-id" type="number">97453519</crm-item>
+        <crm-item name="book-id" type="number">3018163</crm-item>
+        <crm-item name="deposit-timestamp" type="number">201803270927</crm-item>
+        <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+        <crm-item name="last-update" type="date">2018-03-27T13:30:08Z</crm-item>
+        <crm-item name="created" type="date">2018-03-27T13:05:55Z</crm-item>
+        <crm-item name="citedby-count" type="number">0</crm-item>
+        <doi_record>
+          
+          <report-paper>
+            <report-paper_metadata>
+              <contributors>
+                  <organization sequence="first" contributor_role="author">United States Interdepartmental Screw Thread Committee</organization>
+              </contributors>
+              <titles>
+                  <title>1950 supplement to screw-thread standards for federal services 1944</title>
+              </titles>
+              <publication_date media_type="online">
+                  <year>1951</year>
+              </publication_date>
+              <publisher>
+                  <publisher_name>National Bureau of Standards</publisher_name>
+                  <publisher_place>Gaithersburg, MD</publisher_place>
+              </publisher>
+              <institution>
+                  <institution_name>National Bureau of Standards</institution_name>
+                  <institution_acronym>NBS</institution_acronym>
+                  <institution_place>Gaithersburg, MD</institution_place>
+              </institution>
+              <publisher_item>
+                  <item_number item_number_type="report-number">NBS HB 28 supp1950</item_number>
+              </publisher_item>
+              <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+                  <fr:assertion name="funder_name">
+                     <fr:assertion name="funder_identifier">http://dx.doi.org/10.13039/error:</fr:assertion>
+                  </fr:assertion>
+              </fr:program>
+              <doi_data>
+                  <doi>10.6028/NBS.HB.28supp1950</doi>
+                  <resource>https://nvlpubs.nist.gov/nistpubs/Legacy/HB/1951/NBS.HB.28supp1950.pdf</resource>
+              </doi_data>
+            </report-paper_metadata>
+          </report-paper>
+          
+        </doi_record>
+      </query>
+      <query key="myNewType" status="resolved">
+        <doi type="report-paper_title">10.6028/NBS.HB.28supp1950</doi>
+        <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+        <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+        <crm-item name="member-id" type="number">4068</crm-item>
+        <crm-item name="citation-id" type="number">97453519</crm-item>
+        <crm-item name="book-id" type="number">3018163</crm-item>
+        <crm-item name="deposit-timestamp" type="number">201803270927</crm-item>
+        <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+        <crm-item name="last-update" type="date">2018-03-27T13:30:08Z</crm-item>
+        <crm-item name="created" type="date">2018-03-27T13:05:55Z</crm-item>
+        <crm-item name="citedby-count" type="number">0</crm-item>
+        <doi_record>
+          
+          <report-paper>
+            <report-paper_metadata>
+              <contributors>
+                  <organization sequence="first" contributor_role="author">United States Interdepartmental Screw Thread Committee</organization>
+              </contributors>
+              <titles>
+                  <title>1950 supplement to screw-thread standards for federal services 1944</title>
+              </titles>
+              <publication_date media_type="online">
+                  <year>1951</year>
+              </publication_date>
+              <publisher>
+                  <publisher_name>National Bureau of Standards</publisher_name>
+                  <publisher_place>Gaithersburg, MD</publisher_place>
+              </publisher>
+              <institution>
+                  <institution_name>National Bureau of Standards</institution_name>
+                  <institution_acronym>NBS</institution_acronym>
+                  <institution_place>Gaithersburg, MD</institution_place>
+              </institution>
+              <publisher_item>
+                  <item_number item_number_type="report-number">NBS HB 28 supp1950</item_number>
+              </publisher_item>
+              <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+                  <fr:assertion name="funder_name">
+                     <fr:assertion name="funder_identifier">http://dx.doi.org/10.13039/error:</fr:assertion>
+                  </fr:assertion>
+              </fr:program>
+              <doi_data>
+                  <doi>10.6028/NBS.HB.28supp1950</doi>
+                  <resource>https://nvlpubs.nist.gov/nistpubs/Legacy/HB/1951/NBS.HB.28supp1950.pdf</resource>
+              </doi_data>
+            </report-paper_metadata>
+          </report-paper>
+          
+        </doi_record>
+      </query>
+    </body>

@@ -22,7 +22,9 @@ header #title {
     color: #fff;
 }
 
-
+header a{
+    color: #fff;
+}
    
  a {
     text-decoration: none;
