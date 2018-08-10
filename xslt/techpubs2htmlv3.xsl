@@ -91,24 +91,29 @@
                 <link rel="stylesheet" type="text/css" href="./css/accordian.css"/>
             </head>
             <body>
+                <a name="top"></a>
                 <img src="nistident_fleft_300ppi.png" alt="NIST ISO Logo" width="200" height="103"/>
                 <img src="iso_logo_yellow-dark-blue_sm.png" alt="NIST ISO Logo" width="120"
                     height="103"/>
                 <div id="container">
                     <header id="header">
                         <h1 id="title">NIST Technical Series Publication Index</h1>
+                        <h3><a href="https://www.nist.gov/nist-research-library/nist-series-publications">Series Descriptions</a></h3>
                     </header>
                     <!-- Navigation -->
                     <nav id="menu" class="clearfix">
                         <ul>
                             <li><a href="../public/index.html">Home</a></li>
-                            <li><a href="https://www.nist.gov/nist-research-library/nist-series-publications">Series Descriptions</a></li>
+                            <li><a href="./date.html">Sort All by Date</a></li>
+                            <li><a href="#filter">Filter by Series</a></li>
+                            <li><a href="#top">Back to Top</a></li>
                         </ul>
                     </nav> 
                     
 
 
                     <!-- Main content -->
+                    
                     <xsl:choose>
                         <xsl:when test="$report-type = ''">
                             <section id="content">
@@ -157,11 +162,9 @@
 
 
                     <!-- Sidebar -->
-                    <aside id="sidebar">
-                        <h3 class="art-title">
-                            <a href="./date.html">Sort All by Date</a>
-                        </h3>
-                        <br/> 
+                    <a name="filter"></a>
+                    <aside id="sidebar"> 
+                        <br/>
                         <h3 class="art-title">
                             Filter by Series
                         </h3>
@@ -190,6 +193,7 @@
                         <p><a href="./SP.html">Special Publications</a></p>
                         <p><a href="./TIBM.html">Technical Information on Building Materials</a></p>
                         <p><a href="./TN.html">Technical Notes</a></p>
+                        <p><a href="./TTB.html">Technology Transfer Brief</a></p>
                        
                         <!-- Sidebar content -->
                     </aside>

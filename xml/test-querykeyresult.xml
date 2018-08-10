@@ -48,7 +48,7 @@
       
       </doi_record>
   </query>
-  <query key="MP">
+  <query key="">
       <doi type="report-paper_title">10.6028/NBS.MP.76</doi>
       <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
       <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -94,7 +94,7 @@
       
       </doi_record>
   </query>
-  <query key="HB">
+  <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.130-1979</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -145,7 +145,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.130-1982</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -196,7 +196,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.130-1983</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -247,7 +247,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.130-1984</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -298,7 +298,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.130-1985</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -349,7 +349,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.130-1986</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -403,7 +403,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.130-1987</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -457,7 +457,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.130-1988</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -511,7 +511,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.131</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -577,7 +577,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.132</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -635,7 +635,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.133</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -697,7 +697,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.133e2</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -759,7 +759,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.134</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -821,7 +821,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.135</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -875,7 +875,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.135r1987</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -929,7 +929,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.136</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -980,7 +980,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.137</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -1034,7 +1034,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.138</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -1092,7 +1092,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.14</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -1143,7 +1143,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.140</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -1237,7 +1237,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.141</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -1295,7 +1295,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.142</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -1346,7 +1346,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.143</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -1404,7 +1404,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.145</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -1462,7 +1462,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.15</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -1513,7 +1513,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.16</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -1564,7 +1564,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.17</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -1615,7 +1615,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.18</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -1666,7 +1666,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.19</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -1717,7 +1717,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.2</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -1768,7 +1768,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.20</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -1822,7 +1822,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.21</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -1873,7 +1873,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.22</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -1924,7 +1924,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.23</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -1975,7 +1975,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.24</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -2026,7 +2026,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.25</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -2077,7 +2077,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.26</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -2131,7 +2131,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.27</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -2182,7 +2182,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.28-1942</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -2233,7 +2233,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.28-1944</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -2284,7 +2284,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.28p11969</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -2335,7 +2335,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.28supp1949</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -2386,7 +2386,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.28supp1950</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -2437,7 +2437,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.28supp1957pt1</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -2488,7 +2488,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.28supp1957pt2</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
@@ -2539,7 +2539,7 @@
           
         </doi_record>
       </query>
-      <query key="HB">
+      <query key="">
         <doi type="report-paper_title">10.6028/NBS.HB.28supp1957pt3</doi>
         <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
         <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>

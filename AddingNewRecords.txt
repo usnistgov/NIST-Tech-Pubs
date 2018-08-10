@@ -1,0 +1,39 @@
+Steps to adding records to TechPubs2HTML
+
+1. Get JSON file of all DOIs deposited since you last added to the records (date is inclusive)
+	JSON file from CrossRef API HTTP query: https://api.crossref.org/prefixes/10.6028/works?filter=type:report,from-deposit-date:YYYY-MM-DD
+
+2. Parse out DOIs (may need to open JSON file in OXYGEN to read it better)
+
+3. Submit a DOI query to CrossRef
+	Sign in to CrossRed admin
+	Go here: https://doi.crossref.org/servlet/submissionAdmin?sf=doiQuery
+	Paste in DOIs
+	Choose format UNIXSD
+	Hit Submit
+
+5. Make sure the TechPubs2HTML OXYGEN Project is Open
+
+6. Copy results from #3 to a new XML file in OXYGEN
+
+7. Delete everything before the <body> element
+
+8. Do a Find and Delete (or Find/replace with nothing) of this entire element:        
+
+<crossref xmlns="http://www.crossref.org/xschema/1.1" xsi:schemaLocation="http://www.crossref.org/xschema/1.1 http://doi.crossref.org/schemas/unixref1.1.xsd">
+
+Don't forget to delete the end as well: </crossref>
+
+9. save XML file in the TechPubs2HTML/XML folder
+	use file naming structure: from-deposit-date:YYYY-MM-DD.xml
+
+10. Run the AllRecords2QueryKey transformation scenario on this file.
+
+11. Copy everything between the <body> elements from this new -querykeyresult.xml file to before the </body> element at the end of allrecords-querykeyresult.xml
+
+12. Save file allrecords-querykeyresult.xml and run the AllRecords2HTML-advanced transformation scenario to get the updated HTML page
+
+13. 
+
+
+

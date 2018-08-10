@@ -45,8 +45,11 @@ a:hover {
 nav {
     width: 97%;
     background-color: #eee;
-    border-bottom: solid #666 1pt;
-    padding: 0 1.5% 0 1.5%;
+    border-bottom: solid #666 0.5pt;
+    padding: 1px 1.5% 1px 1.5% ;
+      position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 }
 
 nav ul li {
@@ -102,7 +105,7 @@ aside {
     padding: 3%;
     width: 24%;
     background-color: #eee;
-   
+  
  }
  
 aside a{
