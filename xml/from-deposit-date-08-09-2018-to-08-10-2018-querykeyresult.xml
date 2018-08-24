@@ -1,0 +1,141 @@
+<body>          
+   <query key="TTB">
+                <doi type="report-paper_title">10.6028/NIST.TTB.1</doi>
+                <crm-item name="publisher-name" type="string">
+                    National Institute of Standards and Technology (NIST)
+                </crm-item>
+                <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+                <crm-item name="member-id" type="number">4068</crm-item>
+                <crm-item name="citation-id" type="number">100518851</crm-item>
+                <crm-item name="book-id" type="number">3101664</crm-item>
+                <crm-item name="deposit-timestamp" type="number">201808091433</crm-item>
+                <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+                <crm-item name="last-update" type="date">2018-08-09T18:35:38Z</crm-item>
+                <crm-item name="created" type="date">2018-08-09T18:35:38Z</crm-item>
+                <crm-item name="citedby-count" type="number">0</crm-item>
+                <doi_record>
+                                            <report-paper>
+                            <report-paper_metadata>
+                                <contributors>
+                                    <person_name sequence="first" contributor_role="author">
+                                        <given_name>Nicole</given_name>
+                                        <surname>Gingrich</surname>
+                                    </person_name>
+                                </contributors>
+                                <titles>
+                                    <title>
+                                        Federal office of research and technology applications survey results
+                                    </title>
+                                </titles>
+                                <publication_date media_type="online">
+                                    <month>08</month>
+                                    <year>2018</year>
+                                </publication_date>
+                                <publisher>
+                                    <publisher_name>National Institute of Standards and Technology</publisher_name>
+                                    <publisher_place>Gaithersburg, MD</publisher_place>
+                                </publisher>
+                                <institution>
+                                    <institution_name>National Institute of Standards and Technology</institution_name>
+                                    <institution_acronym>NIST</institution_acronym>
+                                    <institution_place>Gaithersburg, MD</institution_place>
+                                    <institution_department>National Institute of Standards and Technology</institution_department>
+                                </institution>
+                                <publisher_item>
+                                    <item_number item_number_type="report-number">NIST TTB 1</item_number>
+                                </publisher_item>
+                                <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+                                    <fr:assertion name="funder_name">
+                                        National Institute of Standards and Technology
+                                        <fr:assertion name="funder_identifier">https://doi.org/10.13039/100000161</fr:assertion>
+                                    </fr:assertion>
+                                </fr:program>
+                                <doi_data>
+                                    <doi>10.6028/NIST.TTB.1</doi>
+                                    <resource>
+                                        https://nvlpubs.nist.gov/nistpubs/ttb/NIST.TTB.1.pdf
+                                    </resource>
+                                </doi_data>
+                            </report-paper_metadata>
+                        </report-paper>
+                </doi_record>
+            </query>
+            <query key="TN">
+                <doi type="report-paper_title">10.6028/NIST.TN.1975r1</doi>
+                <crm-item name="publisher-name" type="string">
+                    National Institute of Standards and Technology (NIST)
+                </crm-item>
+                <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+                <crm-item name="member-id" type="number">4068</crm-item>
+                <crm-item name="citation-id" type="number">100518852</crm-item>
+                <crm-item name="book-id" type="number">2589748</crm-item>
+                <crm-item name="deposit-timestamp" type="number">201808091433</crm-item>
+                <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+                <crm-item name="last-update" type="date">2018-08-09T18:35:39Z</crm-item>
+                <crm-item name="created" type="date">2018-08-09T18:35:38Z</crm-item>
+                <crm-item name="citedby-count" type="number">0</crm-item>
+                <doi_record>
+                                            <report-paper>
+                            <report-paper_metadata>
+                                <contributors>
+                                    <person_name sequence="first" contributor_role="author">
+                                        <given_name>Joshua</given_name>
+                                        <surname>Kneifel</surname>
+                                    </person_name>
+                                    <person_name sequence="additional" contributor_role="author">
+                                        <given_name>Eric</given_name>
+                                        <surname>O'Rear</surname>
+                                    </person_name>
+                                    <person_name sequence="additional" contributor_role="author">
+                                        <given_name>Shannon</given_name>
+                                        <surname>Grubb</surname>
+                                    </person_name>
+                                    <person_name sequence="additional" contributor_role="author">
+                                        <given_name>Anne Landfield</given_name>
+                                        <surname>Greig</surname>
+                                    </person_name>
+                                    <person_name sequence="additional" contributor_role="author">
+                                        <given_name>Sangwon</given_name>
+                                        <surname>Suh</surname>
+                                    </person_name>
+                                </contributors>
+                                <titles>
+                                    <title>
+                                        Building industry reporting and design for sustainability (BIRDS) commercial database technical manual: update
+                                    </title>
+                                </titles>
+                                <publication_date media_type="online">
+                                    <month>08</month>
+                                    <year>2018</year>
+                                </publication_date>
+                                <publisher>
+                                    <publisher_name>National Institute of Standards and Technology</publisher_name>
+                                    <publisher_place>Gaithersburg, MD</publisher_place>
+                                </publisher>
+                                <institution>
+                                    <institution_name>National Institute of Standards and Technology</institution_name>
+                                    <institution_acronym>NIST</institution_acronym>
+                                    <institution_place>Gaithersburg, MD</institution_place>
+                                    <institution_department>Engineering Laboratory</institution_department>
+                                </institution>
+                                <publisher_item>
+                                    <item_number item_number_type="report-number">NIST TN 1975r1</item_number>
+                                </publisher_item>
+                                <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+                                    <fr:assertion name="funder_name">
+                                        Engineering Laboratory
+                                        <fr:assertion name="funder_identifier">https://doi.org/10.13039/100007763</fr:assertion>
+                                    </fr:assertion>
+                                </fr:program>
+                                <doi_data>
+                                    <doi>10.6028/NIST.TN.1975r1</doi>
+                                    <resource>
+                                        https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1975r1.pdf
+                                    </resource>
+                                </doi_data>
+                            </report-paper_metadata>
+                        </report-paper>
+                   
+                </doi_record>
+            </query>
+</body>

@@ -1,0 +1,361 @@
+        <body>
+            <query key="" status="resolved">
+                <doi type="report-paper_title">10.6028/NIST.EAB.10</doi>
+                <crm-item name="publisher-name" type="string"> National Institute of Standards and
+                    Technology (NIST) </crm-item>
+                <crm-item name="prefix-name" type="string">National Institute of Standards and
+                    Technology</crm-item>
+                <crm-item name="member-id" type="number">4068</crm-item>
+                <crm-item name="citation-id" type="number">100596269</crm-item>
+                <crm-item name="book-id" type="number">3102879</crm-item>
+                <crm-item name="deposit-timestamp" type="number">201808131540</crm-item>
+                <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+                <crm-item name="last-update" type="date">2018-08-13T19:41:59Z</crm-item>
+                <crm-item name="created" type="date">2018-08-13T19:41:59Z</crm-item>
+                <crm-item name="citedby-count" type="number">0</crm-item>
+                <doi_record>
+                    
+                        <report-paper>
+                            <report-paper_metadata>
+                                <contributors>
+                                    <person_name sequence="first" contributor_role="author">
+                                        <given_name>Nicole</given_name>
+                                        <surname>Gingrich</surname>
+                                    </person_name>
+                                    <person_name sequence="additional" contributor_role="author">
+                                        <given_name>Isaac</given_name>
+                                        <surname>Patterson</surname>
+                                    </person_name>
+                                </contributors>
+                                <titles>
+                                    <title>NIST customer demographics: patent licenses</title>
+                                </titles>
+                                <publication_date media_type="online">
+                                    <month>08</month>
+                                    <year>2018</year>
+                                </publication_date>
+                                <publisher>
+                                    <publisher_name>National Institute of Standards and
+                                        Technology</publisher_name>
+                                    <publisher_place>Gaithersburg, MD</publisher_place>
+                                </publisher>
+                                <institution>
+                                    <institution_name>National Institute of Standards and
+                                        Technology</institution_name>
+                                    <institution_acronym>NIST</institution_acronym>
+                                    <institution_place>Gaithersburg, MD</institution_place>
+                                    <institution_department>National Institute of Standards and
+                                        Technology.</institution_department>
+                                </institution>
+                                <publisher_item>
+                                    <item_number item_number_type="report-number">NIST EAB
+                                        10</item_number>
+                                </publisher_item>
+                                <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd"
+                                    name="fundref">
+                                    <fr:assertion name="funder_name"> National Institute of
+                                        Standards and Technology. <fr:assertion
+                                            name="funder_identifier"
+                                            >https://doi.org/10.13039/100000161</fr:assertion>
+                                    </fr:assertion>
+                                </fr:program>
+                                <doi_data>
+                                    <doi>10.6028/NIST.EAB.10</doi>
+                                    <resource> https://nvlpubs.nist.gov/nistpubs/eab/NIST.EAB.10.pdf
+                                    </resource>
+                                </doi_data>
+                            </report-paper_metadata>
+                        </report-paper>
+                    
+                </doi_record>
+            </query>
+            <query key="" status="resolved">
+                <doi type="report-paper_title">10.6028/NIST.EAB.11</doi>
+                <crm-item name="publisher-name" type="string"> National Institute of Standards and
+                    Technology (NIST) </crm-item>
+                <crm-item name="prefix-name" type="string">National Institute of Standards and
+                    Technology</crm-item>
+                <crm-item name="member-id" type="number">4068</crm-item>
+                <crm-item name="citation-id" type="number">100596272</crm-item>
+                <crm-item name="book-id" type="number">3102880</crm-item>
+                <crm-item name="deposit-timestamp" type="number">201808131540</crm-item>
+                <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+                <crm-item name="last-update" type="date">2018-08-13T19:42:00Z</crm-item>
+                <crm-item name="created" type="date">2018-08-13T19:41:59Z</crm-item>
+                <crm-item name="citedby-count" type="number">0</crm-item>
+                <doi_record>
+                    
+                        <report-paper>
+                            <report-paper_metadata>
+                                <contributors>
+                                    <person_name sequence="first" contributor_role="author">
+                                        <given_name>Nicole</given_name>
+                                        <surname>Gingrich</surname>
+                                    </person_name>
+                                    <person_name sequence="additional" contributor_role="author">
+                                        <given_name>Isaac</given_name>
+                                        <surname>Patterson</surname>
+                                    </person_name>
+                                </contributors>
+                                <titles>
+                                    <title>NIST customer demographics: calibrations</title>
+                                </titles>
+                                <publication_date media_type="online">
+                                    <month>08</month>
+                                    <year>2018</year>
+                                </publication_date>
+                                <publisher>
+                                    <publisher_name>National Institute of Standards and
+                                        Technology</publisher_name>
+                                    <publisher_place>Gaithersburg, MD</publisher_place>
+                                </publisher>
+                                <institution>
+                                    <institution_name>National Institute of Standards and
+                                        Technology</institution_name>
+                                    <institution_acronym>NIST</institution_acronym>
+                                    <institution_place>Gaithersburg, MD</institution_place>
+                                    <institution_department>National Institute of Standards and
+                                        Technology.</institution_department>
+                                </institution>
+                                <publisher_item>
+                                    <item_number item_number_type="report-number">NIST EAB
+                                        11</item_number>
+                                </publisher_item>
+                                <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd"
+                                    name="fundref">
+                                    <fr:assertion name="funder_name"> National Institute of
+                                        Standards and Technology. <fr:assertion
+                                            name="funder_identifier"
+                                            >https://doi.org/10.13039/100000161</fr:assertion>
+                                    </fr:assertion>
+                                </fr:program>
+                                <doi_data>
+                                    <doi>10.6028/NIST.EAB.11</doi>
+                                    <resource> https://nvlpubs.nist.gov/nistpubs/eab/NIST.EAB.11.pdf
+                                    </resource>
+                                </doi_data>
+                            </report-paper_metadata>
+                        </report-paper>
+                    
+                </doi_record>
+            </query>
+            <query key="" status="resolved">
+                <doi type="report-paper_title">10.6028/NIST.SP.260-190</doi>
+                <crm-item name="publisher-name" type="string"> National Institute of Standards and
+                    Technology (NIST) </crm-item>
+                <crm-item name="prefix-name" type="string">National Institute of Standards and
+                    Technology</crm-item>
+                <crm-item name="member-id" type="number">4068</crm-item>
+                <crm-item name="citation-id" type="number">100596274</crm-item>
+                <crm-item name="book-id" type="number">3102881</crm-item>
+                <crm-item name="deposit-timestamp" type="number">201808131540</crm-item>
+                <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+                <crm-item name="last-update" type="date">2018-08-13T19:42:01Z</crm-item>
+                <crm-item name="created" type="date">2018-08-13T19:41:59Z</crm-item>
+                <crm-item name="citedby-count" type="number">0</crm-item>
+                <doi_record>
+                    
+                        <report-paper>
+                            <report-paper_metadata>
+                                <contributors>
+                                    <person_name sequence="first" contributor_role="author">
+                                        <given_name>Chiara F</given_name>
+                                        <surname>Ferraris</surname>
+                                    </person_name>
+                                    <person_name sequence="additional" contributor_role="author">
+                                        <given_name>Max</given_name>
+                                        <surname>Peltz</surname>
+                                    </person_name>
+                                    <person_name sequence="additional" contributor_role="author">
+                                        <given_name>Blaza</given_name>
+                                        <surname>Toman</surname>
+                                    </person_name>
+                                </contributors>
+                                <titles>
+                                    <title> Certification of standard reference material® 46h:
+                                        fineness of cement - addition of Blaine and particle size
+                                        distribution </title>
+                                </titles>
+                                <publication_date media_type="online">
+                                    <month>08</month>
+                                    <year>2018</year>
+                                </publication_date>
+                                <publisher>
+                                    <publisher_name>National Institute of Standards and
+                                        Technology</publisher_name>
+                                    <publisher_place>Gaithersburg, MD</publisher_place>
+                                </publisher>
+                                <institution>
+                                    <institution_name>National Institute of Standards and
+                                        Technology</institution_name>
+                                    <institution_acronym>NIST</institution_acronym>
+                                    <institution_place>Gaithersburg, MD</institution_place>
+                                    <institution_department>Engineering
+                                        Laboratory</institution_department>
+                                </institution>
+                                <publisher_item>
+                                    <item_number item_number_type="report-number">NIST SP
+                                        260-190</item_number>
+                                </publisher_item>
+                                <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd"
+                                    name="fundref">
+                                    <fr:assertion name="funder_name"> Engineering Laboratory.
+                                            <fr:assertion name="funder_identifier"
+                                            >error:</fr:assertion>
+                                    </fr:assertion>
+                                </fr:program>
+                                <doi_data>
+                                    <doi>10.6028/NIST.SP.260-190</doi>
+                                    <resource>
+                                        https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.260-190.pdf
+                                    </resource>
+                                </doi_data>
+                            </report-paper_metadata>
+                        </report-paper>
+                    
+                </doi_record>
+            </query>
+            <query key="" status="resolved">
+                <doi type="report-paper_title">10.6028/NIST.SP.800-171A</doi>
+                <crm-item name="publisher-name" type="string"> National Institute of Standards and
+                    Technology (NIST) </crm-item>
+                <crm-item name="prefix-name" type="string">National Institute of Standards and
+                    Technology</crm-item>
+                <crm-item name="member-id" type="number">4068</crm-item>
+                <crm-item name="citation-id" type="number">98879936</crm-item>
+                <crm-item name="book-id" type="number">3102795</crm-item>
+                <crm-item name="deposit-timestamp" type="number">201808131032</crm-item>
+                <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+                <crm-item name="last-update" type="date">2018-08-13T14:34:56Z</crm-item>
+                <crm-item name="created" type="date">2018-06-06T18:49:37Z</crm-item>
+                <crm-item name="citedby-count" type="number">0</crm-item>
+                <doi_record>
+                    
+                        <report-paper>
+                            <report-paper_metadata>
+                                <contributors>
+                                    <person_name sequence="first" contributor_role="author">
+                                        <given_name>Ross</given_name>
+                                        <surname>Ron</surname>
+                                    </person_name>
+                                    <person_name sequence="first" contributor_role="author">
+                                        <given_name>Demspey</given_name>
+                                        <surname>Kelley</surname>
+                                    </person_name>
+                                    <person_name sequence="first" contributor_role="author">
+                                        <given_name>Pilliterri</given_name>
+                                        <surname>Victoria</surname>
+                                    </person_name>
+                                </contributors>
+                                <titles>
+                                    <title> Assessing security requirements for controlled
+                                        unclassified information </title>
+                                </titles>
+                                <publication_date media_type="online">
+                                    <month>06</month>
+                                    <year>2018</year>
+                                </publication_date>
+                                <publisher>
+                                    <publisher_name>National Institute of Standards and
+                                        Technology</publisher_name>
+                                    <publisher_place>Gaithersburg, MD</publisher_place>
+                                </publisher>
+                                <institution>
+                                    <institution_name>National Institute of Standards and
+                                        Technology</institution_name>
+                                    <institution_acronym>NIST</institution_acronym>
+                                    <institution_place>Gaithersburg, MD</institution_place>
+                                    <institution_department>Information Technology
+                                        Laboratory</institution_department>
+                                </institution>
+                                <publisher_item>
+                                    <item_number item_number_type="report-number">NIST SP
+                                        800-171A</item_number>
+                                </publisher_item>
+                                <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd"
+                                    name="fundref">
+                                    <fr:assertion name="funder_name"> Information Technology
+                                        Laboratory <fr:assertion name="funder_identifier"
+                                            >https://doi.org/10.13039/100007764R</fr:assertion>
+                                    </fr:assertion>
+                                </fr:program>
+                                <doi_data>
+                                    <doi>10.6028/NIST.SP.800-171A</doi>
+                                    <resource>
+                                        http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171A.pdf
+                                    </resource>
+                                </doi_data>
+                            </report-paper_metadata>
+                        </report-paper>
+                    
+                </doi_record>
+            </query>
+            <query key="" status="resolved">
+                <doi type="report-paper_title">10.6028/NIST.AMS.600-3</doi>
+                <crm-item name="publisher-name" type="string"> National Institute of Standards and
+                    Technology (NIST) </crm-item>
+                <crm-item name="prefix-name" type="string">National Institute of Standards and
+                    Technology</crm-item>
+                <crm-item name="member-id" type="number">4068</crm-item>
+                <crm-item name="citation-id" type="number">100534304</crm-item>
+                <crm-item name="book-id" type="number">3101978</crm-item>
+                <crm-item name="deposit-timestamp" type="number">201808101009</crm-item>
+                <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+                <crm-item name="last-update" type="date">2018-08-10T14:10:58Z</crm-item>
+                <crm-item name="created" type="date">2018-08-10T14:10:58Z</crm-item>
+                <crm-item name="citedby-count" type="number">0</crm-item>
+                <doi_record>
+                    
+                        <report-paper>
+                            <report-paper_metadata>
+                                <contributors>
+                                    <person_name sequence="first" contributor_role="author">
+                                        <given_name>Michael F</given_name>
+                                        <surname>Molnar</surname>
+                                    </person_name>
+                                </contributors>
+                                <titles>
+                                    <title> Manufacturing USA 2017 annual report: program report and
+                                        summary of institute activities </title>
+                                </titles>
+                                <publication_date media_type="online">
+                                    <month>08</month>
+                                    <year>2018</year>
+                                </publication_date>
+                                <publisher>
+                                    <publisher_name>National Institute of Standards and
+                                        Technology</publisher_name>
+                                    <publisher_place>Gaithersburg, MD</publisher_place>
+                                </publisher>
+                                <institution>
+                                    <institution_name>National Institute of Standards and
+                                        Technology</institution_name>
+                                    <institution_acronym>NIST</institution_acronym>
+                                    <institution_place>Gaithersburg, MD</institution_place>
+                                    <institution_department>National Institute of Standards and
+                                        Technology</institution_department>
+                                </institution>
+                                <publisher_item>
+                                    <item_number item_number_type="report-number">NIST AMS
+                                        600-3</item_number>
+                                </publisher_item>
+                                <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd"
+                                    name="fundref">
+                                    <fr:assertion name="funder_name"> National Institute of
+                                        Standards and Technology <fr:assertion
+                                            name="funder_identifier"
+                                            >https://doi.org/10.13039/100000161</fr:assertion>
+                                    </fr:assertion>
+                                </fr:program>
+                                <doi_data>
+                                    <doi>10.6028/NIST.AMS.600-3</doi>
+                                    <resource>
+                                        https://nvlpubs.nist.gov/nistpubs/ams/NIST.AMS.600-3.pdf
+                                    </resource>
+                                </doi_data>
+                            </report-paper_metadata>
+                        </report-paper>
+                    
+                </doi_record>
+            </query>
+        </body>
