@@ -138,6 +138,9 @@
                                     <li>
                                         <a href="#filter">Filter Reports by Series</a>
                                     </li>
+                                    <li>
+                                        <a href=".">Download List of Reports</a>
+                                    </li>
                                 </ul>
 
 
