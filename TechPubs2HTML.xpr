@@ -14,7 +14,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text - Public</String>
+                                        <String>AllRecords2HTML</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
