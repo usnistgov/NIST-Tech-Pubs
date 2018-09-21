@@ -12,20 +12,20 @@
     </xsl:template>
 
     <xsl:template match="body">
-        <xsl:text>Series</xsl:text>|<xsl:text>Report Number</xsl:text>|<xsl:text>Month Published</xsl:text>|<xsl:text>Year Published</xsl:text>|<xsl:text>Title</xsl:text>|<xsl:text>Authors</xsl:text>|<xsl:text>OU</xsl:text>|<xsl:text>DOI</xsl:text>|<xsl:text>URL</xsl:text>
+        <xsl:text>Series</xsl:text><xsl:text>&#x9;</xsl:text><xsl:text>Report Number</xsl:text><xsl:text>&#x9;</xsl:text><xsl:text>Month Published</xsl:text><xsl:text>&#x9;</xsl:text><xsl:text>Year Published</xsl:text><xsl:text>&#x9;</xsl:text><xsl:text>Title</xsl:text><xsl:text>&#x9;</xsl:text><xsl:text>Authors</xsl:text><xsl:text>&#x9;</xsl:text><xsl:text>OU</xsl:text><xsl:text>&#x9;</xsl:text><xsl:text>DOI</xsl:text><xsl:text>&#x9;</xsl:text><xsl:text>URL</xsl:text>
         <xsl:apply-templates/>
     </xsl:template>
     <xsl:strip-space elements="titles title subtitle"/>
     <xsl:template match="query">
         <xsl:value-of
-            select="@key"/>|<xsl:value-of
+            select="@key"/><xsl:text>&#x9;</xsl:text><xsl:value-of
             select="doi_record/report-paper/report-paper_metadata/publisher_item/item_number"
-            />|<xsl:value-of
+            /><xsl:text>&#x9;</xsl:text><xsl:value-of
             select="doi_record/report-paper/report-paper_metadata/publication_date/month"
-            />|<xsl:value-of
+            /><xsl:text>&#x9;</xsl:text><xsl:value-of
             select="doi_record/report-paper/report-paper_metadata/publication_date/year"
-            />|<xsl:call-template name="title"/>|<xsl:call-template name="authors"/>|<xsl:call-template name="OU"/>|<xsl:value-of select="doi_record/report-paper/report-paper_metadata/doi_data/doi"
-            />|<xsl:value-of
+            /><xsl:text>&#x9;</xsl:text><xsl:call-template name="title"/><xsl:text>&#x9;</xsl:text><xsl:call-template name="authors"/><xsl:text>&#x9;</xsl:text><xsl:call-template name="OU"/><xsl:text>&#x9;</xsl:text><xsl:value-of select="doi_record/report-paper/report-paper_metadata/doi_data/doi"
+            /><xsl:text>&#x9;</xsl:text><xsl:value-of
             select="doi_record/report-paper/report-paper_metadata/doi_data/resource"/>
     </xsl:template>
 
