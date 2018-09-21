@@ -25,6 +25,21 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>xslt/techpubs2htmlv4.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2HTML</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>xml/allrecords.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -77,21 +92,6 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>AllRecords2TextStep1</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>xslt/techpubs2htmlv4.xsl</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>AllRecords2HTML</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -606,10 +606,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/xml/NIST_Tech_Pubs_MASTER_${date(yyyy-MM-dd)}.txt</File>
+                                    <File>${pd}/public/NIST_Tech_Pubs_MASTER.txt</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/xml/NIST_Tech_Pubs_MASTER_${date(yyyy-MM-dd)}.txt</String>
+                                    <String>${pd}/public/NIST_Tech_Pubs_MASTER.txt</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>

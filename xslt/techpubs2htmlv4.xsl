@@ -139,7 +139,7 @@
                                         <a href="#filter">Filter Reports by Series</a>
                                     </li>
                                     <li>
-                                        <a href=".">Download List of Reports</a>
+                                        <a href="./NIST_Tech_Pubs_MASTER.xlsx">Download List of Reports</a>
                                     </li>
                                 </ul>
 
