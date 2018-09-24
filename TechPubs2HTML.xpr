@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xml/allrecords-new.xml</String>
+                                    <String>xslt/techpubs2htmlv4.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -25,7 +25,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xslt/techpubs2htmlv4.xsl</String>
+                                    <String>xml/allrecords-new.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

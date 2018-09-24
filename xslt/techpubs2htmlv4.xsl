@@ -79,7 +79,7 @@
         <xsl:param name="report-type"/>
         <html>
             <head>
-                <title>NIST Technical Publications Index</title>
+                <title>NIST Technical Publications List</title>
                 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
                 <link rel="stylesheet" type="text/css" href="./css/reset.css"/>
                 <link rel="stylesheet" type="text/css" href="./css/techpubs-html2.css"/>
@@ -92,7 +92,7 @@
                     height="103"/>
                 <div id="container">
                     <header id="header">
-                        <h1 id="title">NIST Technical Series Publication Index</h1>
+                        <h1 id="title">NIST Technical Series Publication List</h1>
 
                     </header>
                     <!-- Navigation -->
@@ -112,6 +112,7 @@
                     <xsl:choose>
                         <xsl:when test="$report-type = ''">
                             <section id="content">
+                                
                                 <h4 class="welcome">NIST Technical Series publications are written
                                     by or for NIST and published by the NIST Research Library. These
                                     publications consist of technical reports, recommendations,
@@ -142,6 +143,7 @@
                                         <a href="./NIST_Tech_Pubs_MASTER.xlsx">Download List of Reports</a>
                                     </li>
                                 </ul>
+                                <h4 class="welcome">Note: This website can only be accessed when connected to the NIST network.</h4>
 
 
                             </section>
