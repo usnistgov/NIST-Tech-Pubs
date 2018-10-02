@@ -1,0 +1,3 @@
+DOI Created|DOI Last Updated|Series|DOI of Final|Year Published|Month Published|Title|Authors|DOI|DURL
+   2018-09-19T20:18:29Z|2018-09-19T20:20:59Z|Draft|10.6028/NIST.IR.8225|2018|09|NIST Scientific Foundation Reviews|Butler, John M.|10.6028/NIST.IR.8225-draft|https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8225-draft.pdf
+   2018-09-19T20:22:44Z|2018-09-19T20:22:44Z|Draft|10.6028/NIST.IR.8228|2018|09|Considerations for Managing Internet of Things (IoT) Cybersecurity and Privacy Risks|Scarfone, Karen|10.6028/NIST.IR.8228-draft|https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8228-draft.pdf

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+   <query key="Draft" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8225-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">101538368</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201809191620</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2018-09-19T20:20:59Z</crm-item>
+      <crm-item name="created" type="date">2018-09-19T20:18:29Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>John M.</given_name>
+                  <surname>Butler</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>NIST Scientific Foundation Reviews</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>09</month>
+               <day>20</day>
+               <year>2018</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+           
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8225</intra_work_relation>
+               </related_item>
+            
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8225-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8225-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="Draft" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8228-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">101538414</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201809191620</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2018-09-19T20:22:44Z</crm-item>
+      <crm-item name="created" type="date">2018-09-19T20:22:44Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Karen</given_name>
+                  <surname>Scarfone</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Considerations for Managing Internet of Things (IoT) Cybersecurity and Privacy Risks</title>
+            </titles>
+            <posted_date>
+               <month>09</month>
+               <day>21</day>
+               <year>2018</year>
+            </posted_date>
+           
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8228</intra_work_relation>
+               </related_item>
+            
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8228-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8228-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+</body>
