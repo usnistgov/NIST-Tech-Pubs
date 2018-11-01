@@ -312,7 +312,7 @@
                 />
             </span>
             <br/>
-            <span class="doi_data"><label class="label">doi:</label><xsl:value-of
+            <span class="doi_data"><label class="label">doi:</label><!--<xsl:call-template name="doi"/>--><xsl:value-of
                     select="doi_record/report-paper/report-paper_metadata/doi_data/doi"
                     />&#160;&#124;&#160;<xsl:call-template name="resource"/></span>
             <br/>
@@ -401,6 +401,13 @@
         </xsl:choose>
 
     </xsl:template>
+   <!-- <xsl:template name="doi">
+        <a><xsl:attribute name="href"><xsl:text>https://doi.org/</xsl:text><xsl:value-of
+            select="doi_record/report-paper/report-paper_metadata/doi_data/doi"
+        /></xsl:attribute><xsl:value-of
+            select="doi_record/report-paper/report-paper_metadata/doi_data/doi"
+        /></a>
+    </xsl:template>-->
 
     <xsl:template name="resource">
         <a><xsl:attribute name="href"><xsl:value-of

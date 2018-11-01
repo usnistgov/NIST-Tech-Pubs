@@ -39,7 +39,7 @@ Steps to adding records to TechPubs2HTML
 
 7. Run the AllRecords2QueryKey transformation scenario to fill in the blank query key attribute with the series abbreviation.
 
-8. CTRL+F for query key="" ; theere should be 1 record that is still blank, fill it in with TN (an old TN was given a generic DOI becuase it was a duplicate pub number.
+8. CTRL+F for query key="" ; theere should be 1 record that is still blank, fill it in with TN (an old TN was given a generic DOI becuase it was a duplicate pub number).
 
 9. Run the AllRecords2TextStep1 transformation to remove all extra line breaks
 

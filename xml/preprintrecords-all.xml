@@ -36,11 +36,11 @@ posted_date: The date  when the posted content became available online
 
  relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
 -->
-           
+            <program xmlns="http://www.crossref.org/relations.xsd">
                <related_item>
                   <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8225</intra_work_relation>
                </related_item>
-            
+            </program>
             <!--  DOI and URL (required)  -->
             <doi_data>
                <doi>10.6028/NIST.IR.8225-draft</doi>
@@ -72,20 +72,142 @@ posted_date: The date  when the posted content became available online
             <titles>
                <title>Considerations for Managing Internet of Things (IoT) Cybersecurity and Privacy Risks</title>
             </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
             <posted_date>
                <month>09</month>
                <day>21</day>
                <year>2018</year>
             </posted_date>
-           
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
                <related_item>
                   <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8228</intra_work_relation>
                </related_item>
-            
+            </program>
             <!--  DOI and URL (required)  -->
             <doi_data>
                <doi>10.6028/NIST.IR.8228-draft</doi>
                <resource>https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8228-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="Draft" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.1229-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">102443072</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201810310925</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2018-10-31T13:29:47Z</crm-item>
+      <crm-item name="created" type="date">2018-10-31T13:29:46Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Joe</given_name>
+                  <surname>Falco</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Karl</given_name>
+                  <surname>Van Wyk</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Elena</given_name>
+                  <surname>Messina</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Proposed Standard Terminology for Robotic Hands and Associated Performance Metrics</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>10</month>
+               <day>31</day>
+               <year>2018</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.1229</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.1229-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1229-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="Draft" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.1227-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">102443074</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201810310925</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2018-10-31T13:29:48Z</crm-item>
+      <crm-item name="created" type="date">2018-10-31T13:29:46Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Joe</given_name>
+                  <surname>Falco</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Karl</given_name>
+                  <surname>Van Wyk</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Elena</given_name>
+                  <surname>Messina</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Performance Metrics and Test Methods for Robotic Hands</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>10</month>
+               <day>31</day>
+               <year>2018</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.1227</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.1227-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1227-draft.pdf</resource>
             </doi_data>
          </posted_content>
       </doi_record>
