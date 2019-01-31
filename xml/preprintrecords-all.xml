@@ -212,4 +212,106 @@ posted_date: The date  when the posted content became available online
          </posted_content>
       </doi_record>
    </query>
+   <query key="Draft" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8196-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">103091596</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201811290906</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2018-11-29T14:15:33Z</crm-item>
+      <crm-item name="created" type="date">2018-11-29T14:15:32Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Joshua</given_name>
+                  <surname>Franklin</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Security Analysis of the Personal Area Network: The Future of Public Safety Technology</title>
+            </titles>
+            <!--
+                     
+                
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>11</month>
+               <day>30</day>
+               <year>2018</year>
+            </posted_date>
+            <!--
+                     
+                
+ relationship established with final DOI, can only input when final DOI has been registered)
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8196</intra_work_relation>
+               </related_item>
+            </program>
+            <!--   DOI and URL (required)   -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8196-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8196-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="Draft" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.800-189-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">103386515</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201812141507</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2018-12-14T20:10:59Z</crm-item>
+      <crm-item name="created" type="date">2018-12-12T20:35:14Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Kotikalapudi</given_name>
+                  <surname>Sriram</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Secure Interdomain Traffic Exchange</title>
+            </titles>
+            <!--
+                     
+                     
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>12</month>
+               <day>14</day>
+               <year>2018</year>
+            </posted_date>
+            <!--
+                     
+                     
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.800-189</intra_work_relation>
+               </related_item>
+            </program>
+            <!--   DOI and URL (required)   -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.800-189-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-189-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
 </body>
