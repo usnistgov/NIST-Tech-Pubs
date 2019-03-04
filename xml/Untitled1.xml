@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+   <query key="GCR">
+      <doi type="report-paper_title">10.6028/NIST.GCR.19-020</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">105077565</crm-item>
+      <crm-item name="book-id" type="number">3252849</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201902281113</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-02-28T17:22:28Z</crm-item>
+      <crm-item name="created" type="date">2019-02-28T17:22:27Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <report-paper>
+            <report-paper_metadata>
+               <contributors>
+                  <person_name sequence="first" contributor_role="author">
+                     <given_name>Robert</given_name>
+                     <surname>Pickering</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                     <given_name>Kathleen</given_name>
+                     <surname>Onorevole</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                     <given_name>Rob</given_name>
+                     <surname>Greenwood</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                     <given_name>Sarah</given_name>
+                     <surname>Shadid</surname>
+                  </person_name>
+               </contributors>
+               <titles>
+                  <title>Measurement science roadmap workshop for water use efficiency and water quality in premise plumbing systems, August 1-2, 2018:</title>
+                  <subtitle>Synthesis of a workshop organized by the National Institute of Standards and Technology, U.S. Environmental Protection Agency, and Water Research Foundation</subtitle>
+               </titles>
+               <publication_date media_type="online">
+                  <month>12</month>
+                  <year>2018</year>
+               </publication_date>
+               <publisher>
+                  <publisher_name>National Institute of Standards and Technology</publisher_name>
+                  <publisher_place>Gaithersburg, MD</publisher_place>
+               </publisher>
+               <institution>
+                  <institution_name>National Institute of Standards and Technology</institution_name>
+                  <institution_acronym>NIST</institution_acronym>
+                  <institution_place>Gaithersburg, MD</institution_place>
+                  <institution_department>Engineering Laboratory</institution_department>
+               </institution>
+               <publisher_item>
+                  <item_number item_number_type="report-number">NIST GCR 19-020</item_number>
+               </publisher_item>
+               <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+                  <fr:assertion name="funder_name">Engineering Laboratory<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007763</fr:assertion>
+                  </fr:assertion>
+               </fr:program>
+               <doi_data>
+                  <doi>10.6028/NIST.GCR.19-020</doi>
+                  <resource>https://nvlpubs.nist.gov/nistpubs/gcr/2019/NIST.GCR.19-020.pdf</resource>
+               </doi_data>
+            </report-paper_metadata>
+         </report-paper>
+      </doi_record>
+   </query>
+   <query key="LCIRC">
+      <doi type="report-paper_title">10.6028/NBS.LCIRC.811r1945</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">105079259</crm-item>
+      <crm-item name="book-id" type="number">3166667</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201902281319</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-02-28T18:22:36Z</crm-item>
+      <crm-item name="created" type="date">2019-02-28T18:22:36Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <report-paper>
+            <report-paper_metadata>
+               <contributors>
+                  <organization sequence="first" contributor_role="author">National Bureau of Standards</organization>
+               </contributors>
+               <titles>
+                  <title>Letter Circular 811:</title>
+                  <subtitle>publications relating to building codes and construction practice home building -- building material specifications -- home maintenance (superseding Letter Circular 796)</subtitle>
+               </titles>
+               <publication_date media_type="online">
+                  <year>1945</year>
+               </publication_date>
+               <publisher>
+                  <publisher_name>National Institute of Standards and Technology</publisher_name>
+                  <publisher_place>Gaithersburg, MD</publisher_place>
+               </publisher>
+               <institution>
+                  <institution_name>National Institute of Standards and Technology</institution_name>
+                  <institution_acronym>NBS</institution_acronym>
+                  <institution_place>Gaithersburg, MD</institution_place>
+               </institution>
+               <publisher_item>
+                  <item_number item_number_type="report-number">LCIRC 811r1945</item_number>
+               </publisher_item>
+               <doi_data>
+                  <doi>10.6028/NBS.LCIRC.811r1945</doi>
+                  <resource>http://nvlpubs.nist.gov/nistpubs/Legacy/LC/nbslettercircular811r1945.pdf</resource>
+               </doi_data>
+            </report-paper_metadata>
+         </report-paper>
+      </doi_record>
+   </query>
+</body>
