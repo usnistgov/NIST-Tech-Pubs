@@ -10,6 +10,25 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>xml/allrecords-28mar2019.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2Text - Public</String>
+                                        <String>AllRecords2Text</String>
+                                        <String>AllRecords2HTML</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>xml/preprintrecords-15mar2019.xml</String>
                                 </field>
                                 <field name="scenarioIds">
