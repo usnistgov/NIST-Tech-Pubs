@@ -10,19 +10,49 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xml/allrecords-28mar2019.xml</String>
+                                    <String>xml/allrecords-29mar-to-30apr.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
+                                        <String>AllRecords2Text - Public</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
                                         <String>XSL</String>
                                         <String>XSL</String>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>DOILIST-from-deposit-date2019-03-29-to-2019-04-30.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>DOI-LIST</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/preprintrecords-25Apr2019.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2Text-Preprint</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
                                         <String>XSL</String>
                                     </list>
                                 </field>
@@ -38,6 +68,25 @@
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/allrecords-28mar2019.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2Text - Public</String>
+                                        <String>AllRecords2Text</String>
+                                        <String>AllRecords2HTML</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
                                 </field>
@@ -1400,10 +1449,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/doi list/DOIlist.txt</File>
+                                    <File>${pd}/doilist.txt</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/doi list/DOIlist.txt</String>
+                                    <String>${pd}/doilist.txt</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>

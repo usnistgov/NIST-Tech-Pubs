@@ -8,8 +8,8 @@
         <xsl:apply-templates/>
     </xsl:template>
     
-    <xsl:template match="root">
-        <xsl:for-each select="message/items/element">
+    <xsl:template match="message">
+        <xsl:for-each select="items">
         <xsl:value-of select="DOI"/>
             <xsl:text>&#10;</xsl:text>
         </xsl:for-each>
