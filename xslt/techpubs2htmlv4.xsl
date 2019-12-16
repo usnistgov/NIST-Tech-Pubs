@@ -89,7 +89,7 @@
                 
                 <div style="margin-left:25px; margin-top:25px">
                     <a href="https://inet.nist.gov/nvl">
-                        <img src="NIST-research-library.png"  height="79px" width="186px" alt="Library logo" title="Return to NIST Research Library" border="none"/>
+                        <img src="NIST-research-library.png"  height="79px" width="186px" alt="Library logo" title="NIST Research Library" border="none"/>
                     </a>
                 </div>
                 <div id="container">
@@ -116,7 +116,7 @@
                             <section id="content">
                                 
                                 
-                                <h2 class="quicklinks">Quick Links</h2>
+                                <h4 class="welcome">Quick Links</h4>
                                 <ul>
                                     <li>
                                         <a href="https://inet.nist.gov/library/publishing-support-nist-publications/nist-technical-series-publications">How to Publish a Report</a>
@@ -140,7 +140,7 @@
                                     
                                 </ul>
                                 
-                                <h4 class="note">
+                                <h4 class="welcome">
                                     <p>NIST Technical Series publications are written
                                         by or for NIST and published by the NIST Research Library. These
                                         publications consist of technical reports, recommendations,
