@@ -86,10 +86,12 @@
                 <link rel="stylesheet" type="text/css" href="./css/accordian.css"/>
             </head>
             <body>
-                <a name="top"/>
-                <img src="nistident_fleft_300ppi.png" alt="NIST ISO Logo" width="200" height="103"/>
-                <img src="iso_logo_yellow-dark-blue_sm.png" alt="NIST ISO Logo" width="120"
-                    height="103"/>
+                
+                <div style="margin-left:25px; margin-top:25px">
+                    <a href="https://inet.nist.gov/nvl">
+                        <img src="NIST-research-library.png"  height="79px" width="186px" alt="Library logo" title="Return to NIST Research Library" border="none"/>
+                    </a>
+                </div>
                 <div id="container">
                     <header id="header">
                         <h1 id="title">NIST Technical Series Publication List</h1>
@@ -113,37 +115,46 @@
                         <xsl:when test="$report-type = ''">
                             <section id="content">
                                 
-                                <h4 class="welcome">NIST Technical Series publications are written
-                                    by or for NIST and published by the NIST Research Library. These
-                                    publications consist of technical reports, recommendations,
-                                    practice guides, industry handbooks, and other similar technical
-                                    documents intended for external distribution. All NIST Technical
-                                    Series publications are assigned <a
-                                        href="https://csrc.nist.gov/Publications/DOI">Digital Object
-                                        Identifiers (DOIs)</a> to ensure continuing public access
-                                    and deposited with the <a
-                                        href="https://www.govinfo.gov/collection/nist">United States
-                                        Government Publishing Office (GPO)</a> to ensure digital
-                                    preservation.</h4>
-                                <h4 class="welcome">Quick Links</h4>
+                                
+                                <h2 class="quicklinks">Quick Links</h2>
                                 <ul>
                                     <li>
-                                        <a href="./date.html">View All Reports</a>
+                                        <a href="https://inet.nist.gov/library/publishing-support-nist-publications/nist-technical-series-publications">How to Publish a Report</a>
                                     </li>
                                     <li>
                                         <a
                                             href="https://www.nist.gov/nist-research-library/nist-series-publications"
                                             >Series Descriptions</a>
                                     </li>
-
+                                    
+                                    <li>
+                                        <a href="./date.html">View All Reports</a>
+                                    </li>
+                                   
                                     <li>
                                         <a href="#filter">Filter Reports by Series</a>
                                     </li>
                                     <li>
-                                        <a href="./NIST_Tech_Pubs_MASTER.xlsx">Download List of Reports</a>
+                                        <a href="./NIST_Tech_Pubs_MASTER.xlsx">Download Full List of Reports</a>
                                     </li>
+                                    
                                 </ul>
-                                <h4 class="welcome">Note: This website can only be accessed when connected to the NIST network.</h4>
+                                
+                                <h4 class="note">
+                                    <p>NIST Technical Series publications are written
+                                        by or for NIST and published by the NIST Research Library. These
+                                        publications consist of technical reports, recommendations,
+                                        practice guides, industry handbooks, and other similar technical
+                                        documents intended for external distribution. All NIST Technical
+                                        Series publications are assigned <a
+                                            href="https://csrc.nist.gov/Publications/DOI">Digital Object
+                                            Identifiers (DOIs)</a> to ensure continuing public access
+                                        and deposited with the <a
+                                            href="https://www.govinfo.gov/collection/nist">United States
+                                            Government Publishing Office (GPO)</a> to ensure digital
+                                        preservation.</p>
+                                        
+                                   <p> Note: This website can only be accessed when connected to the NIST network.</p></h4>
 
 
                             </section>

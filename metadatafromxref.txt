@@ -1,0 +1,1639 @@
+
+   
+      10.6028/NBS.HR.1-1A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719760
+      3377849
+      201907301650
+      10.6028
+      2019-07-30T20:55:15Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.1-1A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hlb-a1-1A.pdf|HLB-A 1-1A
+         
+      
+   
+   
+      10.6028/NBS.HR.1-2A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719762
+      3377849
+      201907301650
+      10.6028
+      2019-07-30T20:55:15Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.1-2A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hlb-a1-2A.pdf|HLB-A 1-2A
+         
+      
+   
+   
+      10.6028/NBS.HR.1-3A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719764
+      3377849
+      201907301650
+      10.6028
+      2019-07-30T20:55:16Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.1-3A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hlb-a1-3A.pdf|HLB-A 1-3A
+         
+      
+   
+   
+      10.6028/NBS.HR.2-1A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719766
+      3377849
+      201907301650
+      10.6028
+      2019-07-30T20:55:16Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.2-1A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hlb-a2-1A.pdf|HLB-A 2-1A
+         
+      
+   
+   
+      10.6028/NBS.HR.2-2A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719767
+      3377849
+      201907301650
+      10.6028
+      2019-07-30T20:55:18Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.2-2A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hlb-a2-2A.pdf|HLB-A 2-2A
+         
+      
+   
+   
+      10.6028/NBS.HR.3-1A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719768
+      3377849
+      201907301650
+      10.6028
+      2019-07-30T20:55:18Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.3-1A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hlb-a3-1A.pdf|HLB-A 3-1A
+         
+      
+   
+   
+      10.6028/NBS.HR.3-2A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719769
+      3377849
+      201907301650
+      10.6028
+      2019-07-30T20:55:19Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.3-2A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hlb-a3-2A.pdf|HLB-A 3-2A
+         
+      
+   
+   
+      10.6028/NBS.HR.4-1A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719770
+      3377849
+      201907301650
+      10.6028
+      2019-07-30T20:55:20Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.4-1A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hlb-a4-1A.pdf|HLB-A 4-1A
+         
+      
+   
+   
+      10.6028/NBS.HR.4-2A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719771
+      3377849
+      201907301650
+      10.6028
+      2019-07-30T20:55:20Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.4-2A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hlb-a4-2A.pdf|HLB-A 4-2A
+         
+      
+   
+   
+      10.6028/NBS.HR.5-1A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719772
+      3377849
+      201907301650
+      10.6028
+      2019-07-30T20:55:21Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.5-1A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hlb-a5-1A.pdf|HLB-A 5-1A
+         
+      
+   
+   
+      10.6028/NBS.HR.5-2A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719773
+      3377849
+      201907301650
+      10.6028
+      2019-07-30T20:55:22Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.5-2A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hlb-a5-2A.pdf|HLB-A 5-2A
+         
+      
+   
+   
+      10.6028/NBS.HR.6A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719774
+      3377849
+      201907301650
+      10.6028
+      2019-07-30T20:55:23Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.6A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hlb-a6A.pdf|HLB-A 6A
+         
+      
+   
+   
+      10.6028/NBS.HR.7A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719775
+      3377849
+      201907301650
+      10.6028
+      2019-07-30T20:55:24Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.7A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hlb-a7A.pdf|HLB-A 7A
+         
+      
+   
+   
+      10.6028/NBS.HR.8A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719776
+      3377849
+      201907301650
+      10.6028
+      2019-07-30T20:55:24Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.8A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hlb-a8A.pdf|HLB-A 8A
+         
+      
+   
+   
+      10.6028/NBS.HR.9A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719778
+      3377849
+      201907301650
+      10.6028
+      2019-07-30T20:55:25Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.9A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hlb-a9A.pdf|HLB-A 9A
+         
+      
+   
+   
+      10.6028/NBS.HR.10A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719779
+      3377849
+      201907301650
+      10.6028
+      2019-07-30T20:55:25Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.10A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hlb-a10A.pdf|HLB-A 10A
+         
+      
+   
+   
+      10.6028/NBS.HR.11A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719780
+      3377850
+      201907301650
+      10.6028
+      2019-07-30T20:55:26Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.11A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hr11A.pdf|HR 11A
+         
+      
+   
+   
+      10.6028/NBS.HR.12A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719781
+      3377850
+      201907301650
+      10.6028
+      2019-07-30T20:55:27Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.12A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hr12A.pdf|HR 12A
+         
+      
+   
+   
+      10.6028/NBS.HR.13A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719782
+      3377850
+      201907301650
+      10.6028
+      2019-07-30T20:55:28Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.13A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hr13A.pdf|HR 13A
+         
+      
+   
+   
+      10.6028/NBS.HR.14A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108719783
+      3377850
+      201907301650
+      10.6028
+      2019-07-30T20:55:28Z
+      2019-07-30T15:36:34Z
+      0
+      
+         
+            10.6028/NBS.HR.14A|https://nvlpubs.nist.gov/nistpubs/Legacy/HR/hr14A.pdf|HR 14A
+         
+      
+   
+   
+      10.6028/NBS.IP.1
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724165
+      3378014
+      201907301645
+      10.6028
+      2019-07-30T20:54:42Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.1|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip1.pdf|NBS IP 1
+         
+      
+   
+   
+      10.6028/NBS.IP.2
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724166
+      3378015
+      201907301645
+      10.6028
+      2019-07-30T20:54:43Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.2|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip2.pdf|NBS IP 2
+         
+      
+   
+   
+      10.6028/NBS.IP.3
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724167
+      3378016
+      201907301645
+      10.6028
+      2019-07-30T20:54:43Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.3|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip3.pdf|NBS IP 3
+         
+      
+   
+   
+      10.6028/NBS.IP.4
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724168
+      3378017
+      201907301645
+      10.6028
+      2019-07-30T20:54:44Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.4|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip4.pdf|NBS IP 4
+         
+      
+   
+   
+      10.6028/NBS.IP.5
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724169
+      3378018
+      201907301645
+      10.6028
+      2019-07-30T20:54:45Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.5|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip5.pdf|NBS IP 5
+         
+      
+   
+   
+      10.6028/NBS.IP.6
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724170
+      3378019
+      201907301645
+      10.6028
+      2019-07-30T20:54:45Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.6|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip6.pdf|NBS IP 6
+         
+      
+   
+   
+      10.6028/NBS.IP.7
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724171
+      3378020
+      201907301645
+      10.6028
+      2019-07-30T20:54:46Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.7|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip7.pdf|NBS IP 7
+         
+      
+   
+   
+      10.6028/NBS.IP.8
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724172
+      3378021
+      201907301645
+      10.6028
+      2019-07-30T20:54:47Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.8|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip8.pdf|NBS IP 8
+         
+      
+   
+   
+      10.6028/NBS.IP.9
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724173
+      3378022
+      201907301645
+      10.6028
+      2019-07-30T20:54:47Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.9|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip9.pdf|NBS IP 9
+         
+      
+   
+   
+      10.6028/NBS.IP.10
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724174
+      3378023
+      201907301645
+      10.6028
+      2019-07-30T20:54:48Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.10|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip10.pdf|NBS IP 10
+         
+      
+   
+   
+      10.6028/NBS.IP.11
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724175
+      3378024
+      201907301645
+      10.6028
+      2019-07-30T20:54:48Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.11|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip11.pdf|NBS IP 11
+         
+      
+   
+   
+      10.6028/NBS.IP.12
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724176
+      3378025
+      201907301645
+      10.6028
+      2019-07-30T20:54:49Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.12|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip12.pdf|NBS IP 12
+         
+      
+   
+   
+      10.6028/NBS.IP.13
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724177
+      3378026
+      201907301645
+      10.6028
+      2019-07-30T20:54:49Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.13|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip13.pdf|NBS IP 13
+         
+      
+   
+   
+      10.6028/NBS.IP.14
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724178
+      3378027
+      201907301645
+      10.6028
+      2019-07-30T20:54:50Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.14|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip14.pdf|NBS IP 14
+         
+      
+   
+   
+      10.6028/NBS.IP.15
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724179
+      3378028
+      201907301645
+      10.6028
+      2019-07-30T20:54:51Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.15|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip15.pdf|NBS IP 15
+         
+      
+   
+   
+      10.6028/NBS.IP.16
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724180
+      3378029
+      201907301645
+      10.6028
+      2019-07-30T20:54:51Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.16|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip16.pdf|NBS IP 16
+         
+      
+   
+   
+      10.6028/NBS.IP.17
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724181
+      3378030
+      201907301645
+      10.6028
+      2019-07-30T20:54:52Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.17|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip17.pdf|NBS IP 17
+         
+      
+   
+   
+      10.6028/NBS.IP.18
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724182
+      3378031
+      201907301645
+      10.6028
+      2019-07-30T20:54:53Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.18|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip18.pdf|NBS IP 18
+         
+      
+   
+   
+      10.6028/NBS.IP.19
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724183
+      3378032
+      201907301645
+      10.6028
+      2019-07-30T20:54:53Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.19|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip19.pdf|NBS IP 19
+         
+      
+   
+   
+      10.6028/NBS.IP.20
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724184
+      3378033
+      201907301645
+      10.6028
+      2019-07-30T20:54:54Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.20|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip20.pdf|NBS IP 20
+         
+      
+   
+   
+      10.6028/NBS.IP.21
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724185
+      3378034
+      201907301645
+      10.6028
+      2019-07-30T20:54:54Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.21|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip21.pdf|NBS IP 21
+         
+      
+   
+   
+      10.6028/NBS.IP.22
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724186
+      3378035
+      201907301645
+      10.6028
+      2019-07-30T20:54:55Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.22|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip22.pdf|NBS IP 22
+         
+      
+   
+   
+      10.6028/NBS.IP.23
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724187
+      3378036
+      201907301645
+      10.6028
+      2019-07-30T20:54:55Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.23|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip23.pdf|NBS IP 23
+         
+      
+   
+   
+      10.6028/NBS.IP.24
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724188
+      3378037
+      201907301645
+      10.6028
+      2019-07-30T20:54:56Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.24|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip24.pdf|NBS IP 24
+         
+      
+   
+   
+      10.6028/NBS.IP.25
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724189
+      3378038
+      201907301645
+      10.6028
+      2019-07-30T20:54:56Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.25|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip25.pdf|NBS IP 25
+         
+      
+   
+   
+      10.6028/NBS.IP.26
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724191
+      3378039
+      201907301645
+      10.6028
+      2019-07-30T20:54:57Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.26|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip26.pdf|NBS IP 26
+         
+      
+   
+   
+      10.6028/NBS.IP.27
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724192
+      3378040
+      201907301645
+      10.6028
+      2019-07-30T20:54:57Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.27|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip27.pdf|NBS IP 27
+         
+      
+   
+   
+      10.6028/NBS.IP.28
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724193
+      3378041
+      201907301645
+      10.6028
+      2019-07-30T20:54:58Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.28|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip28.pdf|NBS IP 28
+         
+      
+   
+   
+      10.6028/NBS.IP.29
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724194
+      3378042
+      201907301645
+      10.6028
+      2019-07-30T20:54:58Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.29|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip29.pdf|NBS IP 29
+         
+      
+   
+   
+      10.6028/NBS.IP.30
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724195
+      3378043
+      201907301645
+      10.6028
+      2019-07-30T20:54:59Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.30|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip30.pdf|NBS IP 30
+         
+      
+   
+   
+      10.6028/NBS.IP.31
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724196
+      3378044
+      201907301645
+      10.6028
+      2019-07-30T20:55:00Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.31|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip31.pdf|NBS IP 31
+         
+      
+   
+   
+      10.6028/NBS.IP.32
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724197
+      3378045
+      201907301645
+      10.6028
+      2019-07-30T20:55:00Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.32|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip32.pdf|NBS IP 32
+         
+      
+   
+   
+      10.6028/NBS.IP.33
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724198
+      3378046
+      201907301645
+      10.6028
+      2019-07-30T20:55:01Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.33|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip33.pdf|NBS IP 33
+         
+      
+   
+   
+      10.6028/NBS.IP.34
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724199
+      3378047
+      201907301645
+      10.6028
+      2019-07-30T20:55:01Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.34|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip34.pdf|NBS IP 34
+         
+      
+   
+   
+      10.6028/NBS.IP.35
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724200
+      3378048
+      201907301645
+      10.6028
+      2019-07-30T20:55:02Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.35|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip35.pdf|NBS IP 35
+         
+      
+   
+   
+      10.6028/NBS.IP.36
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108724201
+      3378049
+      201907301645
+      10.6028
+      2019-07-30T20:55:02Z
+      2019-07-30T19:27:15Z
+      0
+      
+         
+            10.6028/NBS.IP.36|https://nvlpubs.nist.gov/nistpubs/Legacy/ip/nbsip36.pdf|NBS IP 36
+         
+      
+   
+   
+      10.6028/NBS.CRPL.1-1
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764170
+      3378512
+      201907311348
+      10.6028
+      2019-07-31T17:51:42Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.1-1|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-1-1.pdf|NBS CRPL 1-1
+         
+      
+   
+   
+      10.6028/NBS.CRPL.1-2_3-1
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764171
+      3378513
+      201907311348
+      10.6028
+      2019-07-31T17:51:43Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.1-2_3-1|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-1-2_3-1.pdf|NBS CRPL 1-2_3-1
+         
+      
+   
+   
+      10.6028/NBS.CRPL.1-2_3-1A
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764172
+      3378514
+      201907311348
+      10.6028
+      2019-07-31T17:51:44Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.1-2_3-1A|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-1-2_3-1A.pdf|NBS CRPL 1-2_3-1A
+         
+      
+   
+   
+      10.6028/NBS.CRPL.1-3
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764173
+      3378515
+      201907311348
+      10.6028
+      2019-07-31T17:51:44Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.1-3|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-1-3.pdf|NBS CRPL 1-3
+         
+      
+   
+   
+      10.6028/NBS.CRPL.1-4
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764174
+      3378516
+      201907311348
+      10.6028
+      2019-07-31T17:51:45Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.1-4|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-1-4.pdf|NBS CRPL 1-4
+         
+      
+   
+   
+      10.6028/NBS.CRPL.1-5
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764175
+      3378517
+      201907311348
+      10.6028
+      2019-07-31T17:51:45Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.1-5|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-1-5.pdf|NBS CRPL 1-5
+         
+      
+   
+   
+      10.6028/NBS.CRPL.1-6
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764176
+      3378518
+      201907311348
+      10.6028
+      2019-07-31T17:51:46Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.1-6|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-1-6.pdf|NBS CRPL 1-6
+         
+      
+   
+   
+      10.6028/NBS.CRPL.2-1
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764179
+      3378519
+      201907311348
+      10.6028
+      2019-07-31T17:51:47Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.2-1|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-2-1.pdf|NBS CRPL 2-1
+         
+      
+   
+   
+      10.6028/NBS.CRPL.2-2
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764180
+      3378520
+      201907311348
+      10.6028
+      2019-07-31T17:51:48Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.2-2|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-2-2.pdf|NBS CRPL 2-2
+         
+      
+   
+   
+      10.6028/NBS.CRPL.2-3
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764181
+      3378521
+      201907311348
+      10.6028
+      2019-07-31T17:51:48Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.2-3|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-2-3.pdf|NBS CRPL 2-3
+         
+      
+   
+   
+      10.6028/NBS.CRPL.4-1
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764182
+      3378522
+      201907311348
+      10.6028
+      2019-07-31T17:51:49Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.4-1|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-4-1.pdf|NBS CRPL 4-1
+         
+      
+   
+   
+      10.6028/NBS.CRPL.4-2
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764183
+      3378523
+      201907311348
+      10.6028
+      2019-07-31T17:51:49Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.4-2|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-4-2.pdf|NBS CRPL 4-2
+         
+      
+   
+   
+      10.6028/NBS.CRPL.4-3
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764184
+      3378524
+      201907311348
+      10.6028
+      2019-07-31T17:51:50Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.4-3|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-4-3.pdf|NBS CRPL 4-3
+         
+      
+   
+   
+      10.6028/NBS.CRPL.c4-4
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764185
+      3378525
+      201907311348
+      10.6028
+      2019-07-31T17:51:51Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.c4-4|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-c4-4.pdf|NBS CRPL c4-4
+         
+      
+   
+   
+      10.6028/NBS.CRPL.4-5
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764186
+      3378526
+      201907311348
+      10.6028
+      2019-07-31T17:51:52Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.4-5|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-4-5.pdf|NBS CRPL 4-5
+         
+      
+   
+   
+      10.6028/NBS.CRPL.4-m-5
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764187
+      3378527
+      201907311348
+      10.6028
+      2019-07-31T17:51:52Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.4-m-5|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-4-m-5.pdf|NBS CRPL 4-m-5
+         
+      
+   
+   
+      10.6028/NBS.CRPL.5-1
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764188
+      3378528
+      201907311348
+      10.6028
+      2019-07-31T17:51:52Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.5-1|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-5-1.pdf|NBS CRPL 5-1
+         
+      
+   
+   
+      10.6028/NBS.CRPL.5-2
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764189
+      3378529
+      201907311348
+      10.6028
+      2019-07-31T17:51:53Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.5-2|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-5-2.pdf|NBS CRPL 5-2
+         
+      
+   
+   
+      10.6028/NBS.CRPL.5-3
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764190
+      3378530
+      201907311348
+      10.6028
+      2019-07-31T17:51:54Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.5-3|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-5-3.pdf|NBS CRPL 5-3
+         
+      
+   
+   
+      10.6028/NBS.CRPL.5-4
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764191
+      3378531
+      201907311348
+      10.6028
+      2019-07-31T17:51:55Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.5-4|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-5-4.pdf|NBS CRPL 5-4
+         
+      
+   
+   
+      10.6028/NBS.CRPL.5-5
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764192
+      3378532
+      201907311348
+      10.6028
+      2019-07-31T17:51:55Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.5-5|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-5-5.pdf|NBS CRPL 5-5
+         
+      
+   
+   
+      10.6028/NBS.CRPL.6-1
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764193
+      3378533
+      201907311348
+      10.6028
+      2019-07-31T17:51:56Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.6-1|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-6-1.pdf|NBS CRPL 6-1
+         
+      
+   
+   
+      10.6028/NBS.CRPL.6-3
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764194
+      3378534
+      201907311348
+      10.6028
+      2019-07-31T17:51:57Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.6-3|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-6-3.pdf|NBS CRPL 6-3
+         
+      
+   
+   
+      10.6028/NBS.CRPL.7-1
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764195
+      3378535
+      201907311348
+      10.6028
+      2019-07-31T17:51:57Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.7-1|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-7-1.pdf|NBS CRPL 7-1
+         
+      
+   
+   
+      10.6028/NBS.CRPL.7-2
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764196
+      3378536
+      201907311348
+      10.6028
+      2019-07-31T17:51:58Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.7-2|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-7-2.pdf|NBS CRPL 7-2
+         
+      
+   
+   
+      10.6028/NBS.CRPL.8-1_9-4
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764197
+      3378537
+      201907311348
+      10.6028
+      2019-07-31T17:51:58Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.8-1_9-4|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-8-1_9-4.pdf|NBS CRPL 8-1_9-4
+         
+      
+   
+   
+      10.6028/NBS.CRPL.8-2
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764198
+      3378538
+      201907311348
+      10.6028
+      2019-07-31T17:51:59Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.8-2|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-8-2.pdf|NBS CRPL 8-2
+         
+      
+   
+   
+      10.6028/NBS.CRPL.8-3
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764199
+      3378539
+      201907311348
+      10.6028
+      2019-07-31T17:52:00Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.8-3|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-8-3.pdf|NBS CRPL 8-3
+         
+      
+   
+   
+      10.6028/NBS.CRPL.9-1
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764201
+      3378540
+      201907311348
+      10.6028
+      2019-07-31T17:52:00Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.9-1|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-9-1.pdf|NBS CRPL 9-1
+         
+      
+   
+   
+      10.6028/NBS.CRPL.9-2
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764202
+      3378541
+      201907311348
+      10.6028
+      2019-07-31T17:52:01Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.9-2|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-9-2.pdf|NBS CRPL 9-2
+         
+      
+   
+   
+      10.6028/NBS.CRPL.9-5
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764203
+      3378542
+      201907311348
+      10.6028
+      2019-07-31T17:52:01Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.9-5|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-9-5.pdf|NBS CRPL 9-5
+         
+      
+   
+   
+      10.6028/NBS.CRPL.9-6
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764204
+      3378543
+      201907311348
+      10.6028
+      2019-07-31T17:52:02Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.9-6|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-9-6.pdf|NBS CRPL 9-6
+         
+      
+   
+   
+      10.6028/NBS.CRPL.9-7
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764205
+      3378544
+      201907311348
+      10.6028
+      2019-07-31T17:52:02Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.9-7|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-9-7.pdf|NBS CRPL 9-7
+         
+      
+   
+   
+      10.6028/NBS.CRPL.9-8
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764206
+      3378545
+      201907311348
+      10.6028
+      2019-07-31T17:52:03Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.9-8|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-9-8.pdf|NBS CRPL 9-8
+         
+      
+   
+   
+      10.6028/NBS.CRPL.9-9
+      National Institute of Standards and Technology (NIST)
+      National Institute of Standards and Technology
+      4068
+      108764207
+      3378546
+      201907311348
+      10.6028
+      2019-07-31T17:52:04Z
+      2019-07-31T17:51:41Z
+      0
+      
+         
+            10.6028/NBS.CRPL.9-9|https://nvlpubs.nist.gov/nistpubs/Legacy/crpl/crpl-9-9.pdf|NBS CRPL 9-9
+         
+      
+   

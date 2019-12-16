@@ -6,8 +6,353 @@
             <serialized version="20.1" xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
+                        <String>enable.project.master.files.support</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
                         <String>scenario.associations</String>
                         <scenarioAssociation-array>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/allrecords-dec132019.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2HTML</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xslt/techpubs2htmlv4.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2HTML</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/allrecords-30Sept2019_cleaned.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2Text</String>
+                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text - Public</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>file:////elwood.nist.gov/135/internal/MR133_ISO/ISO_Common/WERB/NIST%20Publication%20Series/Crossref%20Metadata/TechPubs2HTML/xml/allrecords-30Sept2019_cleaned.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2QueryKey</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/allrecords-16Aug2019.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
+                                        <String>AllRecords2Text - Public</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/allrecords-15Nov2019cleaned.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2QueryKey</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>file:/Z:/My%20Documents/Acting%20DSPG/Personnel/WorkLoads/Kathryn%27s%20Absence%202019/DOI%20metadata/Testing/part1-1.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
+                                        <String>AllRecords2Text - Public</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>file:/C:/Users/paulad/Desktop/DOI%20testing/part1-1.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
+                                        <String>AllRecords2Text - Public</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>file:/C:/Users/paulad/Desktop/DOI%20testing/part1.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2QueryKey</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>file:/C:/Users/paulad/Desktop/DOI%20testing/allrecordstest.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2QueryKey</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/allrecordstestsStep1.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2TextStep1</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>file:/C:/Users/paulad/Desktop/temp/DOImetadata/allrecords-30Sept2019.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2QueryKey</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/allrecords-30Sept2019.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2QueryKey</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/allrecords-08Aug2019.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
+                                        <String>AllRecords2Text - Public</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/allrecords-31july2019-rev.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2Text</String>
+                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text - Public</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/allrecords-31july2019.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2TextStep1</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/dois.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>DOI-LIST</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>file:/C:/Users/kmm5/Desktop/dois.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2TextStep1</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/allrecords-17july2019.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text - Public</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/preprintrecords-02July2019.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2Text-Preprint</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/preprintrecords-25Apr2019.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2Text-Preprint</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>xml/allrecords-02july2019.xml</String>
@@ -42,21 +387,6 @@
                                     <list>
                                         <String>XSL</String>
                                         <String>XSL</String>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>xml/preprintrecords-25Apr2019.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>AllRecords2Text-Preprint</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
                                         <String>XSL</String>
                                     </list>
                                 </field>
@@ -135,9 +465,9 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text - Public</String>
                                         <String>AllRecords2Text</String>
                                         <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text - Public</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -189,8 +519,8 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>AllRecords2Text</String>
-                                        <String>AllRecords2Text - Public</String>
                                         <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text - Public</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -256,9 +586,9 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text - Public</String>
                                         <String>AllRecords2Text</String>
                                         <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text - Public</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -370,8 +700,8 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>AllRecords2Text</String>
-                                        <String>AllRecords2Text - Public</String>
                                         <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text - Public</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -433,21 +763,6 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xslt/techpubs2htmlv4.xsl</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>AllRecords2HTML</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>file:/C:/Users/kmm5/Desktop/submissionAdmin.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -482,8 +797,8 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text - Public</String>
                                         <String>AllRecords2Text</String>
+                                        <String>AllRecords2Text - Public</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -889,7 +1204,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/xml/${cfn}.xml</File>
+                                    <null/>
                                 </field>
                                 <field name="outputResource">
                                     <String>${pd}/xml/${cfn}.xml</String>
@@ -975,7 +1290,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/bib/allrecords.txt</File>
+                                    <null/>
                                 </field>
                                 <field name="outputResource">
                                     <String>${pd}/bib/allrecords.txt</String>
@@ -1061,7 +1376,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/Master lists/DOIMETADATA_MASTER.txt</File>
+                                    <null/>
                                 </field>
                                 <field name="outputResource">
                                     <String>${pd}/Master lists/DOIMETADATA_MASTER.txt</String>
@@ -1147,7 +1462,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/Master lists/JRES_METADATA_MASTER.txt</File>
+                                    <null/>
                                 </field>
                                 <field name="outputResource">
                                     <String>${pd}/Master lists/JRES_METADATA_MASTER.txt</String>
@@ -1233,10 +1548,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/public/NIST_Tech_Pubs_MASTER.txt</File>
+                                    <File>${pd}/public/NIST_Tech_Pubs_MASTER-rev.txt</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/public/NIST_Tech_Pubs_MASTER.txt</String>
+                                    <String>${pd}/public/NIST_Tech_Pubs_MASTER-rev.txt</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
@@ -1319,7 +1634,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/Master lists/PREPRINT_DOIMETADATA_MASTER.txt</File>
+                                    <null/>
                                 </field>
                                 <field name="outputResource">
                                     <String>${pd}/Master lists/PREPRINT_DOIMETADATA_MASTER.txt</String>
@@ -1405,7 +1720,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/xml/${cfn}.xml</File>
+                                    <null/>
                                 </field>
                                 <field name="outputResource">
                                     <String>${pd}/xml/${cfn}.xml</String>
@@ -1470,7 +1785,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xslt/CrossRefAPI2DOIList.xsl</String>
+                                    <String>${pdu}/xslt/URLs-from-XRef.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -1491,10 +1806,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/doilist.txt</File>
+                                    <null/>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/doilist.txt</String>
+                                    <String>${pd}/xml/urlsfromxref.txt</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
@@ -1577,7 +1892,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>C:/Users/kmm5/Desktop/${cfn}-XREF.xml</File>
+                                    <null/>
                                 </field>
                                 <field name="outputResource">
                                     <String>C:\Users\kmm5\Desktop\${cfn}-XREF.xml</String>

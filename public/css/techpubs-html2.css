@@ -14,7 +14,7 @@ body{
 header {
     width: 94%;
     padding: 3%;
-    background-color: #2C6791;
+    background-color: #12659C;
 }
 header #title {
     font-size: 36px;
@@ -109,13 +109,13 @@ aside {
  }
  
 aside a{
-     color: #2C6791;
+     color: #12659C;
 }
 
 footer{
     width: 94%;
     padding: 3%;
-    background-color: #2C6791;
+    background-color: #12659C;
     border-top: 5px solid #000;
     color: #fff;
     text-align: center;
@@ -178,7 +178,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .type-head {
-    color: #2C6791;
+    color: #12659C;
     font-size: 20px; 
     line-height: 1.4em;
     font-weight: bold;
@@ -188,9 +188,22 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 18px; 
     line-height: 1.4em;
         color: #000;
+    
+}
+
+.quicklinks {
+    font-size: 22px; 
+    line-height: 1.4em;
+        color: #000;
     font-weight: bold;
 }
 
+.note {
+    font-size: 14px; 
+    line-height: 1.4em;
+        color: #000;
+
+}
 
 .authors {
     font-size: 14px; 

@@ -18,9 +18,7 @@
     <xsl:strip-space elements="titles title subtitle"/>
     <xsl:template match="query">
         <xsl:value-of
-            select="@key"/><xsl:text>&#x9;</xsl:text><xsl:value-of
-            select="doi_record/report-paper/report-paper_metadata/publisher_item/item_number"
-            /><xsl:text>&#x9;</xsl:text><xsl:value-of
+            select="@key"/><xsl:text>&#x9;</xsl:text><xsl:call-template name="reportnum"/><xsl:text>&#x9;</xsl:text><xsl:value-of
             select="doi_record/report-paper/report-paper_metadata/publication_date/month"
             /><xsl:text>&#x9;</xsl:text><xsl:value-of
             select="doi_record/report-paper/report-paper_metadata/publication_date/year"
@@ -28,7 +26,12 @@
             /><xsl:text>&#x9;</xsl:text><xsl:value-of
             select="doi_record/report-paper/report-paper_metadata/doi_data/resource"/>
     </xsl:template>
-
+    <xsl:template name="reportnum">
+        <xsl:for-each select="doi_record/report-paper/report-paper_metadata/publisher_item">
+            <xsl:value-of select="item_number"/>
+            <xsl:value-of select="identifier"/>
+        </xsl:for-each>
+    </xsl:template>
     <xsl:template name="authors">
         <xsl:for-each
             select="doi_record/report-paper/report-paper_metadata/contributors/person_name">
