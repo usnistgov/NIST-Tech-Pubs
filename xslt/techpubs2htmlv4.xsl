@@ -325,7 +325,9 @@
             <br/>
             <span class="doi_data"><label class="label">doi:</label><!--<xsl:call-template name="doi"/>--><xsl:value-of
                     select="doi_record/report-paper/report-paper_metadata/doi_data/doi"
-                    />&#160;&#124;&#160;<xsl:call-template name="resource"/></span>
+            /></span>
+            <br/>
+            <xsl:call-template name="resource"/>&#160;&#124;&#160;<xsl:call-template name="cite"/>
             <br/>
         </div>
     </xsl:template>
@@ -423,6 +425,11 @@
     <xsl:template name="resource">
         <a><xsl:attribute name="href"><xsl:value-of
                     select="doi_record/report-paper/report-paper_metadata/doi_data/resource"
-                /></xsl:attribute>PDF</a>
+                /></xsl:attribute>Download PDF</a>
     </xsl:template>
+    <xsl:template name="cite">
+        <a><xsl:attribute name="href"><xsl:value-of
+            select="concat('../public/bib/', substring-after(doi_record/report-paper/report-paper_metadata/doi_data/doi, '/'), '.ris')"/></xsl:attribute>Download Citation</a>
+    </xsl:template>
+   
 </xsl:stylesheet>
