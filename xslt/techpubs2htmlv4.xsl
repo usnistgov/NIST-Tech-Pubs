@@ -86,10 +86,11 @@
                 <link rel="stylesheet" type="text/css" href="./css/accordian.css"/>
             </head>
             <body>
-                
+
                 <div style="margin-left:25px; margin-top:25px">
                     <a href="https://inet.nist.gov/nvl">
-                        <img src="NIST-research-library.png"  height="79px" width="186px" alt="Library logo" title="NIST Research Library" border="none"/>
+                        <img src="NIST-research-library.png" height="79px" width="186px"
+                            alt="Library logo" title="NIST Research Library" border="none"/>
                     </a>
                 </div>
                 <div id="container">
@@ -100,10 +101,15 @@
                     <!-- Navigation -->
                     <nav id="menu" class="clearfix">
                         <ul>
-                            <li><a href="http://kmm5.ipages.nist.gov/TechPubs2HTML/">Home</a></li>
-                            <li><a href="./date.html">Sort All by Date</a></li>
-                            <li><a href="#filter">Filter by Series</a></li>
-                            <li><a href="#top">Back to Top</a></li>
+                            <li>
+                                <a href="http://kmm5.ipages.nist.gov/TechPubs2HTML/">Home</a>
+                            </li>
+                            <li>
+                                <a href="./date.html">View All Reports</a>
+                            </li>
+                            <li>
+                                <a href="#top">Back to Top</a>
+                            </li>
                         </ul>
                     </nav>
 
@@ -114,47 +120,53 @@
                     <xsl:choose>
                         <xsl:when test="$report-type = ''">
                             <section id="content">
-                                
-                                
+
+
                                 <h4 class="welcome">Quick Links</h4>
                                 <ul>
                                     <li>
-                                        <a href="https://inet.nist.gov/library/publishing-support-nist-publications/nist-technical-series-publications">How to Publish a Report</a>
+                                        <a
+                                            href="https://inet.nist.gov/library/publishing-support-nist-publications/nist-technical-series-publications"
+                                            >How to Publish a Report</a>
                                     </li>
                                     <li>
                                         <a
                                             href="https://www.nist.gov/nist-research-library/nist-series-publications"
                                             >Series Descriptions</a>
                                     </li>
-                                    
+                                   
+
                                     <li>
                                         <a href="./date.html">View All Reports</a>
                                     </li>
-                                   
+
                                     <li>
                                         <a href="#filter">Filter Reports by Series</a>
                                     </li>
                                     <li>
-                                        <a href="./NIST_Tech_Pubs_MASTER.xlsx">Download Full List of Reports</a>
+                                        <a href="./NIST_Tech_Pubs_MASTER.xlsx">Download Full List of
+                                            Reports</a>
                                     </li>
-                                    
+
                                 </ul>
-                                
+
                                 <h4 class="welcome">
-                                    <p>NIST Technical Series publications are written
-                                        by or for NIST and published by the NIST Research Library. These
+                                    <p>NIST Technical Series publications are written by or for NIST
+                                        and published by the NIST Research Library. These
                                         publications consist of technical reports, recommendations,
-                                        practice guides, industry handbooks, and other similar technical
-                                        documents intended for external distribution. All NIST Technical
-                                        Series publications are assigned <a
-                                            href="https://csrc.nist.gov/Publications/DOI">Digital Object
-                                            Identifiers (DOIs)</a> to ensure continuing public access
-                                        and deposited with the <a
-                                            href="https://www.govinfo.gov/collection/nist">United States
-                                            Government Publishing Office (GPO)</a> to ensure digital
-                                        preservation.</p>
-                                        
-                                   <p> Note: This website can only be accessed when connected to the NIST network.</p></h4>
+                                        practice guides, industry handbooks, and other similar
+                                        technical documents intended for external distribution. All
+                                        NIST Technical Series publications are assigned <a
+                                            href="https://csrc.nist.gov/Publications/DOI">Digital
+                                            Object Identifiers (DOIs)</a> to ensure continuing
+                                        public access and deposited with the <a
+                                            href="https://www.govinfo.gov/collection/nist">United
+                                            States Government Publishing Office (GPO)</a> to ensure
+                                        digital preservation.</p>
+
+                                    <p> Note: This website can only be accessed when connected to
+                                        the NIST network.</p>
+                                </h4>
 
 
                             </section>
@@ -323,9 +335,9 @@
                 />
             </span>
             <br/>
-            <span class="doi_data"><label class="label">doi:</label><!--<xsl:call-template name="doi"/>--><xsl:value-of
-                    select="doi_record/report-paper/report-paper_metadata/doi_data/doi"
-            /></span>
+            <span class="doi_data"><label class="label"
+                    >doi:</label><!--<xsl:call-template name="doi"/>--><xsl:value-of
+                    select="doi_record/report-paper/report-paper_metadata/doi_data/doi"/></span>
             <br/>
             <xsl:call-template name="resource"/>&#160;&#124;&#160;<xsl:call-template name="cite"/>
             <br/>
@@ -337,7 +349,7 @@
             <xsl:value-of select="given_name"/>
             <xsl:text>&#160;</xsl:text>
             <xsl:value-of select="surname"/>
-            <xsl:if test="position() !=  last()">
+            <xsl:if test="position() != last()">
                 <xsl:text>&#44;&#160;</xsl:text>
             </xsl:if>
         </xsl:for-each>
@@ -414,7 +426,7 @@
         </xsl:choose>
 
     </xsl:template>
-   <!-- <xsl:template name="doi">
+    <!-- <xsl:template name="doi">
         <a><xsl:attribute name="href"><xsl:text>https://doi.org/</xsl:text><xsl:value-of
             select="doi_record/report-paper/report-paper_metadata/doi_data/doi"
         /></xsl:attribute><xsl:value-of
@@ -429,7 +441,8 @@
     </xsl:template>
     <xsl:template name="cite">
         <a><xsl:attribute name="href"><xsl:value-of
-            select="concat('./bib/', substring-after(doi_record/report-paper/report-paper_metadata/doi_data/doi, '/'), '.ris')"/></xsl:attribute>Download Citation</a>
+                    select="concat('./bib/', substring-after(doi_record/report-paper/report-paper_metadata/doi_data/doi, '/'), '.ris')"
+                /></xsl:attribute>Download Citation</a>
     </xsl:template>
-   
+
 </xsl:stylesheet>
