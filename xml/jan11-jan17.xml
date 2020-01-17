@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+   <query key="CSWP">
+      <doi type="report-paper_title">10.6028/NIST.CSWP.01142020</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">112977147</crm-item>
+      <crm-item name="book-id" type="number">3478182</crm-item>
+      <crm-item name="deposit-timestamp" type="number">202001141101</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2020-01-14T16:14:28Z</crm-item>
+      <crm-item name="created" type="date">2020-01-14T16:14:27Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <report-paper>
+            <report-paper_metadata>
+               <contributors>
+                  <person_name sequence="first" contributor_role="author">
+                     <given_name>Loïc</given_name>
+                     <surname>Lesavre</surname>
+                  </person_name>
+               </contributors>
+               <titles>
+                  <title>A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems</title>
+               </titles>
+               <publication_date media_type="online">
+                  <month>01</month>
+                  <day>14</day>
+                  <year>2020</year>
+               </publication_date>
+               <publisher>
+                  <publisher_name>National Institute of Standards and Technology</publisher_name>
+               </publisher>
+               <institution>
+                  <institution_name>National Institute of Standards and Technology</institution_name>
+                  <institution_acronym>NIST</institution_acronym>
+                  <institution_place>Gaithersburg, MD</institution_place>
+                  <institution_department>Information Technology Laboratory</institution_department>
+               </institution>
+               <publisher_item>
+                  <identifier id_type="report-number">NIST CSWP 01142020</identifier>
+               </publisher_item>
+               <doi_data>
+                  <doi>10.6028/NIST.CSWP.01142020</doi>
+                  <resource>https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.01142020.pdf</resource>
+               </doi_data>
+            </report-paper_metadata>
+         </report-paper>
+      </doi_record>
+   </query>
+   <query key="GCR">
+      <doi type="report-paper_title">10.6028/NIST.GCR.20-023</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">112982576</crm-item>
+      <crm-item name="book-id" type="number">3478260</crm-item>
+      <crm-item name="deposit-timestamp" type="number">202001141617</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2020-01-14T21:17:51Z</crm-item>
+      <crm-item name="created" type="date">2020-01-14T21:17:51Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <report-paper>
+            <report-paper_metadata>
+               <contributors>
+                  <person_name sequence="first" contributor_role="author">
+                     <given_name>Francis M.</given_name>
+                     <surname>Lavelle</surname>
+                  </person_name>
+               </contributors>
+               <titles>
+                  <title>Critical Path Method Assessment of Community Recovery</title>
+               </titles>
+               <publication_date media_type="online">
+                  <month>01</month>
+                  <day>14</day>
+                  <year>2020</year>
+               </publication_date>
+               <publisher>
+                  <publisher_name>National Institute of Standards and Technology</publisher_name>
+               </publisher>
+               <institution>
+                  <institution_name>National Institute of Standards and Technology</institution_name>
+                  <institution_acronym>NIST</institution_acronym>
+                  <institution_place>Gaithersburg, MD</institution_place>
+                  <institution_department>Engineering Laboratory</institution_department>
+               </institution>
+               <publisher_item>
+                  <identifier id_type="report-number">NIST GCR 20-023</identifier>
+               </publisher_item>
+               <doi_data>
+                  <doi>10.6028/NIST.GCR.20-023</doi>
+                  <resource>https://nvlpubs.nist.gov/nistpubs/gcr/2020/NIST.GCR.20-023.pdf</resource>
+               </doi_data>
+            </report-paper_metadata>
+         </report-paper>
+      </doi_record>
+   </query>
+</body>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="20.1">
+<project version="16.1">
     <meta>
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="20.1" xml:space="preserve">
+            <serialized version="16.1" xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
                         <String>enable.project.master.files.support</String>
@@ -12,6 +12,40 @@
                     <entry>
                         <String>scenario.associations</String>
                         <scenarioAssociation-array>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/allrecords-jan172020.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text - Public</String>
+                                        <String>AllRecords2Text</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xslt/techpubs2htmlv4.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2HTML</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>xml/allrecords-jan102020.xml</String>
@@ -29,11 +63,26 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xslt/techpubs2htmlv4.xsl</String>
+                                    <String>xml/jan11-jan17.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2RIS-rev</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/Untitled2.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2TextStep1</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1188,9 +1237,9 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2QueryKey</String>
                                         <String>AllRecords2TextStep1</String>
                                         <String>AllRecords2Text</String>
+                                        <String>AllRecords2QueryKey</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1351,7 +1400,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <null/>
+                                    <File>${pd}/xml/${cfn}.xml</File>
                                 </field>
                                 <field name="outputResource">
                                     <String>${pd}/xml/${cfn}.xml</String>
