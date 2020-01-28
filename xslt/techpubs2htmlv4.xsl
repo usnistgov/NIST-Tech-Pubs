@@ -216,6 +216,8 @@
                             <a href="./AMS.html">Advanced Manufacturing Series</a>
                         </p>
                         <p>
+                            <a href="./BRPD-CRPL-D.html">Basic Radio Propagation Predictions Series</a></p>
+                        <p>
                             <a href="./BH.html">Building and Housing Reports</a>
                         </p>
                         <p>
@@ -224,6 +226,15 @@
                         <p>
                             <a href="./BSS.html">Building Science Series</a>
                         </p>
+                        <p>
+                            <a href="./CRPL.html">Central Radio Propagation Laboratory Reports</a></p>
+                        <p>
+                            <a href="./CRPL-F-A.html">CRPL Ionospheric Data</a></p>
+                        <p>
+                            <a href="./IP.html">CRPL Ionospheric Predictions</a></p>
+                        <p>
+                            <a href="./CRPL-F-B.html">CRPL Solar-Geophysical Data</a></p>
+                        
                         <p>
                             <a href="./CIRC.html">Circulars</a>
                         </p>
@@ -253,8 +264,12 @@
                             <a href="./HB.html">Handbooks</a>
                         </p>
                         <p>
-                            <a href="./IR.html">Interagency/Internal Reports</a>
+                            <a href="./HR.html">Hydraulic Research in the United States</a>
                         </p>
+                        <p>
+                            <a href="./IRPL.html">Interservice Radio Propagation Laboratory</a>
+                        </p>
+                        
                         <p>
                             <a href="./LCIRC.html">Letter Circular</a>
                         </p>
@@ -272,6 +287,9 @@
                             <a href="./NSRDS.html">National Standard Reference Data Series</a>
                         </p>
                         <p>
+                            <a href="./IR.html">NISTIRs (Interagency/Internal Reports)</a>
+                        </p>
+                        <p>
                             <a href="./OWMWP.html">Office of Weights and Measures White Papers</a>
                         </p>
                         <p>
@@ -284,7 +302,55 @@
                             <a href="./SIBS.html">Special Interior Ballistics Studies</a>
                         </p>
                         <p>
-                            <a href="./SP.html">Special Publications</a>
+                            <a href="./SP.html">Special Publications (General)</a>
+                        </p>
+                        <p>
+                            <a href="./SP250.html">SP 250: Calibration Services</a>
+                        </p>
+                        <p>
+                            <a href="./SP260.html">SP 260: Standard Reference Materials</a>
+                        </p>
+                        <p>
+                            <a href="./SP300.html">SP 300: Precision Measurement and Calibration</a>
+                        </p>
+                        <p>
+                            <a href="./SP400.html">SP 400: Semiconductor Measurement Technology</a>
+                        </p>
+                        <p>
+                            <a href="./SP480.html">SP 480: Law Enforcement Technology</a>
+                        </p>
+                        <p>
+                            <a href="./SP500.html">SP 500: Computer Systems Technology</a>
+                        </p>
+                        <p>
+                            <a href="./SP700.html">SP 700: Industrial Measurement Series</a>
+                        </p>
+                        <p>
+                            <a href="./SP800.html">SP 800: Computer Security Series</a>
+                        </p>
+                        <p>
+                            <a href="./SP823.html">SP 800: Computer Security Series</a>
+                        </p>
+                        <p>
+                            <a href="./SP960.html">SP 960: NIST Recommended Practice Guides</a>
+                        </p>
+                        <p>
+                            <a href="./SP1200.html">SP 1200: Protocols</a>
+                        </p>
+                        <p>
+                            <a href="./SP1500.html">SP 1500: Working Group Papers</a>
+                        </p>
+                        <p>
+                            <a href="./SP1800.html">SP 1800: NIST Cybersecurity Practice Guides</a>
+                        </p>
+                        <p>
+                            <a href="./SP1900.html">SP 1900: Cyber-Physical Systems</a>
+                        </p>
+                        <p>
+                            <a href="./SP2000.html">SP 2000: Standards Coordination</a>
+                        </p>
+                        <p>
+                            <a href="./SP2100.html">SP 2100: Conference Proceedings</a>
                         </p>
                         <p>
                             <a href="./TIBM.html">Technical Information on Building Materials</a>

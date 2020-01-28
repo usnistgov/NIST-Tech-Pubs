@@ -1,0 +1,207 @@
+<body>
+   <query key="RPT">
+      <doi type="report-paper_title">10.6028/NBS.RPT.7274</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">112470103</crm-item>
+      <crm-item name="book-id" type="number">3470860</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201912231440</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-12-23T19:55:52Z</crm-item>
+      <crm-item name="created" type="date">2019-12-23T19:55:01Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+        
+            <report-paper>
+                <report-paper_metadata>
+                    <contributors>
+                        <person_name sequence="first" contributor_role="author">
+                            <given_name>R S</given_name>
+                            <surname>Kirby</surname>
+                        </person_name>
+                        <person_name sequence="additional" contributor_role="author">
+                            <given_name>A P</given_name>
+                            <surname>Barsis</surname>
+                        </person_name>
+                        <person_name sequence="additional" contributor_role="author">
+                            <given_name>P L</given_name>
+                            <surname>McQuate</surname>
+                        </person_name>
+                    </contributors>
+                    <titles>
+                        <title>National Bureau of Standards measurement program on UHF airborne television</title>
+                    </titles>
+                    <publication_date media_type="online">
+                        <year>1962</year>
+                    </publication_date>
+                    <publisher>
+                        <publisher_name>National Bureau of Standards</publisher_name>
+                        <publisher_place>Gaithersburg, MD</publisher_place>
+                    </publisher>
+                    <institution>
+                        <institution_name>National Bureau of Standards</institution_name>
+                        <institution_acronym>NBS</institution_acronym>
+                        <institution_place>Gaithersburg, MD</institution_place>
+                    </institution>
+                    <publisher_item>
+                        <item_number item_number_type="report-number">NBS RPT 7274</item_number>
+                    </publisher_item>
+                    <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+                        <fr:assertion name="funder_name">
+                            National Institute of Standards and Technology.
+                            <fr:assertion name="funder_identifier">https://doi.org/10.13039/100000161</fr:assertion>
+                        </fr:assertion>
+                    </fr:program>
+                    <doi_data>
+                        <doi>10.6028/NBS.RPT.7274</doi>
+                        <resource>https://nvlpubs.nist.gov/nistpubs/Legacy/RPT/nbsreport7274.pdf</resource>
+                    </doi_data>
+                </report-paper_metadata>
+            </report-paper>
+        
+      </doi_record>
+   </query>
+   <query key="TN">
+      <doi type="report-paper_title">10.6028/NIST.TN.2079</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">112394761</crm-item>
+      <crm-item name="book-id" type="number">3468990</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201912230852</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-12-23T13:54:43Z</crm-item>
+      <crm-item name="created" type="date">2019-12-19T20:05:07Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+        
+            <report-paper>
+                <report-paper_metadata>
+                    <contributors>
+                        <person_name sequence="first" contributor_role="author">
+                            <given_name>Jeffrey A</given_name>
+                            <surname>Jargon</surname>
+                        </person_name>
+                        <person_name sequence="additional" contributor_role="author">
+                            <given_name>Dazhen</given_name>
+                            <surname>Gu</surname>
+                        </person_name>
+                        <person_name sequence="additional" contributor_role="author">
+                            <given_name>Christian J</given_name>
+                            <surname>Long</surname>
+                        </person_name>
+                        <person_name sequence="additional" contributor_role="author">
+                            <given_name>Aaron M</given_name>
+                            <surname>Hagerstrom</surname>
+                        </person_name>
+                        <person_name sequence="additional" contributor_role="author">
+                            <given_name>Angela C</given_name>
+                            <surname>Stelson</surname>
+                        </person_name>
+                        <person_name sequence="additional" contributor_role="author">
+                            <given_name>Ann F</given_name>
+                            <surname>Monke</surname>
+                        </person_name>
+                    </contributors>
+                    <titles>
+                        <title>Theoretical basis of the direct-comparison system for power calibration including equivalent source mismatch</title>
+                    </titles>
+                    <publication_date media_type="online">
+                        <month>12</month>
+                        <year>2019</year>
+                    </publication_date>
+                    <publisher>
+                        <publisher_name>National Institute of Standards and Technology</publisher_name>
+                        <publisher_place>Gaithersburg, MD</publisher_place>
+                    </publisher>
+                    <institution>
+                        <institution_name>National Institute of Standards and Technology</institution_name>
+                        <institution_acronym>NIST</institution_acronym>
+                        <institution_place>Gaithersburg, MD</institution_place>
+                        <institution_department>Communications Technology Laboratory</institution_department>
+                    </institution>
+                    <publisher_item>
+                        <item_number item_number_type="report-number">NIST TN 2079</item_number>
+                    </publisher_item>
+                    <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+                        <fr:assertion name="funder_name">
+                            Communications Technology Laboratory
+                            <fr:assertion name="funder_identifier">https://doi.org/10.13039/100007762H</fr:assertion>
+                        </fr:assertion>
+                    </fr:program>
+                    <doi_data>
+                        <doi>10.6028/NIST.TN.2079</doi>
+                        <resource>https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2079.pdf</resource>
+                    </doi_data>
+                </report-paper_metadata>
+            </report-paper>
+        
+      </doi_record>
+   </query>
+   <query key="SP800">
+      <doi type="report-paper_title">10.6028/NIST.SP.800-12r1</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">91018740</crm-item>
+      <crm-item name="book-id" type="number">2405666</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201706221258</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2018-03-06T09:15:30Z</crm-item>
+      <crm-item name="created" type="date">2017-06-22T12:49:08Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+        
+            <report-paper>
+                <report-paper_metadata>
+                    <contributors>
+                        <person_name sequence="first" contributor_role="author">
+                            <given_name>Michael</given_name>
+                            <surname>Nieles</surname>
+                        </person_name>
+                        <person_name sequence="additional" contributor_role="author">
+                            <given_name>Kelley</given_name>
+                            <surname>Dempsey</surname>
+                        </person_name>
+                        <person_name sequence="additional" contributor_role="author">
+                            <given_name>Victoria Yan</given_name>
+                            <surname>Pillitteri</surname>
+                        </person_name>
+                    </contributors>
+                    <titles>
+                        <title>An introduction to information security</title>
+                    </titles>
+                    <publication_date media_type="online">
+                        <month>06</month>
+                        <year>2017</year>
+                    </publication_date>
+                    <publisher>
+                        <publisher_name>National Institute of Standards and Technology</publisher_name>
+                        <publisher_place>Gaithersburg, MD</publisher_place>
+                    </publisher>
+                    <institution>
+                        <institution_name>National Institute of Standards and Technology</institution_name>
+                        <institution_acronym>NIST</institution_acronym>
+                        <institution_place>Gaithersburg, MD</institution_place>
+                        <institution_department>Information Technology Laboratory</institution_department>
+                    </institution>
+                    <publisher_item>
+                        <item_number item_number_type="report-number">NIST SP 800-12r1</item_number>
+                    </publisher_item>
+                    <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+                        <fr:assertion name="funder_name">
+                            Information Technology Laboratory
+                            <fr:assertion name="funder_identifier">http://dx.doi.org/10.13039/https://doi.org/10.13039/100007764R</fr:assertion>
+                        </fr:assertion>
+                    </fr:program>
+                    <doi_data>
+                        <doi>10.6028/NIST.SP.800-12r1</doi>
+                        <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-12r1.pdf</resource>
+                    </doi_data>
+                </report-paper_metadata>
+            </report-paper>
+        
+      </doi_record>
+   </query>
+</body>
