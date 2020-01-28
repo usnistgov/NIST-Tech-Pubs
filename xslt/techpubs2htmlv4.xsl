@@ -329,7 +329,7 @@
                             <a href="./SP800.html">SP 800: Computer Security Series</a>
                         </p>
                         <p>
-                            <a href="./SP823.html">SP 800: Computer Security Series</a>
+                            <a href="./SP823.html">SP 823: Integrated Services Digital Network Series</a>
                         </p>
                         <p>
                             <a href="./SP960.html">SP 960: NIST Recommended Practice Guides</a>
