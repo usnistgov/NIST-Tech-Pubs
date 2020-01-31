@@ -14,11 +14,30 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xml/allrecords-jan272020.xml</String>
+                                    <String>xml/allrecords-jan312020.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
                                         <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
+                                        <String>AllRecords2Text - Public</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/preprintrecords-31jan2020.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2Text-Preprint</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -34,6 +53,51 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>AllRecords2HTML</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/preprintrecords-10jan2020.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2Text-Preprint</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/allrecords-jan272020.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2HTML</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xml/jan28-31.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2QueryKey</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -104,41 +168,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xml/Untitled2.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>AllRecords2TextStep1</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>xml/ris-test.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
                                         <String>AllRecords2HTML</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>xml/preprintrecords-10jan2020.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>AllRecords2Text-Preprint</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -218,8 +252,8 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>AllRecords2HTML</String>
-                                        <String>AllRecords2Text - Public</String>
                                         <String>AllRecords2Text</String>
+                                        <String>AllRecords2Text - Public</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -237,8 +271,8 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>AllRecords2HTML</String>
-                                        <String>AllRecords2Text - Public</String>
                                         <String>AllRecords2Text</String>
+                                        <String>AllRecords2Text - Public</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1856,10 +1890,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/public/NIST_Tech_Pubs_MASTER-rev.txt</File>
+                                    <File>${pd}/public/NIST_Tech_Pubs_MASTER.txt</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/public/NIST_Tech_Pubs_MASTER-rev.txt</String>
+                                    <String>${pd}/public/NIST_Tech_Pubs_MASTER.txt</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>

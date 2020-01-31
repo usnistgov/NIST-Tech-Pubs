@@ -1,0 +1,161 @@
+<body>
+   <query key="TN">
+      <doi type="report-paper_title">10.6028/NIST.TN.2059</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">112724966</crm-item>
+      <crm-item name="book-id" type="number">3474305</crm-item>
+      <crm-item name="deposit-timestamp" type="number">202001271237</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2020-01-27T17:39:03Z</crm-item>
+      <crm-item name="created" type="date">2020-01-03T21:44:28Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <report-paper>
+            <report-paper_metadata>
+               <contributors>
+                  <person_name sequence="first" contributor_role="author">
+                     <given_name>Robert R</given_name>
+                     <surname>Zarr</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                     <given_name>Jiyu</given_name>
+                     <surname>Wu</surname>
+                  </person_name>
+                  <person_name sequence="additional" contributor_role="author">
+                     <given_name>Hung-Kung;</given_name>
+                     <surname>Liu</surname>
+                  </person_name>
+               </contributors>
+               <titles>
+                  <title>NIST-NPL bilateral comparison of guarded-hot-plate laboratories from 20 °C to 160 °C</title>
+               </titles>
+               <publication_date media_type="online">
+                  <month>01</month>
+                  <year>2020</year>
+               </publication_date>
+               <publisher>
+                  <publisher_name>National Institute of Standards and Technology</publisher_name>
+                  <publisher_place>Gaithersburg, MD</publisher_place>
+               </publisher>
+               <institution>
+                  <institution_name>National Institute of Standards and Technology</institution_name>
+                  <institution_acronym>NIST</institution_acronym>
+                  <institution_place>Gaithersburg, MD</institution_place>
+                  <institution_department>Engineering Laboratory.</institution_department>
+               </institution>
+               <publisher_item>
+                  <item_number item_number_type="report-number">NIST TN 2059</item_number>
+               </publisher_item>
+               <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+                  <fr:assertion name="funder_name">Engineering Laboratory.<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007763</fr:assertion>
+                  </fr:assertion>
+               </fr:program>
+               <doi_data>
+                  <doi>10.6028/NIST.TN.2059</doi>
+                  <resource>https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2059.pdf</resource>
+               </doi_data>
+            </report-paper_metadata>
+         </report-paper>
+      </doi_record>
+   </query>
+   <query key="IR">
+      <doi type="report-paper_title">10.6028/NIST.IR.8284</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">113345836</crm-item>
+      <crm-item name="book-id" type="number">3488804</crm-item>
+      <crm-item name="deposit-timestamp" type="number">202001301419</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2020-01-30T19:20:04Z</crm-item>
+      <crm-item name="created" type="date">2020-01-30T19:20:03Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <report-paper>
+            <report-paper_metadata>
+               <contributors>
+                  <person_name sequence="first" contributor_role="author">
+                     <given_name>Avi</given_name>
+                     <surname>Gopstein</surname>
+                  </person_name>
+               </contributors>
+               <titles>
+                  <title>Framework and Roadmap for Smart Grid Interoperability Standards Regional Roundtables Summary Report</title>
+               </titles>
+               <publication_date media_type="online">
+                  <month>01</month>
+                  <day>30</day>
+                  <year>2020</year>
+               </publication_date>
+               <publisher>
+                  <publisher_name>National Institute of Standards and Technology</publisher_name>
+               </publisher>
+               <institution>
+                  <institution_name>National Institute of Standards and Technology</institution_name>
+                  <institution_acronym>NIST</institution_acronym>
+                  <institution_place>Gaithersburg, MD</institution_place>
+                  <institution_department>Engineering Laboratory</institution_department>
+               </institution>
+               <publisher_item>
+                  <identifier id_type="report-number">NISTIR 8284</identifier>
+               </publisher_item>
+               <doi_data>
+                  <doi>10.6028/NIST.IR.8284</doi>
+                  <resource>https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8284.pdf</resource>
+               </doi_data>
+            </report-paper_metadata>
+         </report-paper>
+      </doi_record>
+   </query>
+   <query key="TN">
+      <doi type="report-paper_title">10.6028/NIST.TN.2086</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">113372175</crm-item>
+      <crm-item name="book-id" type="number">3489264</crm-item>
+      <crm-item name="deposit-timestamp" type="number">202001310921</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2020-01-31T14:21:56Z</crm-item>
+      <crm-item name="created" type="date">2020-01-31T14:21:56Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <report-paper>
+            <report-paper_metadata>
+               <contributors>
+                  <person_name sequence="first" contributor_role="author">
+                     <given_name>Camila E.</given_name>
+                     <surname>Young</surname>
+                  </person_name>
+               </contributors>
+               <titles>
+                  <title>A Review of Social Media Use During Disaster Response and Recovery Phases</title>
+               </titles>
+               <publication_date media_type="online">
+                  <month>01</month>
+                  <day>31</day>
+                  <year>2020</year>
+               </publication_date>
+               <publisher>
+                  <publisher_name>National Institute of Standards and Technology</publisher_name>
+               </publisher>
+               <institution>
+                  <institution_name>National Institute of Standards and Technology</institution_name>
+                  <institution_acronym>NIST</institution_acronym>
+                  <institution_place>Gaithersburg, MD</institution_place>
+                  <institution_department>Engineering Laboratory</institution_department>
+               </institution>
+               <publisher_item>
+                  <identifier id_type="report-number">NIST TN 2086</identifier>
+               </publisher_item>
+               <doi_data>
+                  <doi>10.6028/NIST.TN.2086</doi>
+                  <resource>https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2086.pdf</resource>
+               </doi_data>
+            </report-paper_metadata>
+         </report-paper>
+      </doi_record>
+   </query>
+</body>
