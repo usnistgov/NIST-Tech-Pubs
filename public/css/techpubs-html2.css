@@ -115,16 +115,14 @@ aside a{
 footer{
     width: 94%;
     padding: 3%;
-    background-color: #12659C;
-    border-top: 5px solid #000;
-    color: #fff;
+
+    border-top: 0.5px solid #000;
+ 
     text-align: center;
     clear: both;
 }
 
-footer a{
-    color: #fff;
-}
+
 @media all and (max-width : 768px) {
     header {
         text-align: center;
@@ -184,7 +182,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
 
-.welcome {
+.welcome, .links, .contact {
     font-size: 18px; 
     line-height: 1.4em;
         color: #000;
