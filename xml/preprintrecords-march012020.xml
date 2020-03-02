@@ -1,0 +1,2219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8225-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">101538368</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201809191620</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2018-09-19T20:20:59Z</crm-item>
+      <crm-item name="created" type="date">2018-09-19T20:18:29Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>John M.</given_name>
+                  <surname>Butler</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>NIST Scientific Foundation Reviews</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>09</month>
+               <day>20</day>
+               <year>2018</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8225</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8225-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8225-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8228-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">101538414</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201809191620</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2018-09-19T20:22:44Z</crm-item>
+      <crm-item name="created" type="date">2018-09-19T20:22:44Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Karen</given_name>
+                  <surname>Scarfone</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Considerations for Managing Internet of Things (IoT) Cybersecurity and Privacy Risks</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>09</month>
+               <day>21</day>
+               <year>2018</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8228</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8228-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8228-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.1229-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">102443072</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201810310925</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2018-10-31T13:29:47Z</crm-item>
+      <crm-item name="created" type="date">2018-10-31T13:29:46Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Joe</given_name>
+                  <surname>Falco</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Karl</given_name>
+                  <surname>Van Wyk</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Elena</given_name>
+                  <surname>Messina</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Proposed Standard Terminology for Robotic Hands and Associated Performance Metrics</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>10</month>
+               <day>31</day>
+               <year>2018</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.1229</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.1229-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1229-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.1227-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">102443074</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201810310925</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2018-10-31T13:29:48Z</crm-item>
+      <crm-item name="created" type="date">2018-10-31T13:29:46Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Joe</given_name>
+                  <surname>Falco</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Karl</given_name>
+                  <surname>Van Wyk</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Elena</given_name>
+                  <surname>Messina</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Performance Metrics and Test Methods for Robotic Hands</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>10</month>
+               <day>31</day>
+               <year>2018</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.1227</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.1227-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1227-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8196-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">103091596</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201811290906</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2018-11-29T14:15:33Z</crm-item>
+      <crm-item name="created" type="date">2018-11-29T14:15:32Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Joshua</given_name>
+                  <surname>Franklin</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Security Analysis of the Personal Area Network: The Future of Public Safety Technology</title>
+            </titles>
+            <!--
+
+                
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>11</month>
+               <day>30</day>
+               <year>2018</year>
+            </posted_date>
+            <!--
+
+                
+ relationship established with final DOI, can only input when final DOI has been registered)
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8196</intra_work_relation>
+               </related_item>
+            </program>
+            <!--   DOI and URL (required)   -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8196-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8196-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.800-189-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">103386515</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201812141507</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2018-12-14T20:10:59Z</crm-item>
+      <crm-item name="created" type="date">2018-12-12T20:35:14Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Kotikalapudi</given_name>
+                  <surname>Sriram</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Secure Interdomain Traffic Exchange</title>
+            </titles>
+            <!--
+
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>12</month>
+               <day>14</day>
+               <year>2018</year>
+            </posted_date>
+            <!--
+
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.800-189</intra_work_relation>
+               </related_item>
+            </program>
+            <!--   DOI and URL (required)   -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.800-189-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-189-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.800-205-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">104725868</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201902121555</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-02-12T20:57:42Z</crm-item>
+      <crm-item name="created" type="date">2019-02-12T20:57:41Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Vincent C.</given_name>
+                  <surname>Hu</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Attribute Considerations for Access Control Systems</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>02</month>
+               <day>13</day>
+               <year>2019</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.800-205</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.800-205-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-205-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.800-38Gr1-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">105074019</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201902280918</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-02-28T14:21:48Z</crm-item>
+      <crm-item name="created" type="date">2019-02-28T14:21:48Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Morris</given_name>
+                  <surname>Dworkin</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Recommendation for Block Cipher Modes of Operation</title>
+               <subtitle>Methods for Format-Preserving Encryption</subtitle>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>02</month>
+               <day>28</day>
+               <year>2019</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.800-38Gr1</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.800-38Gr1-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-38Gr1-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.800-133r1-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">105197005</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201903061000</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-03-06T15:04:27Z</crm-item>
+      <crm-item name="created" type="date">2019-03-06T15:04:27Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Elaine</given_name>
+                  <surname>Barker</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Recommendation for Cryptographic Key Generation</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>03</month>
+               <day>06</day>
+               <year>2019</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.800-133r1</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.800-133r1-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-133r1-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.800-204-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">105632722</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201903251138</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-03-25T15:41:09Z</crm-item>
+      <crm-item name="created" type="date">2019-03-25T15:41:08Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Ramaswamy</given_name>
+                  <surname>Chandramouli</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Security Strategies for Microservices-based Application Systems</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>03</month>
+               <day>25</day>
+               <year>2019</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.800-204</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.800-204-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.1234-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">105988081</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201904081104</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-04-08T15:08:05Z</crm-item>
+      <crm-item name="created" type="date">2019-04-08T15:08:05Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <organization sequence="first" contributor_role="author">National Institute of Standards and Technology</organization>
+            </contributors>
+            <titles>
+               <title>Return on investment initiative for unleashing American innovation</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>12</month>
+               <day>06</day>
+               <year>2018</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.1234</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.1234-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1234-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8183A-1-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">107193554</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201905280645</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-05-28T10:46:36Z</crm-item>
+      <crm-item name="created" type="date">2019-05-28T10:46:36Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Jeff</given_name>
+                  <surname>Cichonski</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Cybersecurity Framework Manufacturing Profile Low Security Level Example Implementations Guide</title>
+               <subtitle>Volume 1 - General Implementation Guidance</subtitle>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>05</month>
+               <day>28</day>
+               <year>2019</year>
+            </posted_date>
+            <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+               <fr:assertion name="funder_name">Information Technology Laboratory<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764R</fr:assertion>
+               </fr:assertion>
+            </fr:program>
+            <!--
+
+ relationship established with final DOI, can only input when final DOI has been registered)
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8183A-1</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8183A-1-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8183A-1-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8183A-2-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">107193555</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201905280645</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-05-28T10:46:39Z</crm-item>
+      <crm-item name="created" type="date">2019-05-28T10:46:36Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Jeff</given_name>
+                  <surname>Cichonski</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Cybersecurity Framework Manufacturing Profile Low Security Level Example Implementations Guide</title>
+               <subtitle>Volume 2 - Process-based Manufacturing System Use Case</subtitle>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>05</month>
+               <day>28</day>
+               <year>2019</year>
+            </posted_date>
+            <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+               <fr:assertion name="funder_name">Information Technology Laboratory<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764R</fr:assertion>
+               </fr:assertion>
+            </fr:program>
+            <!--
+
+ relationship established with final DOI, can only input when final DOI has been registered)
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8183A-2</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8183A-2-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8183A-2-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8183A-3-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">107193556</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201905280645</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-05-28T10:46:40Z</crm-item>
+      <crm-item name="created" type="date">2019-05-28T10:46:36Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Jeff</given_name>
+                  <surname>Cichonski</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Cybersecurity Framework Manufacturing Profile Low Security Level Example Implementations Guide</title>
+               <subtitle>Volume 3 - Discrete-based Manufacturing System Use Case</subtitle>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>05</month>
+               <day>28</day>
+               <year>2019</year>
+            </posted_date>
+            <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+               <fr:assertion name="funder_name">Information Technology Laboratory<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764R</fr:assertion>
+               </fr:assertion>
+            </fr:program>
+            <!--
+
+ relationship established with final DOI, can only input when final DOI has been registered)
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8183A-3</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8183A-3-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8183A-3-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8213-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">106411610</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201904251205</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-04-25T16:08:25Z</crm-item>
+      <crm-item name="created" type="date">2019-04-25T16:08:24Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <organization sequence="first" contributor_role="author">National Institute of Standards and Technology</organization>
+            </contributors>
+            <titles>
+               <title>Randomness Beacon Format 2.0</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>04</month>
+               <day>29</day>
+               <year>2019</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8213</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8213-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8213-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.800-77r1-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">108055465</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201907020954</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-09-24T01:43:44Z</crm-item>
+      <crm-item name="created" type="date">2019-07-02T14:07:09Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <organization sequence="first" contributor_role="author">National Institute of Standards and Technology</organization>
+            </contributors>
+            <titles>
+               <title>Guide to IPsec VPNs</title>
+               <subtitle>Revision 1</subtitle>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>07</month>
+               <day>02</day>
+               <year>2019</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, can only input when final DOI has been registered)
+-->
+            <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+               <fr:assertion name="funder_name">Information Technology Laboratory<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764R</fr:assertion>
+               </fr:assertion>
+            </fr:program>
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.800-77r1</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.800-77r1-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-77r1-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.800-175Br1-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">108062000</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201907021531</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-09-20T01:42:39Z</crm-item>
+      <crm-item name="created" type="date">2019-07-02T19:33:56Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <organization sequence="first" contributor_role="author">National Institute of Standards and Technology</organization>
+            </contributors>
+            <titles>
+               <title>Guideline for Using Cryptographic Standards in the Federal Government:</title>
+               <subtitle>Cryptographic Mechanisms, Revision 1</subtitle>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>07</month>
+               <day>02</day>
+               <year>2019</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, can only input when final DOI has been registered)
+-->
+            <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+               <fr:assertion name="funder_name">Information Technology Laboratory<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764R</fr:assertion>
+               </fr:assertion>
+            </fr:program>
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.800-175Br1</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.800-175Br1-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-175Br1-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.CSWP.07092019-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">108209064</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201907090911</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-09-25T10:14:36Z</crm-item>
+      <crm-item name="created" type="date">2019-07-09T13:13:43Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <organization sequence="first" contributor_role="author">National Institute of Standards and Technology</organization>
+            </contributors>
+            <titles>
+               <title>A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>07</month>
+               <day>09</day>
+               <year>2019</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, can only input when final DOI has been registered)
+-->
+            <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+               <fr:assertion name="funder_name">Information Technology Laboratory<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764R</fr:assertion>
+               </fr:assertion>
+            </fr:program>
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.CSWP.07092019</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.CSWP.07092019-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.07092019-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8259-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">108717291</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201907300952</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-09-24T12:40:07Z</crm-item>
+      <crm-item name="created" type="date">2019-07-30T14:04:53Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Michael</given_name>
+                  <surname>Fagan</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Katerina N.</given_name>
+                  <surname>Megas</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Karen</given_name>
+                  <surname>Scarfone</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Matthew</given_name>
+                  <surname>Smith</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Core Cybersecurity Features Baseline for Securable IoT Devices: A Starting Point for IoT Device Manufacturers</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>07</month>
+               <day>31</day>
+               <year>2019</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, can only input when final DOI has been registered)
+-->
+            <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+               <fr:assertion name="funder_name">Information Technology Laboratory<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764R</fr:assertion>
+               </fr:assertion>
+            </fr:program>
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8259</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8259-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8259-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.800-207-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">109967943</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201909230947</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-09-23T14:14:46Z</crm-item>
+      <crm-item name="created" type="date">2019-09-23T14:14:46Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Scott</given_name>
+                  <surname>Rose</surname>
+                  <ORCID authenticated="false">https://orcid.org/0000-0002-3105-7427</ORCID>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Oliver</given_name>
+                  <surname>Borchert</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Stu</given_name>
+                  <surname>Mitchell</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Sean</given_name>
+                  <surname>Connelly</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Zero Trust Architecture</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>09</month>
+               <day>23</day>
+               <year>2019</year>
+            </posted_date>
+            <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+               <fr:assertion name="funder_name">Information Technology Laboratory<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764</fr:assertion>
+               </fr:assertion>
+            </fr:program>
+            <!--
+
+ relationship established with final DOI, can only input when final DOI has been registered)
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.800-207</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.800-207-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8267-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">110303074</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201910010955</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-10-01T14:09:47Z</crm-item>
+      <crm-item name="created" type="date">2019-10-01T14:09:47Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Michael</given_name>
+                  <surname>Fagan</surname>
+                  <ORCID authenticated="false">https://orcid.org/0000-0002-1861-2609</ORCID>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Mary</given_name>
+                  <surname>Yang</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Allen</given_name>
+                  <surname>Tan</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Lora</given_name>
+                  <surname>Randolph</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Karen</given_name>
+                  <surname>Scarfone</surname>
+                  <ORCID authenticated="false">https://orcid.org/0000-0001-6334-9486</ORCID>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Security Review of Consumer Home 16 Internet of Things (IoT) Products</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>10</month>
+               <day>01</day>
+               <year>2019</year>
+            </posted_date>
+            <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+               <fr:assertion name="funder_name">Information Technology Laboratory<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764R</fr:assertion>
+               </fr:assertion>
+            </fr:program>
+            <!--
+
+ relationship established with final DOI, can only input when final DOI has been registered)
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8267</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8267-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8267-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.800-57pt1r5-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">110475862</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201910081632</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-10-08T20:37:34Z</crm-item>
+      <crm-item name="created" type="date">2019-10-08T20:37:33Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Elaine</given_name>
+                  <surname>Barker</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Recommendation for Key Management</title>
+               <subtitle>Part 1 - General</subtitle>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>10</month>
+               <day>08</day>
+               <year>2019</year>
+            </posted_date>
+            <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+               <fr:assertion name="funder_name">Information Technology Laboratory<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764</fr:assertion>
+               </fr:assertion>
+            </fr:program>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.800-57pt1r5</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.800-57pt1r5-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r5-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8269-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">111078680</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201912311413</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-12-31T19:19:26Z</crm-item>
+      <crm-item name="created" type="date">2019-10-30T14:32:40Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Elham</given_name>
+                  <surname>Tabassi</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Kevin J.</given_name>
+                  <surname>Burns</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Michael</given_name>
+                  <surname>Hadjimichael</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Andres D.</given_name>
+                  <surname>Molina-Markham</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Julian T.</given_name>
+                  <surname>Sexton</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>A taxonomy and terminology of adversarial machine learning</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>10</month>
+               <day>30</day>
+               <year>2019</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+               <fr:assertion name="funder_name">Information Technology Laboratory.<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764R</fr:assertion>
+               </fr:assertion>
+            </fr:program>
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8269</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8269-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8269-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.800-186-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">111086178</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201910301309</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-10-30T17:12:40Z</crm-item>
+      <crm-item name="created" type="date">2019-10-30T17:12:39Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Andrew</given_name>
+                  <surname>Regenscheid</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Recommendations for Discrete-Logarithm Based Cryptography:</title>
+               <subtitle>Elliptic Curve Domain Parameters</subtitle>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>10</month>
+               <day>30</day>
+               <year>2019</year>
+            </posted_date>
+            <!--
+ <fr:program name="fundref">
+                <fr:assertion name="funder_name">Information Technology Laboratory
+                    <fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764R
+                    </fr:assertion>
+                </fr:assertion>
+            </fr:program> 
+-->
+            <!--
+
+ relationship established with final DOI, can only input when final DOI has been registered)
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.800-186</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.800-186-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-186-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.800-189-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">103386515</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201812141507</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2018-12-14T20:10:59Z</crm-item>
+      <crm-item name="created" type="date">2018-12-12T20:35:14Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Kotikalapudi</given_name>
+                  <surname>Sriram</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Secure Interdomain Traffic Exchange</title>
+            </titles>
+            <!--
+
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>12</month>
+               <day>14</day>
+               <year>2018</year>
+            </posted_date>
+            <!--
+
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.800-189</intra_work_relation>
+               </related_item>
+            </program>
+            <!--   DOI and URL (required)   -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.800-189-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-189-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8214A-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">111317104</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201911081508</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-11-08T20:15:13Z</crm-item>
+      <crm-item name="created" type="date">2019-11-08T20:15:13Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Luís T. A. N.</given_name>
+                  <surname>Brandão</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Michael</given_name>
+                  <surname>Davidson</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Apostol</given_name>
+                  <surname>Vassilev</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Towards NIST Standards for Threshold Schemes for Cryptographic Primitives</title>
+               <subtitle>A Preliminary Roadma</subtitle>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>11</month>
+               <day>08</day>
+               <year>2019</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8214A</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8214A-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8214A-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8011-4-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">111594591</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201912311413</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-12-31T19:19:28Z</crm-item>
+      <crm-item name="created" type="date">2019-11-20T14:07:59Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Kelley</given_name>
+                  <surname>Dempsey</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Paul</given_name>
+                  <surname>Eavy</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>George</given_name>
+                  <surname>Moore</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Eduardo</given_name>
+                  <surname>Takamura</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Automation Support for Security Control Assessments: Software Vulnerability Management</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>11</month>
+               <day>20</day>
+               <year>2019</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+               <fr:assertion name="funder_name">Information Technology Laboratory.<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764R</fr:assertion>
+               </fr:assertion>
+            </fr:program>
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8011-4</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8011-4-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8011-4-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.800-208-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">112155679</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201912111457</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-12-11T20:00:36Z</crm-item>
+      <crm-item name="created" type="date">2019-12-11T20:00:36Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>David A.</given_name>
+                  <surname>Cooper</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Recommendation for Stateful Hash-Based Signature Schemes</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>11</month>
+               <day>08</day>
+               <year>2019</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.800-208</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.800-208-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-208-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8183A-1-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">107193554</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201905280645</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-05-28T10:46:36Z</crm-item>
+      <crm-item name="created" type="date">2019-05-28T10:46:36Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Jeff</given_name>
+                  <surname>Cichonski</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Cybersecurity Framework Manufacturing Profile Low Security Level Example Implementations Guide</title>
+               <subtitle>Volume 1 - General Implementation Guidance</subtitle>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>05</month>
+               <day>28</day>
+               <year>2019</year>
+            </posted_date>
+            <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+               <fr:assertion name="funder_name">Information Technology Laboratory<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764R</fr:assertion>
+               </fr:assertion>
+            </fr:program>
+            <!--
+
+ relationship established with final DOI, can only input when final DOI has been registered)
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8183A-1</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8183A-1-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8183A-1-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8183A-2-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">107193555</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201905280645</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-05-28T10:46:39Z</crm-item>
+      <crm-item name="created" type="date">2019-05-28T10:46:36Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Jeff</given_name>
+                  <surname>Cichonski</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Cybersecurity Framework Manufacturing Profile Low Security Level Example Implementations Guide</title>
+               <subtitle>Volume 2 - Process-based Manufacturing System Use Case</subtitle>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>05</month>
+               <day>28</day>
+               <year>2019</year>
+            </posted_date>
+            <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+               <fr:assertion name="funder_name">Information Technology Laboratory<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764R</fr:assertion>
+               </fr:assertion>
+            </fr:program>
+            <!--
+
+ relationship established with final DOI, can only input when final DOI has been registered)
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8183A-2</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8183A-2-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8183A-2-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8183A-3-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">107193556</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201905280645</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-05-28T10:46:40Z</crm-item>
+      <crm-item name="created" type="date">2019-05-28T10:46:36Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Jeff</given_name>
+                  <surname>Cichonski</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Cybersecurity Framework Manufacturing Profile Low Security Level Example Implementations Guide</title>
+               <subtitle>Volume 3 - Discrete-based Manufacturing System Use Case</subtitle>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>05</month>
+               <day>28</day>
+               <year>2019</year>
+            </posted_date>
+            <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+               <fr:assertion name="funder_name">Information Technology Laboratory<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764R</fr:assertion>
+               </fr:assertion>
+            </fr:program>
+            <!--
+
+ relationship established with final DOI, can only input when final DOI has been registered)
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8183A-3</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8183A-3-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8183A-3-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.800-189-draft2</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">110778160</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">201910171545</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2019-10-17T19:49:05Z</crm-item>
+      <crm-item name="created" type="date">2019-10-17T19:49:05Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Kotikalapudi</given_name>
+                  <surname>Sriram</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Douglas</given_name>
+                  <surname>Montgomery</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Resilient Interdomain Traffic Exchange</title>
+               <subtitle>3 BGP Security and DDoS Mitigation</subtitle>
+            </titles>
+            <!--
+
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>10</month>
+               <day>17</day>
+               <year>2019</year>
+            </posted_date>
+            <!--
+
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.800-189</intra_work_relation>
+               </related_item>
+            </program>
+            <!--   DOI and URL (required)   -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.800-189-draft2</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-189-draft2.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8259-draft2</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">112785908</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">202001070855</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2020-01-07T14:07:05Z</crm-item>
+      <crm-item name="created" type="date">2020-01-06T20:27:04Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Michael</given_name>
+                  <surname>Fagan</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Katerina N.</given_name>
+                  <surname>Megas</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Karen</given_name>
+                  <surname>Scarfone</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Matthew</given_name>
+                  <surname>Smith</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Recommendations for IoT Device 2 Manufacturers:</title>
+               <subtitle>Foundational Activities and Core Device Cybersecurity 4 Capability Baseline</subtitle>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>01</month>
+               <day>07</day>
+               <year>2020</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8259</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8259-draft2</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8259-draft2.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.800-53r5-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">113140234</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">202001220734</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2020-01-22T12:36:57Z</crm-item>
+      <crm-item name="created" type="date">2020-01-21T19:30:36Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <organization sequence="first" contributor_role="author">Joint Task Force Transformation Initiative</organization>
+            </contributors>
+            <titles>
+               <title>Security and Privacy Controls for Information Systems and Organizations</title>
+            </titles>
+            <!--
+
+                
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>01</month>
+               <day>22</day>
+               <year>2020</year>
+            </posted_date>
+            <!--
+
+                
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.800-53r5</intra_work_relation>
+               </related_item>
+            </program>
+            <!--   DOI and URL (required)   -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.800-53r5-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8278-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">113227091</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">202001311032</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2020-01-31T15:35:16Z</crm-item>
+      <crm-item name="created" type="date">2020-01-24T20:49:59Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Nicole</given_name>
+                  <surname>Keller</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Stephen</given_name>
+                  <surname>Quinn</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Karen</given_name>
+                  <surname>Scarfone</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Matthew</given_name>
+                  <surname>Smith</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Vincent</given_name>
+                  <surname>Johnson</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>National Cybersecurity Online Informative References (OLIR) Program:</title>
+               <subtitle>Guidance for OLIR Users and Developers</subtitle>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>01</month>
+               <day>24</day>
+               <year>2020</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+               <fr:assertion name="funder_name">Information Technology Laboratory.<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764</fr:assertion>
+               </fr:assertion>
+            </fr:program>
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8278</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8278-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8278-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.800-204A-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">113065020</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">202001171345</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2020-01-17T18:47:18Z</crm-item>
+      <crm-item name="created" type="date">2020-01-17T18:47:16Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Ramaswamy</given_name>
+                  <surname>Chandramouli</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Zack</given_name>
+                  <surname>Butcher</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Building Secure Microservices-based Applications Using Service-Mesh Architecture</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>01</month>
+               <day>13</day>
+               <year>2020</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.800-204A</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.800-204A-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204A-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.800-137A-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">112950010</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">202001130923</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2020-01-13T14:34:35Z</crm-item>
+      <crm-item name="created" type="date">2020-01-13T14:34:35Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Kelley</given_name>
+                  <surname>Dempsey</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Victoria Yan</given_name>
+                  <surname>Pillitteri</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Chad</given_name>
+                  <surname>Baer</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Robert</given_name>
+                  <surname>Niemeyer</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Ron</given_name>
+                  <surname>Rudman</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Susan</given_name>
+                  <surname>Urban</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Assessing Information Security Continuous Monitoring (ISCM) Programs:</title>
+               <subtitle>Developing an ISCM Program Assessment</subtitle>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>01</month>
+               <day>13</day>
+               <year>2020</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.800-137A</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.800-137A-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-137A-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8276-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">113457758</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">202002031025</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2020-02-03T15:28:49Z</crm-item>
+      <crm-item name="created" type="date">2020-02-03T15:28:49Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Jon M.</given_name>
+                  <surname>Boyens</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Key Practices in Cyber Supply Chain Risk Management: Observations from Industry</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>02</month>
+               <day>03</day>
+               <year>2020</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8276</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8276-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8276-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.IR.8246-draft</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">113667478</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">202002100919</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2020-02-10T14:20:00Z</crm-item>
+      <crm-item name="created" type="date">2020-02-10T14:20:00Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Robert</given_name>
+                  <surname>Byers</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>David</given_name>
+                  <surname>Waltermire</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Christopher</given_name>
+                  <surname>Turner</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>National Vulnerability Database (NVD) Metadata Submission Guidelines for Common Vulnerabilities and Exposures (CVE) Numbering Authorities (CNAs) and Authorized Data Publishers</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>02</month>
+               <day>10</day>
+               <year>2020</year>
+            </posted_date>
+            <!--
+
+ relationship established with final DOI, you will get an error until the final DOI is registered, but it will still go through
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.IR.8246</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.IR.8246-draft</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8246-draft.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+   <query key="" status="resolved">
+      <doi type="posted_content">10.6028/NIST.SP.800-207-draft2</doi>
+      <crm-item name="publisher-name" type="string">National Institute of Standards and Technology (NIST)</crm-item>
+      <crm-item name="prefix-name" type="string">National Institute of Standards and Technology</crm-item>
+      <crm-item name="member-id" type="number">4068</crm-item>
+      <crm-item name="citation-id" type="number">113763058</crm-item>
+      <crm-item name="book-id" type="number">3157298</crm-item>
+      <crm-item name="deposit-timestamp" type="number">202002130852</crm-item>
+      <crm-item name="owner-prefix" type="string">10.6028</crm-item>
+      <crm-item name="last-update" type="date">2020-02-13T13:53:56Z</crm-item>
+      <crm-item name="created" type="date">2020-02-13T13:53:43Z</crm-item>
+      <crm-item name="citedby-count" type="number">0</crm-item>
+      <doi_record>
+         <posted_content type="preprint">
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Scott</given_name>
+                  <surname>Rose</surname>
+                  <ORCID authenticated="false">https://orcid.org/0000-0002-3105-7427</ORCID>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Oliver</given_name>
+                  <surname>Borchert</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Stu</given_name>
+                  <surname>Mitchell</surname>
+               </person_name>
+               <person_name sequence="additional" contributor_role="author">
+                  <given_name>Sean</given_name>
+                  <surname>Connelly</surname>
+               </person_name>
+            </contributors>
+            <titles>
+               <title>Zero Trust Architecture</title>
+            </titles>
+            <!--
+
+posted_date: The date  when the posted content became available online 
+-->
+            <posted_date>
+               <month>02</month>
+               <day>13</day>
+               <year>2020</year>
+            </posted_date>
+            <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+               <fr:assertion name="funder_name">Information Technology Laboratory<fr:assertion name="funder_identifier">https://doi.org/10.13039/100007764</fr:assertion>
+               </fr:assertion>
+            </fr:program>
+            <!--
+
+ relationship established with final DOI, can only input when final DOI has been registered)
+-->
+            <program xmlns="http://www.crossref.org/relations.xsd">
+               <related_item>
+                  <intra_work_relation relationship-type="isPreprintOf" identifier-type="doi">10.6028/NIST.SP.800-207</intra_work_relation>
+               </related_item>
+            </program>
+            <!--  DOI and URL (required)  -->
+            <doi_data>
+               <doi>10.6028/NIST.SP.800-207-draft2</doi>
+               <resource>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207-draft2.pdf</resource>
+            </doi_data>
+         </posted_content>
+      </doi_record>
+   </query>
+</body>

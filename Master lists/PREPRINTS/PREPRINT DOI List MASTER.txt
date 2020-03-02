@@ -35,3 +35,6 @@
 10.6028/NIST.IR.8278-draft
 10.6028/nist.sp.800-204a-draft
 10.6028/nist.sp.800-137a-draft
+10.6028/nist.ir.8276-draft
+10.6028/nist.ir.8246-draft
+10.6028/nist.sp.800-207-draft2

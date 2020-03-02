@@ -3,10 +3,10 @@
   padding: 0;
 }
 .nist-header {
-  /*box-sizing: border-box;*/
+  box-sizing: border-box;
   background: #000;
   color: #fff;
-  padding: 10px 30px 4px;
+  padding: 10px 20px 4px;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   position: relative;
   margin-bottom: 0px;

@@ -49,7 +49,14 @@
 
         <!-- creates the home page -->
         <xsl:result-document href="../public/index.html">
-            <xsl:call-template name="html"/>
+            <xsl:call-template name="html"> <xsl:with-param name="report-type">home</xsl:with-param></xsl:call-template>
+        </xsl:result-document>
+        
+        <!-- creates the series page -->
+        <xsl:result-document href="../public/series.html">
+            <xsl:call-template name="html2"> <xsl:with-param name="report-type">series</xsl:with-param>
+            
+            </xsl:call-template>
         </xsl:result-document>
 
         <!-- creates pages for each article type -->
@@ -71,6 +78,8 @@
                 <xsl:with-param name="report-type">date</xsl:with-param>
             </xsl:call-template>
         </xsl:result-document>
+        
+        
 
 
     </xsl:template>
@@ -124,6 +133,9 @@
                                 <a href="./date.html">View All Reports</a>
                             </li>
                             <li>
+                                <a href="./series.html">Filter by Series</a>
+                            </li>
+                            <li>
                                 <a href="#top">Back to Top</a>
                             </li>
                         </ul>
@@ -134,7 +146,7 @@
                     <!-- Main content -->
 
                     <xsl:choose>
-                        <xsl:when test="$report-type = ''">
+                        <xsl:when test="$report-type = 'home'">
                             <section id="content">
 
 
@@ -190,6 +202,7 @@
 
                             </section>
                         </xsl:when>
+                       
                         <xsl:when test="$report-type = 'date'">
                             <section id="content">
                                 <xsl:apply-templates select="query">
@@ -230,7 +243,7 @@
                     <a name="filter"/>
                     <aside id="sidebar">
                         <br/>
-                        <h3 class="art-title"> Filter by Series </h3>
+                        <h2 class="filter"> Filter by Series </h2>
                         <p>
                             <a href="./AMS.html">Advanced Manufacturing Series</a>
                         </p>
@@ -400,6 +413,252 @@
             </body>
         </html>
     </xsl:template>
+    
+    <xsl:template name="html2">
+        <xsl:param name="report-type"/>
+        <html>
+            <head>
+                
+                <title>NIST Technical Publications List</title>
+                <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                <link rel="stylesheet" type="text/css" href="./css/reset.css"/>
+         <link rel="stylesheet" type="text/css" href="./css/techpubs-html2.css"/>
+                <link rel="stylesheet" type="text/css" href="./css/accordian.css"/>
+          
+                <link rel="stylesheet" type="text/css" href="./css/NISTPages.css"/>
+              
+                        
+            </head>
+            <body>
+
+            
+                <header class="nist-header">
+                    
+                                                    
+                                                    <h1>
+                                                        <a class="nist-logo" target="_blank" href="http://www.nist.gov/" title="Go to nist.gov">National Institute of Standards and Technology</a>
+                                                    </h1>
+                                                    <div class="nist-links">
+                                                        <a class="nist-links-button" target="_blank" href="http://www.nist.gov">NIST Website</a>
+                                                        <a class="nist-links-button mobile-hide" target="_blank" href="http://www.nist.gov/public_affairs/nandyou.cfm">About NIST</a>
+                                                        <a class="nist-links-button mobile-hide" target="_blank" href="https://github.com/usnistgov">usnistgov on GitHub</a>
+                                                    </div>
+                                                    
+                                                   </header>
+                
+                <div id="container">
+                    <header id="header">
+                        <h1 id="title">NIST Technical Series Publication List</h1>
+                        
+                    </header>
+
+                    
+                    <!-- Navigation -->
+                    <nav id="menu" class="clearfix">
+                        <ul>
+                            <li>
+                                <a href="http://kmm5.ipages.nist.gov/TechPubs2HTML/">Home</a>
+                            </li>
+                            <li>
+                                <a href="./date.html">View All Reports</a>
+                            </li>
+                            <li>
+                                <a href="./series.html">Filter by Series</a>
+                            </li>
+                            <li>
+                                <a href="#top">Back to Top</a>
+                            </li>
+                        </ul>
+                    </nav>
+
+
+
+                    <!-- Series content -->
+
+                    <xsl:choose>
+                        <xsl:when test="$report-type = 'series'">
+                            <section id="content">
+
+                               
+                                    <h2 class="filter"> Filter by Series </h2>
+                                    <p>
+                                        <a href="./AMS.html">Advanced Manufacturing Series</a>
+                                    </p>
+                                    <p>
+                                        <a href="./BRPD-CRPL-D.html">Basic Radio Propagation Predictions Series</a></p>
+                                    <p>
+                                        <a href="./BH.html">Building and Housing Reports</a>
+                                    </p>
+                                    <p>
+                                        <a href="./BMS.html">Building Materials and Structures Reports</a>
+                                    </p>
+                                    <p>
+                                        <a href="./BSS.html">Building Science Series</a>
+                                    </p>
+                                    <p>
+                                        <a href="./CRPL.html">Central Radio Propagation Laboratory Reports</a></p>
+                                    <p>
+                                        <a href="./CRPL-F-A.html">CRPL Ionospheric Data</a></p>
+                                    <p>
+                                        <a href="./IP.html">CRPL Ionospheric Predictions</a></p>
+                                    <p>
+                                        <a href="./CRPL-F-B.html">CRPL Solar-Geophysical Data</a></p>
+                                    
+                                    <p>
+                                        <a href="./CIRC.html">Circulars</a>
+                                    </p>
+                                    <p>
+                                        <a href="./CIS.html">Consumer Information Series</a>
+                                    </p>
+                                    <p>
+                                        <a href="./CS.html">Commercial Standards</a>
+                                    </p>
+                                    <p>
+                                        <a href="./CSM.html">Commercial Standards Monthly</a>
+                                    </p>
+                                    <p>
+                                        <a href="./CSWP.html">Cybersecurity White Papers</a>
+                                    </p>
+                                    <p>
+                                        <a href="./EAB.html">Economic Analysis Briefs</a>
+                                    </p>
+                                    <p>
+                                        <a href="./FIPS.html">Federal Information Processing Standards
+                                            Publications</a>
+                                    </p>
+                                    <p>
+                                        <a href="./GCR.html">Grant/Contractor Reports</a>
+                                    </p>
+                                    <p>
+                                        <a href="./HB.html">Handbooks</a>
+                                    </p>
+                                    <p>
+                                        <a href="./HR.html">Hydraulic Research in the United States</a>
+                                    </p>
+                                    <p>
+                                        <a href="./IRPL.html">Interservice Radio Propagation Laboratory</a>
+                                    </p>
+                                    
+                                    <p>
+                                        <a href="./LCIRC.html">Letter Circular</a>
+                                    </p>
+                                    <p>
+                                        <a href="./MONO.html">Monographs</a>
+                                    </p>
+                                    <p>
+                                        <a href="./MP.html">Miscellaneous Publications</a>
+                                    </p>
+                                    <p>
+                                        <a href="./NCSTAR.html">National Construction Safety Team Act
+                                            Reports</a>
+                                    </p>
+                                    <p>
+                                        <a href="./NSRDS.html">National Standard Reference Data Series</a>
+                                    </p>
+                                    <p>
+                                        <a href="./IR.html">NISTIRs (Interagency/Internal Reports)</a>
+                                    </p>
+                                    <p>
+                                        <a href="./OWMWP.html">Office of Weights and Measures White Papers</a>
+                                    </p>
+                                    <p>
+                                        <a href="./PC.html">Photographic Circulars</a>
+                                    </p>
+                                    <p>
+                                        <a href="./RPT.html">NBS Reports</a>
+                                    </p>
+                                    <p>
+                                        <a href="./SIBS.html">Special Interior Ballistics Studies</a>
+                                    </p>
+                                    <p>
+                                        <a href="./SP.html">Special Publications (General)</a>
+                                    </p>
+                                    <p>
+                                        <a href="./SP250.html">SP 250: Calibration Services</a>
+                                    </p>
+                                    <p>
+                                        <a href="./SP260.html">SP 260: Standard Reference Materials</a>
+                                    </p>
+                                    <p>
+                                        <a href="./SP300.html">SP 300: Precision Measurement and Calibration</a>
+                                    </p>
+                                    <p>
+                                        <a href="./SP400.html">SP 400: Semiconductor Measurement Technology</a>
+                                    </p>
+                                    <p>
+                                        <a href="./SP480.html">SP 480: Law Enforcement Technology</a>
+                                    </p>
+                                    <p>
+                                        <a href="./SP500.html">SP 500: Computer Systems Technology</a>
+                                    </p>
+                                    <p>
+                                        <a href="./SP700.html">SP 700: Industrial Measurement Series</a>
+                                    </p>
+                                    <p>
+                                        <a href="./SP800.html">SP 800: Computer Security Series</a>
+                                    </p>
+                                    <p>
+                                        <a href="./SP823.html">SP 823: Integrated Services Digital Network Series</a>
+                                    </p>
+                                    <p>
+                                        <a href="./SP960.html">SP 960: NIST Recommended Practice Guides</a>
+                                    </p>
+                                    <p>
+                                        <a href="./SP1200.html">SP 1200: Protocols</a>
+                                    </p>
+                                    <p>
+                                        <a href="./SP1500.html">SP 1500: Working Group Papers</a>
+                                    </p>
+                                    <p>
+                                        <a href="./SP1800.html">SP 1800: NIST Cybersecurity Practice Guides</a>
+                                    </p>
+                                    <p>
+                                        <a href="./SP1900.html">SP 1900: Cyber-Physical Systems</a>
+                                    </p>
+                                    <p>
+                                        <a href="./SP2000.html">SP 2000: Standards Coordination</a>
+                                    </p>
+                                    <p>
+                                        <a href="./SP2100.html">SP 2100: Conference Proceedings</a>
+                                    </p>
+                                    <p>
+                                        <a href="./TIBM.html">Technical Information on Building Materials</a>
+                                    </p>
+                                    <p>
+                                        <a href="./TN.html">Technical Notes</a>
+                                    </p>
+                                    <p>
+                                        <a href="./TTB.html">Technology Transfer Brief</a>
+                                    </p>
+                                </section>
+                        </xsl:when>
+                       
+                       
+                        <xsl:otherwise/>
+                    </xsl:choose>
+
+
+                    
+                    <!-- Footer -->
+                   
+                   <!-- <footer role="contentInfo" class="site-footer">
+                        <div class="section-container">
+                            <div class="section-content">     
+                            </div>
+                        </div>
+                    </footer>-->
+                    <footer id="footer" class="clearfix"> 
+                        <a target="_blank" href="http://www.nist.gov/public_affairs/privacy.cfm#privpolicy">Privacy Policy</a> | <a target="_blank" href="http://www.nist.gov/public_affairs/privacy.cfm#secnot">Security Notice</a> | <a href="http://www.nist.gov/public_affairs/privacy.cfm#accesstate">Accessibility Statement</a> | <a target="_blank" href="mailto:data@nist.gov?subject=Feedback%20on%20Web%20Site%20Template">Send feedback</a>
+                    </footer>
+                        
+                </div>
+            </body>
+        </html>
+        
+            
+        
+    </xsl:template>
+    
     <xsl:template match="query">
 
 

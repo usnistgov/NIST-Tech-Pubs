@@ -8,11 +8,11 @@ body{
 
 #container{
     margin: 0 auto;
-    max-width: 1200px;
+   /* max-width: 1200px;*/
 }
 
 header {
-    width: 94%;
+   /* width: 94%;*/
     padding: 3%;
     background-color: #12659C;
 }
@@ -182,7 +182,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
 
-.welcome, .links, .contact {
+.welcome, .links, .contact, .filter {
     font-size: 18px; 
     line-height: 1.4em;
         color: #000;
