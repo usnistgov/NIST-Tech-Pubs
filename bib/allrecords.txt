@@ -1,0 +1,26 @@
+
+   TY  - RPRT
+TI  - Summary Report: Standards Requirements Gathering Workshop for Natural Language Analysis 
+AU  - Brundage, Michael
+PY  - 2020
+DA  - 2020/03/02
+PB  - National Institute of Standards and Technology
+DO  - 10.6028/NIST.AMS.100-30
+ER  - 
+   TY  - RPRT
+TI  - Extending and Evaluating the Model-based Product Definition 
+AU  - Hartman, Nathan W.
+AU  - Zahner, Jesse
+PY  - 2017
+DA  - 2017/12/22
+PB  - National Institute of Standards and Technology
+DO  - 10.6028/NIST.GCR.18-015
+ER  - 
+   TY  - RPRT
+TI  - SI Base Units Relationships Poster 
+AU  - Tiesinga, Eite
+PY  - 2020
+DA  - 2020/03/03
+PB  - National Institute of Standards and Technology
+DO  - 10.6028/NIST.SP.1247
+ER  - 

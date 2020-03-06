@@ -38,3 +38,5 @@
 10.6028/nist.ir.8276-draft
 10.6028/nist.ir.8246-draft
 10.6028/nist.sp.800-207-draft2
+10.6028/nist.ir.8183r1-draft
+10.6028/nist.sp.800-133r2-draft
