@@ -1,4 +1,4 @@
-This NIST Technical Series Publication Metadata readme.txt file was generated on 20200302 by Kathryn Miller
+This NIST Technical Series Publication Metadata readme.txt file was generated on 20200316 by Kathryn Miller
 
 
 -------------------
@@ -6,72 +6,48 @@ GENERAL INFORMATION
 -------------------
 
 
-1. Name: NIST Technical Series Publication Metadata 
+Name: NIST Technical Series Publication Metadata 
 
 
-2. Format: XML and TXT
+Format: XML and TXT
 
 
+Author Information
 
-3. Author Information
-
-
-  Principal Investigator Contact Information
+   Contact Information
         Name: Kathryn Miller
            Institution: NIST
            Address: 100 Bureau Drive Stop 2500 Gaithersburg, MD 20899
            Email: kathryn.miller@nist.gov
 
 
- 
-
-
-4. Date of data collection: 20200301
-
-
-5. Geographic location of data collection: N/A
-
-6. Information about any NON-NIST funding sources that supported the collection of the data: N/A
-
-
-
+Date of data collection: 20200306
 
 --------------------------
 SHARING/ACCESS INFORMATION
 -------------------------- 
 
-
-7.	Other than the NIST statements for Copyright, Fair Use, and Licensing found at 
-https://www.nist.gov/director/copyright-fair-use-and-licensing-statements-srd-data-and-software, list the other license or restrictions which are placed on this data: N/A
-
-
-
-
-8. Are there any restrictions or guidelines on how to use the data, (ex. information about access restrictions based on privacy, security, or other policies)?
+Are there any restrictions or guidelines on how to use the data, (ex. information about access restrictions based on privacy, security, or other policies)?
 No
 
 
-9. Is there a documentary standard that applies to this dataset? 
+Is there a documentary standard that applies to this dataset? 
 http://www.crossref.org/qrschema/3.0
 http://www.w3.org/2001/XMLSchema-instance
 http://www.crossref.org/schemas/crossref_query_output3.0.xsd
 
 
-10. Links to publications that cite or use the data: N/A
+Links to other publicly accessible locations of the data: https://kmm5.ipages.nist.gov/TechPubs2HTML/
 
 
-11. Links to other publicly accessible locations of the data: https://kmm5.ipages.nist.gov/TechPubs2HTML/
 
-
-12. Links/relationships to ancillary data sets: N/A
-
-
-13. Was data derived from another source? (example, Open FEMA)
+Was data derived from another source? (example, Open FEMA)
            If yes, list source(s): doi.crossref.org 
 
 
-14. Recommended citation for the data (See NIST guidance for citation https://inet.nist.gov/nvl/howdoi/cite-nist-datasets):
+Recommended citation for the data:
 
+NIST Research Library (2020), NIST Technical Series Publication Metadata, National Institute of Standards and Technology, Persistent Identifier or URL (Access date)
 
 
 
@@ -80,43 +56,21 @@ DATA & FILE OVERVIEW
 ---------------------
 
 
-If the data set includes multiple files that relate to one another, the relationship between the files or a description of the file structure that holds them (possible terminology might include "dataset" or "study" or "data package")
-
-15. File List
-   A. Filename:        
-      Short description:        
+File List
+   A. Filename: allrecords_march062020.xml        
+      Short description: Metadata deposited with Crossref for all final NIST Technical Series publications with public Digital Object Identifiers. Schema is adapted from the XSD schema for CrossRef XML based queries (3.0).
 
 
         
-   B. Filename:        
-      Short description:        
+   B. Filename: DOIMETADATA_MASTER.txt       
+      Short description: Metadata deposited wtih CrossRef for all final NIST Technical publications with public Digital Object Identifiers. Transformed from XML to TXT using a vertical bar (|) as a delimiter.         
 
 
-        
-   C. Filename:        
-      Short description:
+   
+Relationship between files: allrecords_march062020.xml was transformed to DOIMETADATA_MASTER.txt using an XSLT that pulled the following fields into a text-based format:
 
+DOI Created|DOI Last Updated|Series|Report Number|Year Published|Month Published|Title|Authors|OU|DOI|URL
 
-16. Relationship between files:        
-
-
-
-
-17. Additional related data collected that was not included in the current data package:
-
-
-
-
-18. Are there multiple versions of the dataset? yes/no
-
-   If yes, list versions:
-           Name of file that was updated:
-           	i. Why was the file updated? 
-               	ii. When was the file updated?
-           Name of file that was updated:
-                 i. Why was the file updated?
-                 ii. When was the file updated?
-	
 
 
 --------------------------
@@ -124,59 +78,53 @@ METHODOLOGICAL INFORMATION
 --------------------------
 
 
-19. Description of methods used for collection/generation of data: 
-(Include links or references to publications or other documentation containing experimental design or protocols used in data collection)
+ Description of methods used for collection/generation of data: 
+	1. Retrive list of all DOIs deposited with CrossRef
+		a) HTTPS CrossRef Query https://api.crossref.org/prefixes/10.6028/works?filter=type:report
+		b) convert JSON to XML using any means (example: https://www.freeformatter.com/json-to-xml-converter.html)
+		c) Run a transform to pull just DOI fields into a txt file
+	2. Use list of DOIs to submit a DOI-to-metadata batch query and retrive and save results as XML file. Instructions here: https://support.crossref.org/hc/en-us/articles/215007943-DOI-to-metadata-query
+	
+
+Methods for processing the data: 
+	1. In Query Results XML file, Delete everything before the <body> element; don't forget to delete the end tags as well. Also delete the <crossref> tags.
+	2. Run an XSLT transformation to fill in the query key attribute with the series abbreviation
+		a) series abbreviation is pulled from second part of DOI structure.
+	3. Remove line breaks and white spaces using any means available.
+	4. Run a transformation to get TXT file with all desired data fields.
 
 
-20. Methods for processing the data: (describe how the submitted data were generated from the raw or collected data)
-
-
-21. Instrument- or software-specific information needed to interpret the data:
-
-
-22. Standards and calibration information, if appropriate:
-
-
-23. Environmental/experimental conditions:
+ Instrument- or software-specific information needed to interpret the data:
+	 XML and TXT files can be used using any open source product
 
 
 24. Describe any quality-assurance procedures performed on the data:
+	Data is imported into Excel and reviewed for errors/duplications. Since errors originated in CrossRef DOI deposits, updates to DOI metadata are deposited with CrossRef and data is retrived again through DOI-to-metadata queries.
 
 
-25. People involved with sample collection, processing, analysis and/or submission:
-
-
-
-
+People involved with sample collection, processing, analysis and/or submission:
+	NIST Research Library employees are responsible for depositing metadata with Crossref, collecting metadata for analysis, and processing it for public consumption.
 
 
 -----------------------------------------
-DATA-SPECIFIC INFORMATION FOR: [FILENAME]
+DATA-SPECIFIC INFORMATION FOR: allrecords_march062020.xml
 -----------------------------------------
-Create sections for each dataset (or file) included, if appropriate
+see schema here for attributes and elements:
+http://www.crossref.org/schemas/crossref_query_output3.0.xsd
+<query-key> has been changed to series abbreviation key.
 
-
-26. Number of variables:
-
-
-27. Number of cases/rows: 
-
-
-28. Variable List
-    A. Name: [variable name]
-       Description: [description of the variable]
-                    Value labels if appropriate
-
-
-
-    B. Name: [variable name]
-       Description: [description of the variable]
-                    Value labels if appropriate
-
-
-
-29. Missing data codes:
-        Code/symbol        Definition
-        Code/symbol        Definition
-
-30. Specialized formats of other abbreviations used
+-----------------------------------------
+DATA-SPECIFIC INFORMATION FOR: DOIMETADATA_MASTER.txt 
+-----------------------------------------
+DOI Created = date first deposited DOI
+DOI Last Updated = last date DOI metadata was updated
+Series = NIST Technical Series abbreviation
+Report Number = NIST Technical Series report number
+Year Published = first year published
+Month Published = first month published
+Title = full title
+Authors = all authors
+OU = NIST operating unit / office / lab
+DOI = CrossRef DOI
+URL
+ = most recent URL of the PDF
