@@ -19,14 +19,10 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>AllRecords2HTML</String>
-                                        <String>AllRecords2Text</String>
-                                        <String>AllRecords2Text - Public</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
                                 </field>
