@@ -127,7 +127,7 @@
                     <nav id="menu" class="clearfix">
                         <ul>
                             <li>
-                                <a href="./TechPubs2HTML/">Home</a>
+                                <a href="./">Home</a>
                             </li>
                             <li>
                                 <a href="./date.html">View All Reports</a>
