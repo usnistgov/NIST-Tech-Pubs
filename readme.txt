@@ -63,7 +63,7 @@ File List
 
         
    B. Filename: DOIMETADATA_MASTER.txt       
-      Short description: Metadata deposited wtih CrossRef for all final NIST Technical publications with public Digital Object Identifiers. Transformed from XML to TXT using a vertical bar (|) as a delimiter.         
+      Short description: Metadata deposited with CrossRef for all final NIST Technical publications with public Digital Object Identifiers. Transformed from XML to TXT using a vertical bar (|) as a delimiter.         
 
 
    
@@ -79,11 +79,11 @@ METHODOLOGICAL INFORMATION
 
 
  Description of methods used for collection/generation of data: 
-	1. Retrive list of all DOIs deposited with CrossRef
+	1. Retrieve list of all DOIs deposited with CrossRef
 		a) HTTPS CrossRef Query https://api.crossref.org/prefixes/10.6028/works?filter=type:report
 		b) convert JSON to XML using any means (example: https://www.freeformatter.com/json-to-xml-converter.html)
 		c) Run a transform to pull just DOI fields into a txt file
-	2. Use list of DOIs to submit a DOI-to-metadata batch query and retrive and save results as XML file. Instructions here: https://support.crossref.org/hc/en-us/articles/215007943-DOI-to-metadata-query
+	2. Use list of DOIs to submit a DOI-to-metadata batch query and retrieve and save results as XML file. Instructions here: https://support.crossref.org/hc/en-us/articles/215007943-DOI-to-metadata-query
 	
 
 Methods for processing the data: 
@@ -99,7 +99,7 @@ Methods for processing the data:
 
 
 24. Describe any quality-assurance procedures performed on the data:
-	Data is imported into Excel and reviewed for errors/duplications. Since errors originated in CrossRef DOI deposits, updates to DOI metadata are deposited with CrossRef and data is retrived again through DOI-to-metadata queries.
+	Data is imported into Excel and reviewed for errors/duplications. Since errors originated in CrossRef DOI deposits, updates to DOI metadata are deposited with CrossRef and data is retrieved again through DOI-to-metadata queries.
 
 
 People involved with sample collection, processing, analysis and/or submission:
