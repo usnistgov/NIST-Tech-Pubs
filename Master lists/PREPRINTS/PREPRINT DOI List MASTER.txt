@@ -40,3 +40,10 @@
 10.6028/nist.sp.800-207-draft2
 10.6028/nist.ir.8183r1-draft
 10.6028/nist.sp.800-133r2-draft
+10.6028/nist.ir.8286-draft
+10.6028/nist.sp.800-56cr2-draft
+10.6028/nist.sp.800-124r2-draft
+10.6028/nist.sp.800-133r2-draft
+10.6028/nist.ir.8272-draft
+10.6028/nist.cswp.04012020-draft
+10.6028/nist.sp.800-210-draft
