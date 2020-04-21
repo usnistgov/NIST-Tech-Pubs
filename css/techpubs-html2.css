@@ -1,0 +1,255 @@
+/* adopted from Andor Nagy 2015, https://webdesignerhut.com/responsive-layout-with-html-and-css/ */
+
+body{
+    font-family: verdana, helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 1.4em;
+}
+
+#container{
+    margin: 0 auto;
+   /* max-width: 1200px;*/
+}
+
+header {
+   /* width: 94%;*/
+    padding: 3%;
+    background-color: #12659C;
+}
+header #title {
+    font-size: 36px;
+    line-height: 1.4em;
+    color: #fff;
+}
+
+header #volume{
+    font-size: 28px;
+    line-height: 1.4em;
+    color: #fff;
+   }
+   
+header a{
+    color: #fff;
+}
+ a {
+    text-decoration: none;
+        color: #1669a0;
+   /* font-size: 1.5em;*/
+}
+
+a:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+   
+nav {
+    width: 97%;
+    background-color: #eee;
+    border-bottom: solid #666 0.5pt;
+    padding: 1px 1.5% 1px 1.5% ;
+      position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 15px 1.5% 15px 1.5% ;
+}
+
+nav ul li a {
+    /*text-decoration: none;
+        color: #994240;*/
+    font-size: 1.2em;
+}
+/*nav ul li a:hover {
+    color: #000000;
+    text-decoration: underline;
+}*/
+
+aside ul li  {
+    line-height: 1.6em;
+    padding-left: 1em;
+}
+
+aside ul li a {
+    /*text-decoration: none;
+        color: #994240;*/
+    font-size: 1.2em;
+}
+
+/*aside ul li a:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+*/
+
+.horiz-list {
+    display: inline-block;
+    padding: 15px 1.5% 15px 1.5% ;
+}
+
+.share {
+    width:60%;
+}
+
+#content {
+    float: left;
+    padding: 3%;
+    width: 64%;
+    background-color: #fff;
+ }
+
+aside {
+    float: right;
+    padding: 3%;
+    width: 24%;
+    background-color: #eee;
+  
+ }
+ 
+aside a{
+     color: #12659C;
+}
+
+footer{
+    width: 94%;
+    padding: 3%;
+
+    border-top: 0.5px solid #000;
+ 
+    text-align: center;
+    clear: both;
+}
+
+
+@media all and (max-width : 768px) {
+    header {
+        text-align: center;
+    }
+    nav {
+        text-align: center;
+    }
+    #content {
+        width: 94%;
+        padding: 3%;
+    }
+    #sidebar {
+        width: 94%;
+        padding: 3%;
+        border-top: 3px solid #E64A19;
+    }
+}
+
+@media all and (max-width : 330px) {
+    nav ul li {
+        display:block;
+        width: 94%;
+    }
+}
+
+
+/* TechPubs specific */
+
+h1, h2, h3, h4, h5, h6 {
+   display: block;
+   margin-top: 0em;
+   margin-bottom: 0.5em;
+   font-family: sans-serif;
+   font-weight: bold;
+   line-height: 1.4em;
+   color: #fff;
+  }
+
+.report-paper {
+    padding: 0em 0em 0.5em 0em;
+}
+.label {
+    font-weight: bold;
+}
+
+.art-title {
+    color: #5F8276;
+    font-size: 18px; 
+    line-height: 1.4em;
+    font-weight: bold;
+}
+
+.type-head {
+    color: #12659C;
+    font-size: 20px; 
+    line-height: 1.4em;
+    font-weight: bold;
+}
+
+.welcome, .links, .contact, .filter {
+    font-size: 18px; 
+    line-height: 1.4em;
+        color: #000;
+    
+}
+
+
+.authors {
+    font-size: 14px; 
+    line-height: 1.4em;
+    color: #000;
+}
+.info {
+    font-size: 12px; 
+    line-height: 1.4em;
+    color: 	#696969;
+}
+
+div { margin-top: 0.5em }
+
+div.front {
+border-bottom: solid 1pt black;
+padding-bottom: 0.5em;}
+
+div.section, div.back-section {
+  margin-top: 1em; margin-bottom: 0.5em }
+  
+  div.panel { background-color: white;
+  font-size: 90%;
+ /* border: thin solid black;*/
+  padding-left: 0.5em; padding-right: 0.5em;
+  padding-top: 0.5em; padding-bottom: 0.5em;
+  /*margin-top: 0.5em; margin-bottom: 0.5em*/
+  margin-top: 1.5em; margin-bottom: 1.5em}
+
+div.blockquote { font-size: 90%;
+  margin-left: 1em; margin-right: 1em;
+  margin-top: 0.5em; margin-bottom: 0.5em }
+
+div.caption {
+  margin-top: 0.5em; margin-bottom: 0.5em }
+  
+p { margin-top: 0.5em; margin-bottom: 0em }
+
+table{
+    border-top: solid 2pt black; 
+    border-bottom: solid 2pt black;
+}
+
+thead, tbody{border-bottom: solid 1pt black;}
+
+th, td {padding: 0.5em;}
+
+/* reference table */
+div.table { display: table }
+div.row { display: table-row }
+div.cell { display: table-cell; padding-left: 0.25em; padding-right: 0.25em }
+
+/* text decoration */
+.label { font-weight: bold; font-family: sans-serif; }
+
+.monospace {
+	font-family: monospace;
+	}
+
+.overline{
+	text-decoration: overline;
+	}
+	
+sup, sub {font-size: 80%}

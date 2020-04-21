@@ -14,11 +14,25 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>xml/allrecords_apr202020.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>AllRecords2RIS-github</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>xml/allrecords_march312020.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2HTML</String>
                                         <String>AllRecords2RIS-rev</String>
                                         <String>AllRecords2Text - Public</String>
                                         <String>AllRecords2Text</String>
@@ -28,37 +42,6 @@
                                     <list>
                                         <String>XSL</String>
                                         <String>XSL</String>
-                                        <String>XSL</String>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>xslt/techpubs2htmlv5.xsl</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>AllRecords2HTML</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>xml/allrecords_march062020.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>AllRecords2HTML</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
                                         <String>XSL</String>
                                     </list>
                                 </field>
@@ -70,21 +53,6 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>AllRecords2RIS-rev</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>xml/allrecords_march012020.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>AllRecords2HTML</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -155,21 +123,6 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xml/allrecords-feb072020.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>AllRecords2HTML</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>xml/feb-dois.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -200,48 +153,16 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xslt/techpubs2htmlv4.xsl</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>AllRecords2HTML</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>xml/allrecords-jan302020.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>AllRecords2HTML</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>xml/allrecords-jan312020.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -279,41 +200,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xml/allrecords-jan272020.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>AllRecords2HTML</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>xml/jan28-31.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
                                         <String>AllRecords2QueryKey</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>xml/allrecords-jan172020.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>AllRecords2HTML</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -339,41 +230,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xml/allrecords-jan102020.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>AllRecords2HTML</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>xml/jan11-jan17.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
                                         <String>AllRecords2RIS-rev</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>xml/ris-test.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>AllRecords2HTML</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -433,14 +294,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -452,14 +311,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -471,14 +328,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -501,33 +356,16 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xml/allrecords-dec132019.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>AllRecords2HTML</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>xml/allrecords-30Sept2019_cleaned.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -554,14 +392,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -588,14 +424,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -607,14 +441,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -701,14 +533,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -720,14 +550,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -785,12 +613,10 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
                                 </field>
@@ -816,14 +642,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -835,14 +659,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -854,14 +676,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -873,14 +693,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -922,14 +740,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -956,14 +772,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -975,14 +789,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -1009,14 +821,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -1043,14 +853,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -1122,14 +930,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -1156,14 +962,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -1205,14 +1009,12 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
-                                        <String>AllRecords2HTML</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
@@ -1254,8 +1056,8 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2Text - Public</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1272,12 +1074,10 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>AllRecords2Text</String>
-                                        <String>AllRecords2HTML</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
                                 </field>
@@ -1499,8 +1299,8 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>AllRecords2TextStep1</String>
-                                        <String>AllRecords2Text</String>
                                         <String>AllRecords2QueryKey</String>
+                                        <String>AllRecords2Text</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1536,7 +1336,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>AllRecords2HTML</String>
+                                    <String>AllRecords2HTML-github</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -1554,7 +1354,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xslt/techpubs2htmlv5.xsl</String>
+                                    <String>${pdu}/xslt/techpubs2html-github.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -1794,6 +1594,92 @@
                                     <null/>
                                 </field>
                                 <field name="name">
+                                    <String>AllRecords2RIS-github</String>
+                                </field>
+                                <field name="baseURL">
+                                    <String></String>
+                                </field>
+                                <field name="footerURL">
+                                    <String></String>
+                                </field>
+                                <field name="fOPMethod">
+                                    <String>pdf</String>
+                                </field>
+                                <field name="fOProcessorName">
+                                    <String>Apache FOP</String>
+                                </field>
+                                <field name="headerURL">
+                                    <String></String>
+                                </field>
+                                <field name="inputXSLURL">
+                                    <String>${pdu}/xslt/techpubs2RIS-rev-github.xsl</String>
+                                </field>
+                                <field name="inputXMLURL">
+                                    <String>${currentFileURL}</String>
+                                </field>
+                                <field name="defaultScenario">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="isFOPPerforming">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="type">
+                                    <String>XSL</String>
+                                </field>
+                                <field name="saveAs">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="openInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="outputFile">
+                                    <null/>
+                                </field>
+                                <field name="outputResource">
+                                    <null/>
+                                </field>
+                                <field name="openOtherLocationInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="locationToOpenInBrowserURL">
+                                    <null/>
+                                </field>
+                                <field name="openInEditor">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInHTMLPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInXMLPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInSVGPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInResultSetPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="useXSLTInput">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="xsltParams">
+                                    <list/>
+                                </field>
+                                <field name="cascadingStylesheets">
+                                    <String-array/>
+                                </field>
+                                <field name="xslTransformer">
+                                    <String>Saxon-EE</String>
+                                </field>
+                                <field name="extensionURLs">
+                                    <String-array/>
+                                </field>
+                            </scenario>
+                            <scenario>
+                                <field name="advancedOptionsMap">
+                                    <null/>
+                                </field>
+                                <field name="name">
                                     <String>AllRecords2RIS-rev</String>
                                 </field>
                                 <field name="baseURL">
@@ -1919,7 +1805,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <null/>
+                                    <File>${pd}/Master lists/DOIMETADATA_MASTER.txt</File>
                                 </field>
                                 <field name="outputResource">
                                     <String>${pd}/Master lists/DOIMETADATA_MASTER.txt</String>
@@ -2177,10 +2063,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/public/NIST_Tech_Pubs_MASTER.txt</File>
+                                    <File>${pd}/NIST_Tech_Pubs_MASTER.txt</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/public/NIST_Tech_Pubs_MASTER.txt</String>
+                                    <String>${pd}/NIST_Tech_Pubs_MASTER.txt</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
