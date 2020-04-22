@@ -180,7 +180,7 @@
 
                                 <h2 class="welcome">Welcome</h2>
                                     <p>NIST Technical Series publications are written by or for NIST
-                                        and published by the NIST Research Library. These
+                                        and published by the <a href= "https://www.nist.gov/nist-research-library">NIST Research Library</a>. These
                                         publications consist of technical reports, recommendations,
                                         practice guides, industry handbooks, and other similar
                                         technical documents intended for external distribution. All
