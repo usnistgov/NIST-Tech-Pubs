@@ -152,11 +152,11 @@
 
                                 <h2 class="links">Quick Links</h2>
                                 <ul>
-                                    <li>
+                                    <!--<li>
                                         <a
                                             href="https://inet.nist.gov/library/publishing-support-nist-publications/nist-technical-series-publications"
                                             >How to Publish a Report</a>
-                                    </li>
+                                    </li>-->
                                     <li>
                                         <a
                                             href="https://www.nist.gov/nist-research-library/nist-series-publications"
@@ -192,8 +192,6 @@
                                             States Government Publishing Office (GPO)</a> to ensure
                                         digital preservation.</p>
 
-                                    <p> Note: This website can only be accessed when connected to
-                                        the NIST network.</p><br/>
                                 
                                <h2 class="contact">Contact</h2>
                                 <p>NIST Research Library<br/><a
