@@ -136,6 +136,9 @@
                                 <a href="./series.html">Filter by Series</a>
                             </li>
                             <li>
+                                <a href="https://github.com/usnistgov/NIST-Tech-Pubs/tree/nist-pages/xml">Raw Data</a>
+                            </li>
+                            <li>
                                 <a href="#top">Back to Top</a>
                             </li>
                         </ul>
@@ -462,6 +465,9 @@
                             </li>
                             <li>
                                 <a href="./series.html">Filter by Series</a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/usnistgov/NIST-Tech-Pubs/tree/nist-pages/xml">Raw Data</a>
                             </li>
                             <li>
                                 <a href="#top">Back to Top</a>
