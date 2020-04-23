@@ -1,4 +1,4 @@
-This NIST Technical Series Publication Metadata readme.txt file was generated on 20200316 by Kathryn Miller
+This NIST Technical Series Publication Metadata readme.txt file was generated on 2020423 by Kathryn Miller
 
 
 -------------------
@@ -21,7 +21,7 @@ Author Information
            Email: kathryn.miller@nist.gov
 
 
-Date of data collection: 20200306
+Date of data collection: 20200420
 
 --------------------------
 SHARING/ACCESS INFORMATION
@@ -37,7 +37,7 @@ http://www.w3.org/2001/XMLSchema-instance
 http://www.crossref.org/schemas/crossref_query_output3.0.xsd
 
 
-Links to other publicly accessible locations of the data: https://kmm5.ipages.nist.gov/TechPubs2HTML/
+Links to other publicly accessible locations of the data: https://pages.nist.gov/NIST-Tech-Pubs/
 
 
 
@@ -47,8 +47,7 @@ Was data derived from another source? (example, Open FEMA)
 
 Recommended citation for the data:
 
-NIST Research Library (2020), NIST Technical Series Publication Metadata, National Institute of Standards and Technology, Persistent Identifier or URL (Access date)
-
+Kathryn Miller (2020), NIST Technical Series Publication Metadata, National Institute of Standards and Technology, https://doi.org/10.18434/M32192
 
 
 ---------------------
@@ -57,7 +56,7 @@ DATA & FILE OVERVIEW
 
 
 File List
-   A. Filename: allrecords_march062020.xml        
+   A. Filename: allrecords_apr202020.xml        
       Short description: Metadata deposited with Crossref for all final NIST Technical Series publications with public Digital Object Identifiers. Schema is adapted from the XSD schema for CrossRef XML based queries (3.0).
 
 
@@ -67,7 +66,7 @@ File List
 
 
    
-Relationship between files: allrecords_march062020.xml was transformed to DOIMETADATA_MASTER.txt using an XSLT that pulled the following fields into a text-based format:
+Relationship between files: allrecords_apr202020.xml was transformed to DOIMETADATA_MASTER.txt using an XSLT that pulled the following fields into a text-based format:
 
 DOI Created|DOI Last Updated|Series|Report Number|Year Published|Month Published|Title|Authors|OU|DOI|URL
 
@@ -107,7 +106,7 @@ People involved with sample collection, processing, analysis and/or submission:
 
 
 -----------------------------------------
-DATA-SPECIFIC INFORMATION FOR: allrecords_march062020.xml
+DATA-SPECIFIC INFORMATION FOR: allrecords_apr202020.xml
 -----------------------------------------
 see schema here for attributes and elements:
 http://www.crossref.org/schemas/crossref_query_output3.0.xsd
