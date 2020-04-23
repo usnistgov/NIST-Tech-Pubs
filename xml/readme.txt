@@ -37,7 +37,7 @@ http://www.w3.org/2001/XMLSchema-instance
 http://www.crossref.org/schemas/crossref_query_output3.0.xsd
 
 
-Links to other publicly accessible locations of the data: https://pages.nist.gov/NIST-Tech-Pubs/
+Links to other publicly accessible locations of the data: https://pages.nist.gov/NIST-Tech-Pubs/ , https://github.com/usnistgov/NIST-Tech-Pubs
 
 
 
@@ -47,7 +47,7 @@ Was data derived from another source? (example, Open FEMA)
 
 Recommended citation for the data:
 
-Kathryn Miller (2020), NIST Technical Series Publication Metadata, National Institute of Standards and Technology, https://doi.org/10.18434/M32192
+NIST Research Library (2020) NIST Technical Series Publication Metadata. (National Institute of Standards and Technology, Gaithersburg, MD) https://doi.org/10.18434/M32192
 
 
 ---------------------
