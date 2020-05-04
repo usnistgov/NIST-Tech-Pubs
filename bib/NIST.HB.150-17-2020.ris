@@ -1,7 +1,12 @@
 TY  - RPRT
-TI  - NVLAP Cryptographic and Security Testing 
-AU  - Moore, Bradley W.
+TI  - NVLAP cryptographic and security testing 
+AU  - Moore, Bradley W
+AU  - Trapnell, Beverly
+AU  - Fox, James
+AU  - French, Carolyn
 PY  - 2020
 PB  - National Institute of Standards and Technology
+CY  - Gaithersburg, MD
+SN  - NIST HB 150-17-2020
 DO  - 10.6028/NIST.HB.150-17-2020
 ER  - 

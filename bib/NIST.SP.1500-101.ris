@@ -1,7 +1,12 @@
 TY  - RPRT
-TI  - Election Event Logging Common Data Format Specification 
+TI  - Election event logging common data format specification 
 AU  - Wack, John
+AU  - Rivello, Richard
+AU  - Dana, Sam
+AU  - Dziurlaj, John
 PY  - 2020
 PB  - National Institute of Standards and Technology
+CY  - Gaithersburg, MD
+SN  - NIST SP 1500-101
 DO  - 10.6028/NIST.SP.1500-101
 ER  - 
