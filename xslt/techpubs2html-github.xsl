@@ -796,8 +796,8 @@
     </xsl:template>
     <xsl:template name="cite">
         <a><xsl:attribute name="href"><xsl:value-of
-            select="concat('./bib/', substring-after(doi_record/report-paper/report-paper_metadata/doi_data/doi, '/'), '.ris')"
-                /></xsl:attribute>Download Citation</a>
+            select="concat('./bib/', substring-after(doi_record/report-paper/report-paper_metadata/doi_data/doi, '/'), '.ris')" 
+        /></xsl:attribute><xsl:attribute name="download"/>Download Citation</a>
     </xsl:template>
 
 </xsl:stylesheet>
