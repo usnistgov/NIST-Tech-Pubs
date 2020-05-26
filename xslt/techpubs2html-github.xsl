@@ -172,7 +172,7 @@
                                     </li>
 
                                     <li>
-                                        <a href="#filter">Filter Reports by Series</a>
+                                        <a href="./series.html">Filter Reports by Series</a>
                                     </li>
                                     <li>
                                         <a href="./NIST_Tech_Pubs_MASTER.xlsx">Download Full List of

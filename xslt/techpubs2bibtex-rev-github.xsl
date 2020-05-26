@@ -14,7 +14,7 @@
     
     <xsl:template match="body">
         <xsl:for-each select="query">
-            <xsl:result-document href="{concat('../bib/bibtex', substring-after(doi_record/report-paper/report-paper_metadata/doi_data/doi, '10.6028/'), '.bib')}">
+            <xsl:result-document href="{concat('../bib/bibtex/', substring-after(doi_record/report-paper/report-paper_metadata/doi_data/doi, '10.6028/'), '.bib')}">
                 <xsl:call-template name="bibtex"/>
             </xsl:result-document>
         </xsl:for-each>
