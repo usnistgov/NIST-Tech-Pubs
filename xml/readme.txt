@@ -1,4 +1,4 @@
-This NIST Technical Series Publication Metadata readme.txt file was generated on 20200523 by Kathryn Miller
+This NIST Technical Series Publication Metadata readme.txt file was generated on 20200603 by Kathryn Miller
 
 
 -------------------
@@ -21,7 +21,7 @@ Author Information
            Email: kathryn.miller@nist.gov
 
 
-Date of data collection: 20200523
+Date of data collection: 20200603
 
 --------------------------
 SHARING/ACCESS INFORMATION
@@ -56,7 +56,7 @@ DATA & FILE OVERVIEW
 
 
 File List
-   A. Filename: allrecords_may232020.xml        
+   A. Filename: allrecords_june032020.xml        
       Short description: Metadata deposited with Crossref for all final NIST Technical Series publications with public Digital Object Identifiers. Schema is adapted from the XSD schema for CrossRef XML based queries (3.0).
 
 
@@ -106,7 +106,7 @@ People involved with sample collection, processing, analysis and/or submission:
 
 
 -----------------------------------------
-DATA-SPECIFIC INFORMATION FOR: allrecords_may122020.xml
+DATA-SPECIFIC INFORMATION FOR: allrecords_june032020.xml
 -----------------------------------------
 see schema here for attributes and elements:
 http://www.crossref.org/schemas/crossref_query_output3.0.xsd
