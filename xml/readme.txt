@@ -1,4 +1,4 @@
-This NIST Technical Series Publication Metadata readme.txt file was generated on 20200603 by Kathryn Miller
+This NIST Technical Series Publication Metadata readme.txt file was generated on 20200623 by Kathryn Miller
 
 
 -------------------
@@ -21,7 +21,7 @@ Author Information
            Email: kathryn.miller@nist.gov
 
 
-Date of data collection: 20200603
+Date of data collection: 20200623
 
 --------------------------
 SHARING/ACCESS INFORMATION
@@ -56,17 +56,17 @@ DATA & FILE OVERVIEW
 
 
 File List
-   A. Filename: allrecords_june032020.xml        
+   A. Filename: allrecords_june232020.xml        
       Short description: Metadata deposited with Crossref for all final NIST Technical Series publications with public Digital Object Identifiers. Schema is adapted from the XSD schema for CrossRef XML based queries (3.0).
 
 
         
-   B. Filename: DOIMETADATA_MASTER.txt       
+   B. Filename: NIST_Tech_Pubs_all.txt       
       Short description: Metadata deposited wtih CrossRef for all final NIST Technical publications with public Digital Object Identifiers. Transformed from XML to TXT using a vertical bar (|) as a delimiter.         
 
 
    
-Relationship between files: allrecords_may022020.xml was transformed to DOIMETADATA_MASTER.txt using an XSLT that pulled the following fields into a text-based format:
+Relationship between files: allrecords_june232020.xml was transformed to NIST_Tech_Pubs_all.txt using an XSLT that pulled the following fields into a text-based format:
 
 DOI Created|DOI Last Updated|Series|Report Number|Year Published|Month Published|Title|Authors|OU|DOI|URL
 
@@ -106,14 +106,14 @@ People involved with sample collection, processing, analysis and/or submission:
 
 
 -----------------------------------------
-DATA-SPECIFIC INFORMATION FOR: allrecords_june032020.xml
+DATA-SPECIFIC INFORMATION FOR: allrecords_june232020.xml
 -----------------------------------------
 see schema here for attributes and elements:
 http://www.crossref.org/schemas/crossref_query_output3.0.xsd
 <query-key> has been changed to series abbreviation key.
 
 -----------------------------------------
-DATA-SPECIFIC INFORMATION FOR: DOIMETADATA_MASTER.txt 
+DATA-SPECIFIC INFORMATION FOR: NIST_Tech_Pubs_all.txt 
 -----------------------------------------
 DOI Created = date first deposited DOI
 DOI Last Updated = last date DOI metadata was updated
