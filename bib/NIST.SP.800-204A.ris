@@ -1,8 +1,10 @@
 TY  - RPRT
-TI  - Building Secure Microservices-based Applications Using Service-Mesh Architecture 
+TI  - Building secure microservices-based applications using service-mesh architecture 
 AU  - Chandramouli, Ramaswamy
 AU  - Butcher, Zack
 PY  - 2020
 PB  - National Institute of Standards and Technology
-DO  - 10.6028/NIST.SP.800-204A
+CY  - Gaithersburg, MD
+SN  - NIST SP 800-204A
+DO  - 10.6028/NIST.SP.800-204a
 ER  - 

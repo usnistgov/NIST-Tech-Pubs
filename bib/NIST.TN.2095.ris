@@ -1,10 +1,12 @@
 TY  - RPRT
-TI  - A Tool to Model the Fate and Transport of Indoor Microbiological Aerosols (FaTIMA) 
-AU  - Dols, W.Stuart
-AU  - Polidoro, Brian J.
+TI  - A tool to model the Fate and Transport of Indoor Microbiological Aerosols (FaTIMA) 
+AU  - Dols, W Stuart
+AU  - Polidoro, Brian J
 AU  - Poppendieck, Dustin
-AU  - Emmerich, Steven J.
+AU  - Emmerich, Steven J
 PY  - 2020
 PB  - National Institute of Standards and Technology
+CY  - Gaithersburg, MD
+SN  - NIST TN 2095
 DO  - 10.6028/NIST.TN.2095
 ER  - 
