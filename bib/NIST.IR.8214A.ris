@@ -1,9 +1,11 @@
 TY  - RPRT
-TI  - NIST Roadmap Toward Criteria for Threshold Schemes for Cryptographic Primitives 
-AU  - Brandão, Luís T. A. N.
+TI  - NIST roadmap toward criteria for threshold schemes for cryptographic primitives 
+AU  - Brandao, Luis T A N
 AU  - Davidson, Michael
 AU  - Vassilev, Apostol
 PY  - 2020
 PB  - National Institute of Standards and Technology
+CY  - Gaithersburg, MD
+SN  - NIST IR 8214A
 DO  - 10.6028/NIST.IR.8214A
 ER  - 

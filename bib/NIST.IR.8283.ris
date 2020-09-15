@@ -1,8 +1,10 @@
 TY  - RPRT
-TI  - Verifying Executability of SysML Behavior Models Using Satisfiability Modulo Theory Solvers 
+TI  - Verifying executability of SysML behavior models using satisfiability modulo theory solvers 
 AU  - Barbau, Raphael
 AU  - Bock, Conrad
 PY  - 2020
 PB  - National Institute of Standards and Technology
+CY  - Gaithersburg, MD
+SN  - NIST IR 8283
 DO  - 10.6028/NIST.IR.8283
 ER  - 

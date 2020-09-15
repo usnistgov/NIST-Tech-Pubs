@@ -1,7 +1,7 @@
 TY  - RPRT
-TI  - Securing Web Transactions TLS Server Certificate Management 
+TI  - Securing web transactions TLS server certificate management 
 AU  - Akram, Mehwish
-AU  - Barker, William C.
+AU  - Barker, William C
 AU  - Clatterbuck, Rob
 AU  - Dodson, Donna
 AU  - Everhart, Brandon
@@ -18,5 +18,7 @@ AU  - Turner, Paul
 AU  - Wilson, Clint
 PY  - 2020
 PB  - National Institute of Standards and Technology
+CY  - Gaithersburg, MD
+SN  - NIST SP 1800-16
 DO  - 10.6028/NIST.SP.1800-16
 ER  - 

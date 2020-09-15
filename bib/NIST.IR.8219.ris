@@ -1,5 +1,5 @@
 TY  - RPRT
-TI  - Securing Manufacturing Industrial Control Systems: Behavioral Anomaly Detection 
+TI  - Securing manufacturing industrial control systems: behavioral anomaly detection
 AU  - McCarthy, James
 AU  - Powell, Michael
 AU  - Stouffer, Keith
@@ -11,5 +11,7 @@ AU  - Wynne, Devin
 AU  - Wiltberger, Johnathan
 PY  - 2020
 PB  - National Institute of Standards and Technology
+CY  - Gaithersburg, MD
+SN  - NIST IR 8219
 DO  - 10.6028/NIST.IR.8219
 ER  - 

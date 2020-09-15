@@ -1,10 +1,12 @@
 TY  - RPRT
-TI  - Theory of Discrete Event Logistics Systems (DELS) Specification 
+TI  - Theory of Discrete Event Logistics Systems (DELS) specification 
 AU  - Sprock, Timothy
 AU  - Thiers, George
-AU  - McGinnis, Leon F.
+AU  - McGinnis, Leon F
 AU  - Bock, Conrad
 PY  - 2020
 PB  - National Institute of Standards and Technology
+CY  - Gaithersburg, MD
+SN  - NIST IR 8262
 DO  - 10.6028/NIST.IR.8262
 ER  - 
