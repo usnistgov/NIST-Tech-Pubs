@@ -1,5 +1,5 @@
 TY  - RPRT
-TI  - Evaluating the Operational Impact of Contactless Fingerprint Imagery on Matcher Performance 
+TI  - Evaluating the operational impact of contactless fingerprint imagery on matcher performance 
 AU  - Orandi, Shahram
 AU  - Libert, John
 AU  - Bandini, Bruce
@@ -8,6 +8,7 @@ AU  - Grantham, John
 AU  - Watson, Craig
 PY  - 2020
 PB  - National Institute of Standards and Technology
-SN  - NISTIR 8315
+CY  - Gaithersburg, MD
+SN  - NIST IR 8315
 DO  - 10.6028/NIST.IR.8315
 ER  - 
