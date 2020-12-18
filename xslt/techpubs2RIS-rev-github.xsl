@@ -27,7 +27,7 @@
     <xsl:call-template name="date"/>
     <xsl:apply-templates select="doi_record/report-paper/report-paper_metadata/publisher/publisher_name"/>
     <xsl:apply-templates select="doi_record/report-paper/report-paper_metadata/publisher/publisher_place"/>
-    <xsl:apply-templates select="doi_record/report-paper/report-paper_metadata/publisher_item/item_number"/>
+    <xsl:call-template name="reportnumber"/>
     <xsl:apply-templates select="doi_record/report-paper/report-paper_metadata/doi_data/doi"/>
     <xsl:text>ER  - </xsl:text>
     
@@ -74,12 +74,20 @@
 </xsl:text>
     </xsl:template>
     
-        <xsl:template match="item_number">
+    <xsl:template name="reportnumber">
         <xsl:text>SN  - </xsl:text>
-        <xsl:value-of select="."/>
+        <xsl:choose>
+            <xsl:when test="doi_record/report-paper/report-paper_metadata/publisher_item/item_number">
+                <xsl:value-of
+                    select="doi_record/report-paper/report-paper_metadata/publisher_item/item_number"/>
+            </xsl:when>
+            <xsl:otherwise><xsl:value-of
+                select="doi_record/report-paper/report-paper_metadata/publisher_item/identifier"/>
+            </xsl:otherwise>
+        </xsl:choose>
         <xsl:text>
 </xsl:text>
-    </xsl:template> 
+    </xsl:template>    
           
     <xsl:template match="doi">
         <xsl:text>DO  - </xsl:text>

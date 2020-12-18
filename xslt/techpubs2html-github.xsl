@@ -685,9 +685,17 @@
             <br/>
             <span class="report-number">
                 <label class="label">Report&#160;Number:&#160;</label>
-                <xsl:value-of
-                    select="doi_record/report-paper/report-paper_metadata/publisher_item/item_number"
-                />
+                <xsl:choose>
+                    <xsl:when test="doi_record/report-paper/report-paper_metadata/publisher_item/item_number">
+                        <xsl:value-of
+                        select="doi_record/report-paper/report-paper_metadata/publisher_item/item_number"/>
+                    </xsl:when>
+                    <xsl:otherwise><xsl:value-of
+                        select="doi_record/report-paper/report-paper_metadata/publisher_item/identifier"/>
+                    </xsl:otherwise>
+                </xsl:choose>
+                
+         
             </span>
             <br/>
             <span class="doi_data"><label class="label"
