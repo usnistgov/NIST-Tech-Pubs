@@ -224,15 +224,13 @@
                                     <xsl:value-of select="current-grouping-key()"/>
                                 </h3>
                                 <xsl:for-each select="current-group()">
-                                    <xsl:sort
-                                        select="doi_record/report-paper/report-paper_metadata/publication_date/year"
-                                        order="descending"/>
-                                    <xsl:sort
-                                        select="doi_record/report-paper/report-paper_metadata/publication_date/month"
-                                        order="descending"/>
-                                    <xsl:sort
+                                    <xsl:sort order="descending"
+                                        select="doi_record/report-paper/report-paper_metadata/publication_date/year"/>
+                                    <xsl:sort order="descending"
+                                        select="doi_record/report-paper/report-paper_metadata/publication_date/month"/>
+                                    <xsl:sort order="descending"
                                         select="doi_record/report-paper/report-paper_metadata/publication_date/date"
-                                        order="descending"/>
+                                    />
                                     <xsl:apply-templates select="."/>
                                 </xsl:for-each>
                             </section>
