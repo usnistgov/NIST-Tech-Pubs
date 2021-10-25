@@ -55,7 +55,10 @@
     
     <xsl:template name="date">
         <xsl:text>PY  - </xsl:text>
-        <xsl:value-of select="doi_record/report-paper/report-paper_metadata/publication_date/year"/>
+        <xsl:for-each select="doi_record/report-paper/report-paper_metadata/publication_date[1]">
+        <xsl:value-of select="year"/>
+        </xsl:for-each>
+
         <xsl:text>
 </xsl:text>
     </xsl:template>

@@ -208,11 +208,11 @@
                             <section id="content">
                                 <xsl:apply-templates select="query">
                                     <xsl:sort order="descending"
-                                        select="doi_record/report-paper/report-paper_metadata/publication_date/year"/>
+                                        select="doi_record/report-paper/report-paper_metadata/publication_date[1]/year"/>
                                     <xsl:sort order="descending"
-                                        select="doi_record/report-paper/report-paper_metadata/publication_date/month"/>
+                                        select="doi_record/report-paper/report-paper_metadata/publication_date[1]/month"/>
                                     <xsl:sort order="descending"
-                                        select="doi_record/report-paper/report-paper_metadata/publication_date/date"
+                                        select="doi_record/report-paper/report-paper_metadata/publication_date[1]/date"
                                     />
                                 </xsl:apply-templates>
                             </section>
@@ -225,11 +225,11 @@
                                 </h3>
                                 <xsl:for-each select="current-group()">
                                     <xsl:sort order="descending"
-                                        select="doi_record/report-paper/report-paper_metadata/publication_date/year"/>
+                                        select="doi_record/report-paper/report-paper_metadata/publication_date[1]/year"/>
                                     <xsl:sort order="descending"
-                                        select="doi_record/report-paper/report-paper_metadata/publication_date/month"/>
+                                        select="doi_record/report-paper/report-paper_metadata/publication_date[1]/month"/>
                                     <xsl:sort order="descending"
-                                        select="doi_record/report-paper/report-paper_metadata/publication_date/date"
+                                        select="doi_record/report-paper/report-paper_metadata/publication_date[1]/date"
                                     />
                                     <xsl:apply-templates select="."/>
                                 </xsl:for-each>
@@ -721,68 +721,68 @@
             <xsl:when
                 test="doi_record/report-paper/report-paper_metadata/publication_date/month = '01'"
                     >January&#160;<xsl:value-of
-                    select="doi_record/report-paper/report-paper_metadata/publication_date/year"
+                    select="doi_record/report-paper/report-paper_metadata/publication_date[1]/year"
                 /></xsl:when>
             <xsl:when
                 test="doi_record/report-paper/report-paper_metadata/publication_date/month = '02'"
                     >February&#160;<xsl:value-of
-                    select="doi_record/report-paper/report-paper_metadata/publication_date/year"
+                        select="doi_record/report-paper/report-paper_metadata/publication_date[1]/year"
                 /></xsl:when>
             <xsl:when
                 test="doi_record/report-paper/report-paper_metadata/publication_date/month = '03'"
                     >March&#160;<xsl:value-of
-                    select="doi_record/report-paper/report-paper_metadata/publication_date/year"
+                        select="doi_record/report-paper/report-paper_metadata/publication_date[1]/year"
                 /></xsl:when>
             <xsl:when
                 test="doi_record/report-paper/report-paper_metadata/publication_date/month = '04'"
                     >April&#160;<xsl:value-of
-                    select="doi_record/report-paper/report-paper_metadata/publication_date/year"
+                        select="doi_record/report-paper/report-paper_metadata/publication_date[1]/year"
                 /></xsl:when>
             <xsl:when
                 test="doi_record/report-paper/report-paper_metadata/publication_date/month = '05'"
                     >May&#160;<xsl:value-of
-                    select="doi_record/report-paper/report-paper_metadata/publication_date/year"
+                        select="doi_record/report-paper/report-paper_metadata/publication_date[1]/year"
                 /></xsl:when>
             <xsl:when
                 test="doi_record/report-paper/report-paper_metadata/publication_date/month = '06'"
                     >June&#160;<xsl:value-of
-                    select="doi_record/report-paper/report-paper_metadata/publication_date/year"
+                    select="doi_record/report-paper/report-paper_metadata/publication_date[1]/year"
                 /></xsl:when>
             <xsl:when
                 test="doi_record/report-paper/report-paper_metadata/publication_date/month = '07'"
                     >July&#160;<xsl:value-of
-                    select="doi_record/report-paper/report-paper_metadata/publication_date/year"
+                    select="doi_record/report-paper/report-paper_metadata/publication_date[1]/year"
                 /></xsl:when>
             <xsl:when
                 test="doi_record/report-paper/report-paper_metadata/publication_date/month = '08'"
                     >August&#160;<xsl:value-of
-                    select="doi_record/report-paper/report-paper_metadata/publication_date/year"
+                    select="doi_record/report-paper/report-paper_metadata/publication_date[1]/year"
                 /></xsl:when>
             <xsl:when
                 test="doi_record/report-paper/report-paper_metadata/publication_date/month = '09'"
                     >September&#160;<xsl:value-of
-                    select="doi_record/report-paper/report-paper_metadata/publication_date/year"
+                    select="doi_record/report-paper/report-paper_metadata/publication_date[1]/year"
                 /></xsl:when>
             <xsl:when
                 test="doi_record/report-paper/report-paper_metadata/publication_date/month = '10'"
                     >October&#160;<xsl:value-of
-                    select="doi_record/report-paper/report-paper_metadata/publication_date/year"
+                    select="doi_record/report-paper/report-paper_metadata/publication_date[1]/year"
                 /></xsl:when>
             <xsl:when
                 test="doi_record/report-paper/report-paper_metadata/publication_date/month = '11'"
                     >November&#160;<xsl:value-of
-                    select="doi_record/report-paper/report-paper_metadata/publication_date/year"
+                    select="doi_record/report-paper/report-paper_metadata/publication_date[1]/year"
                 /></xsl:when>
             <xsl:when
                 test="doi_record/report-paper/report-paper_metadata/publication_date/month = '12'"
                     >December&#160;<xsl:value-of
-                    select="doi_record/report-paper/report-paper_metadata/publication_date/year"
+                    select="doi_record/report-paper/report-paper_metadata/publication_date[1]/year"
                 /></xsl:when>
 
 
             <xsl:otherwise>
                 <xsl:value-of
-                    select="doi_record/report-paper/report-paper_metadata/publication_date/year"/>
+                    select="doi_record/report-paper/report-paper_metadata/publication_date[1]/year"/>
             </xsl:otherwise>
         </xsl:choose>
 
