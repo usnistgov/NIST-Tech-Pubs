@@ -21,7 +21,7 @@ Author Information
            Email: kathryn.miller@nist.gov
 
 
-Date of data collection: 20211025
+Date of data collection: 20220112
 
 --------------------------
 SHARING/ACCESS INFORMATION
@@ -47,7 +47,7 @@ Was data derived from another source? (example, Open FEMA)
 
 Recommended citation for the data:
 
-NIST Research Library (2021) NIST Technical Series Publication Metadata. (National Institute of Standards and Technology, Gaithersburg, MD) https://doi.org/10.18434/M32192
+NIST Research Library (2022) NIST Technical Series Publication Metadata. (National Institute of Standards and Technology, Gaithersburg, MD) https://doi.org/10.18434/M32192
 
 
 ---------------------
