@@ -282,6 +282,9 @@
                             <a href="./CSWP.html">Cybersecurity White Papers</a>
                         </p>
                         <p>
+                            <a href="./DCI.html">Data Collection Instruments and Best Practices</a>
+                        </p>
+                        <p>
                             <a href="./EAB.html">Economic Analysis Briefs</a>
                         </p>
                         <p>
@@ -521,6 +524,9 @@
                                     <p>
                                         <a href="./CSWP.html">Cybersecurity White Papers</a>
                                     </p>
+                                <p>
+                                    <a href="./DCI.html">Data Collection Instruments and Best Practices</a>
+                                </p>
                                     <p>
                                         <a href="./EAB.html">Economic Analysis Briefs</a>
                                     </p>
