@@ -175,7 +175,7 @@
                                         <a href="./series.html">Filter Reports by Series</a>
                                     </li>
                                     <li>
-                                        <a href="./NIST_Tech_Pubs_all.xlsx">Download Full List of
+                                        <a href="./xml/NIST_Tech_Pubs_all.txt">Download Full List of
                                             Reports</a>
                                     </li>
 
