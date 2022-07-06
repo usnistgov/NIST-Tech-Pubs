@@ -15,7 +15,8 @@ TAG_XLATE = [('title', 'title'),
              ('year', 'year'),
              ('institution_name', 'institution'),
              ('publisher_name', 'publisher'),
-             ('publisher_place', 'address')
+             ('publisher_place', 'address'),
+             ('resource', 'url'),
              ]
 
 def show(obj):
@@ -37,7 +38,7 @@ def xml_to_dict(node):
     for (xml_tag, bibtex_tag) in TAG_XLATE:
         tag = node.find(f".//{xml_tag}")
         if tag is not None and tag.text is not None:
-            ret[bibtex_tag] = tag.text
+            ret[bibtex_tag] = tag.text.replace('&',r'\&')
 
     ## Get authors or editors
     author = ""
