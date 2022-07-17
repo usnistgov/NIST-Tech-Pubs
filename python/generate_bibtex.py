@@ -8,9 +8,12 @@ class NoDOIException( Exception ):
     pass
 
 
+TITLE='title'
+SUBTITLE = 'subtitle'
+
 ## Translate XML tag to BiBTeX tag
-TAG_XLATE = [('title', 'title'),
-             ('subtitle', 'subtitle'),
+TAG_XLATE = [(TITLE, TITLE),
+             (SUBTITLE, SUBTITLE),
              ('doi', 'doi'),
              ('year', 'year'),
              ('institution_name', 'institution'),
@@ -38,7 +41,7 @@ def xml_to_dict(node):
     for (xml_tag, bibtex_tag) in TAG_XLATE:
         tag = node.find(f".//{xml_tag}")
         if tag is not None and tag.text is not None:
-            ret[bibtex_tag] = tag.text.replace('&',r'\&')
+            ret[bibtex_tag] = tag.text.replace('&',r'\&').replace(' :',': ')
 
     ## Get authors or editors
     author = ""
@@ -55,11 +58,10 @@ def xml_to_dict(node):
         print("No DOI in:")
         show(node)
         raise NoDOIException()
-
     return ret
 
 
-def generate(in_fname, out_fname, doi=None):
+def generate(in_fname, out_fname, doi=None, nosubtitles=False):
     db = BibDatabase()
     tree = ET.parse(in_fname)
     if doi:
@@ -71,7 +73,14 @@ def generate(in_fname, out_fname, doi=None):
 
     for node in tree.findall(".//doi_record"):
         try:
-            db.entries.append(xml_to_dict(node))
+            entry = xml_to_dict(node)
+            if nosubtitles and SUBTITLE in entry:
+                if entry[TITLE].endswith(": "):
+                    entry[TITLE] = entry[TITLE] + entry[SUBTITLE]
+                else:
+                    entry[TITLE] = entry[TITLE] + ": " + entry[SUBTITLE]
+                del entry[SUBTITLE]
+            db.entries.append()
         except NoDOIException:
             pass
 
@@ -87,5 +96,6 @@ if __name__=="__main__":
     a.add_argument("infile", help="Input file")
     a.add_argument("outfile", help="Output file")
     a.add_argument("--doi", help="Only generate output for this doi")
+    a.add_argument("--nosubtitles", help="Do not use subtitle attribute", action="store_true")
     args = a.parse_args()
-    generate(args.infile, args.outfile, doi=args.doi)
+    generate(args.infile, args.outfile, doi=args.doi, nosubtitles=args.nosubtitles)
