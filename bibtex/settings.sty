@@ -1,0 +1,126 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% For DRAFTS only 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{lineno}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% for symbols, equations, and mathematical operators 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}   
+\usepackage{amssymb}    
+\usepackage{mathptmx}
+\usepackage{pifont}
+\usepackage{textcomp}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% for figures and visuals
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{graphicx}   
+\usepackage{xcolor}
+\usepackage{epstopdf} % converting EPS figure files to PDF
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% for page formatting
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{import}
+\usepackage[hang,flushmargin,bottom]{footmisc} 
+\usepackage{fancyhdr, lastpage}	% formatting document, calculating number of pages, formatting headers
+\setlength{\topmargin}{-0.5in}
+\setlength{\headheight}{39pt}
+\setlength{\oddsidemargin}{0.25in}
+\setlength{\evensidemargin}{0.25in}
+\setlength{\textwidth}{6.0in}
+\setlength{\textheight}{8.5in}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% for text formatting
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{parskip}
+\usepackage{bm}
+\usepackage{float}
+\usepackage[hidelinks]{hyperref}
+\urlstyle{same}
+\usepackage{tcolorbox}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% for section formatting
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{titlesec}
+\usepackage[titletoc]{appendix}
+\setcounter{secnumdepth}{4}
+\titleformat{\section}{\normalsize\bfseries\sffamily}{\thesection.}{1em}{}
+\titleformat{\subsection}{\normalsize\bfseries\sffamily}{\thesubsection.}{1em}{}
+\titleformat{\subsubsection}{\normalsize\bfseries\sffamily}{\thesubsubsection.}{1em}{}
+\titleformat{\paragraph}{\normalsize\bfseries\sffamily}{\theparagraph.}{1em}{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% for list formatting
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{enumitem}         % to control spacing between bullets/numbered lists
+ \SetEnumitemKey{nospace}{topsep=0pt, partopsep=0pt, parsep=0pt, itemsep=0pt}
+ \usepackage{multicol}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% for table of contents formatting
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{secdot}		
+\usepackage{tocloft}
+\setcounter{tocdepth}{4}
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    % main contents - part, secs, subsec, paragraph
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \renewcommand{\contentsname}{\sffamily{Table of Contents}}
+    \renewcommand{\cftsecpagefont}{\normalsize\sffamily}
+    \renewcommand{\cftsecfont}{\normalsize\sffamily}
+    \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+    \renewcommand\cftbeforesecskip{\setlength{6pt}{}}
+    \renewcommand{\cftsecaftersnum}{.}
+    \renewcommand{\cftsubsecfont}{\normalsize\sffamily}
+    \renewcommand{\cftsubsecpagefont}{\normalsize\sffamily}
+    \renewcommand\cftbeforesubsecskip{\setlength{6pt}{}}
+    \renewcommand{\cftsubsecaftersnum}{.}
+    \renewcommand{\cftsubsubsecfont}{\normalsize\sffamily}
+    \renewcommand{\cftsubsubsecpagefont}{\normalsize\sffamily}
+    \renewcommand\cftbeforesubsubsecskip{\setlength{6pt}{}}
+    \renewcommand{\cftsubsubsecaftersnum}{.}
+     \renewcommand{\cftparafont}{\normalsize\sffamily}
+    \renewcommand{\cftparapagefont}{\normalsize\sffamily}
+    \renewcommand\cftbeforeparaskip{\setlength{6pt}{}}
+    \renewcommand{\cftparaaftersnum}{.}
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    % list of figures
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \renewcommand{\listfigurename}{\sffamily{List of Figures}}
+    \renewcommand{\cftfigpagefont}{\normalsize\sffamily}
+    \renewcommand{\cftfigfont}{\normalsize\sffamily}
+    \renewcommand{\cftfigindent}{0em}
+    \addtolength{\cftfignumwidth}{1.5em}
+    \renewcommand{\cftfigpresnum}{\figurename\ }
+    \renewcommand{\cftfigaftersnum}{.}
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    % list of tables
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \renewcommand{\listtablename}{\sffamily{List of Tables}}
+    \renewcommand{\cfttabpagefont}{\normalsize\sffamily}
+    \renewcommand{\cfttabfont}{\normalsize\sffamily}
+    \renewcommand{\cfttabindent}{0em}
+    \addtolength{\cfttabnumwidth}{1.5em}
+    \renewcommand{\cfttabpresnum}{\tablename\ }
+    \renewcommand{\cfttabaftersnum}{.}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% for reference list formatting
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[numbers,sort&compress]{natbib} % format bibliography 
+\renewcommand{\bibsection}{}
+\setlength{\bibsep}{0.0pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% for caption formatting
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{caption} % required for Figure labels
+\DeclareCaptionFont{helvet}{\small\sffamily\selectfont}
+\captionsetup{labelfont=bf,labelsep=period,font=helvet,figurename=Fig.,justification=raggedright}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% pdflatex version
+% Fix for pdfTeX warning of form: … found PDF version <1.6>, but at most version <1.5> allowed
+% See: https://tex.stackexchange.com/questions/52317/pdftex-warning-version-allowed
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pdfminorversion=7
+
