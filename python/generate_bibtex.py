@@ -80,7 +80,7 @@ def generate(in_fname, out_fname, doi=None, nosubtitles=False):
                 else:
                     entry[TITLE] = entry[TITLE] + ": " + entry[SUBTITLE]
                 del entry[SUBTITLE]
-            db.entries.append()
+            db.entries.append(entry)
         except NoDOIException:
             pass
 
