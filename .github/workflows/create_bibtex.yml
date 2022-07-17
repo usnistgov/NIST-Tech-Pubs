@@ -37,7 +37,7 @@ jobs:
           python3 python/generate_bibtex.py xml/allrecords.xml downloads/nist_technical_pubs.bib --nosubtitle
 
       - name: Upload BiBTeX file as an artifact
-        uses: action/upload-artifact@v2
+        uses: actions/upload-artifact@v2
         with:
           name: assets-for-download
           path: downloads
