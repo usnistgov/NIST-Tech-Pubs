@@ -1,6 +1,7 @@
 setup:
 	python3 -m pip install -r requirements.txt
 
+# This updates the bibtex file in the parent directory. Is this a good idea?
 bibtex:
 	mkdir -p ../bibtex
 	/bin/rm -f ../bibtex/nist_technical_pubs.bib
