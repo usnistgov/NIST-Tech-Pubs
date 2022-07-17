@@ -2,6 +2,7 @@ import xml.etree.ElementTree as ET
 from bibtexparser.bwriter import BibTexWriter
 from bibtexparser.bibdatabase import BibDatabase
 import json
+import logging
 
 
 class NoDOIException(Exception):
@@ -10,11 +11,12 @@ class NoDOIException(Exception):
 
 TITLE='title'
 SUBTITLE = 'subtitle'
+DOI = 'doi'
 
 # Translate XML tag to BiBTeX tag
 TAG_XLATE = [(TITLE, TITLE),
              (SUBTITLE, SUBTITLE),
-             ('doi', 'doi'),
+             (DOI, DOI),
              ('year', 'year'),
              ('institution_name', 'institution'),
              ('publisher_name', 'publisher'),
@@ -31,6 +33,75 @@ def get_text(node, tag):
         return node.find(f".//{tag}").text
     except AttributeError:
         return ""
+
+SUBSTITUTIONS = [
+    (" ", r""),                 # this seems to be an error in the file
+    ("_", r"\_"),               # this is a real underbar
+    (u"\uFFFD", r""),           # remove Unicode replacement character
+    (u"\u0081", r"\textbullet"),
+    ("á", r"\'{a}"),
+    ("ä", r'\"{a}'),
+    ("é", r"\'{e}"),
+    ("í", r"\'{i}"),
+    ("Ì", r"\`{I}"),
+    ("ö", r'\"{o}'),
+    ("ó", r"\'{o}"),
+    ("ú", r"\'{u}"),
+    ("ü", r'\"{u}'),
+    ("α", r"$\alpha$"),
+    ("π", r"$\pi$"),
+    ("^", r"\verb!^!"),
+    ("#", r"\#"),
+    ("ᵒ", r"$^{\circ}$"),
+    ("⁰", r"\textsuperscript{0}"),
+    ("¹", r"\textsuperscript{1}"),
+    ("²", r"\textsuperscript{2}"),
+    ("³", r"\textsuperscript{3}"),
+    ("⁴", r"\textsuperscript{4}"),
+    ("⁵", r"\textsuperscript{5}"),
+    ("⁶", r"\textsuperscript{6}"),
+
+    ("⁺", r"\textsuperscript{+}"),
+    ("₀", r"\textsuperscript{0}"),
+    ("₁", r"\textsuperscript{1}"),
+    ("₂", r"\textsuperscript{2}"),
+    ("₃", r"\textsuperscript{3}"),
+    ("₄", r"\textsuperscript{4}"),
+    ("₅", r"\textsuperscript{5}"),
+    ("ᵪ", r"\textsubscript{x}"),
+    ("ℓ", r"$\mathscr{l}$"),
+    ("Σ", r"$\Sigma$"),
+    ("μ", r"$\mu$"),
+
+    # These are not satisfactgory:
+    ("ỳ", "\'{y}"),
+    ("ư", "u"),
+    ("ẫ", "a"),
+    ("ề", "e"),
+    ("ê", r"\^{e}"),
+    ("ầ", "a"),
+    ("â", r"\^{a}"),
+    ("ớ", "o"),
+    ("ủ", "u"),
+    ("đ", "d"),
+    ("ố", "o"),
+    ("á", r"\'{a}"),
+    ("à", r"\`{a}"),
+    ("ệ", "e"),
+    ("ụ", "u"),
+    ("ậ", "a"),
+    ("ồ", "o"),
+    ("ỗ", "o"),
+
+]
+
+def latex_recode(txt):
+    """Handle a few Unicode items that are in the bibliographic database which are not handled by LaTeX"""
+    #if txt.startswith("transformation coefficients"):
+    #    print(txt)
+    for (old,new) in SUBSTITUTIONS:
+        txt = txt.replace(old,new)
+    return txt
 
 def xml_to_dict(node):
     """Returns a dict from the XML"""
@@ -52,8 +123,14 @@ def xml_to_dict(node):
         author += name
     ret['author'] = author
 
+    # Recode the fields as necessary
+    for key in ret.keys():
+        if key in [DOI]:         # do not recode DOI
+            continue
+        ret[key] = latex_recode( ret[key] )
+
     try:
-        ret['ID'] = ret['doi']
+        ret['ID'] = ret[DOI]
     except KeyError:
         print("No DOI in:")
         show(node)
@@ -71,6 +148,7 @@ def generate(in_fname, out_fname, doi=None, nosubtitles=False):
         print(json.dumps(xml_to_dict(obj),indent=4))
         return
 
+    seen_doi = set()
     for node in tree.findall(".//doi_record"):
         try:
             entry = xml_to_dict(node)
@@ -80,7 +158,11 @@ def generate(in_fname, out_fname, doi=None, nosubtitles=False):
                 else:
                     entry[TITLE] = entry[TITLE] + ": " + entry[SUBTITLE]
                 del entry[SUBTITLE]
+            if entry[DOI] in seen_doi:
+                logging.warning("DOI %s appears twice in input file",entry[DOI])
+                continue
             db.entries.append(entry)
+            seen_doi.add( entry[DOI] )
         except NoDOIException:
             pass
 
