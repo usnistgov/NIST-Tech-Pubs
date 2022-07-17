@@ -37,4 +37,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: assets-for-download
-          path: downloads
+          path: downloads/nist_technical_pubs.bib
