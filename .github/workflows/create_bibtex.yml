@@ -23,7 +23,7 @@ jobs:
       - name: Lint with flake8
         run: |
           # stop the build if there are Python syntax errors or undefined names
-          flake8 python --count --select=E9,F63,F7,F82 --show-source --statistics
+          flake8 python --count --select=E9,F63,F7,F82,E501 --show-source --statistics
 
           # all Python files should follow PEP8 (except some notebooks, see setup.cfg)
           flake8 python

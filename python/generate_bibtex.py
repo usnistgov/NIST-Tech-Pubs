@@ -1,17 +1,17 @@
-import sys
 import xml.etree.ElementTree as ET
 from bibtexparser.bwriter import BibTexWriter
 from bibtexparser.bibdatabase import BibDatabase
 import json
 
-class NoDOIException( Exception ):
+
+class NoDOIException(Exception):
     pass
 
 
 TITLE='title'
 SUBTITLE = 'subtitle'
 
-## Translate XML tag to BiBTeX tag
+# Translate XML tag to BiBTeX tag
 TAG_XLATE = [(TITLE, TITLE),
              (SUBTITLE, SUBTITLE),
              ('doi', 'doi'),
@@ -37,13 +37,13 @@ def xml_to_dict(node):
     ret = dict()
     ret['ENTRYTYPE'] = 'misc'
 
-    ## Do the simple maps
+    # Do the simple maps
     for (xml_tag, bibtex_tag) in TAG_XLATE:
         tag = node.find(f".//{xml_tag}")
         if tag is not None and tag.text is not None:
             ret[bibtex_tag] = tag.text.replace('&',r'\&').replace(' :',': ')
 
-    ## Get authors or editors
+    # Get authors or editors
     author = ""
     for person in node.find(".//contributors").findall("person_name"):
         name = (get_text(person, "given_name") + " " + get_text(person,"surname")).strip()
