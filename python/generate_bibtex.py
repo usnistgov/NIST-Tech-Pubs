@@ -12,6 +12,7 @@ class NoDOIException(Exception):
 TITLE='title'
 SUBTITLE = 'subtitle'
 DOI = 'doi'
+URL = 'url'
 
 # Translate XML tag to BiBTeX tag
 TAG_XLATE = [(TITLE, TITLE),
@@ -21,7 +22,7 @@ TAG_XLATE = [(TITLE, TITLE),
              ('institution_name', 'institution'),
              ('publisher_name', 'publisher'),
              ('publisher_place', 'address'),
-             ('resource', 'url'),
+             ('resource', URL),
              ]
 
 def show(obj):
@@ -125,7 +126,7 @@ def xml_to_dict(node):
 
     # Recode the fields as necessary
     for key in ret.keys():
-        if key in [DOI]:         # do not recode DOI
+        if key in [DOI,URL]:         # do not recode DOI or URL
             continue
         ret[key] = latex_recode( ret[key] )
 
