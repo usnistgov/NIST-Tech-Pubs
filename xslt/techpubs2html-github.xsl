@@ -408,7 +408,7 @@
                         </div>
                     </footer>-->
                     <footer id="footer" class="clearfix"> 
-                        <a target="_blank" href="http://www.nist.gov/public_affairs/privacy.cfm#privpolicy">Privacy Policy</a> | <a target="_blank" href="http://www.nist.gov/public_affairs/privacy.cfm#secnot">Security Notice</a> | <a href="http://www.nist.gov/public_affairs/privacy.cfm#accesstate">Accessibility Statement</a> | <a target="_blank" href="mailto:data@nist.gov?subject=Feedback%20on%20Web%20Site%20Template">Send feedback</a>
+                        <a target="_blank" href="https://www.nist.gov/privacy-policy">Privacy Policy</a> | <a target="_blank" href="https://www.nist.gov/privacy-policy#secnot">Security Notice</a> | <a href="https://www.nist.gov/oism/accessibility">Accessibility Statement</a>
                     </footer>
                         
                 </div>
@@ -655,8 +655,8 @@
                             </div>
                         </div>
                     </footer>-->
-                    <footer id="footer" class="clearfix"> 
-                        <a target="_blank" href="http://www.nist.gov/public_affairs/privacy.cfm#privpolicy">Privacy Policy</a> | <a target="_blank" href="http://www.nist.gov/public_affairs/privacy.cfm#secnot">Security Notice</a> | <a href="http://www.nist.gov/public_affairs/privacy.cfm#accesstate">Accessibility Statement</a> | <a target="_blank" href="mailto:data@nist.gov?subject=Feedback%20on%20Web%20Site%20Template">Send feedback</a>
+                     <footer id="footer" class="clearfix"> 
+                        <a target="_blank" href="https://www.nist.gov/privacy-policy">Privacy Policy</a> | <a target="_blank" href="https://www.nist.gov/privacy-policy#secnot">Security Notice</a> | <a href="https://www.nist.gov/oism/accessibility">Accessibility Statement</a>
                     </footer>
                         
                 </div>

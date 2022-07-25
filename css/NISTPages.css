@@ -33,7 +33,7 @@
   font-size: 20px;
   height: 40px;
   width: 280px;
-  background: url('nist_logo.png') no-repeat;
+  background: url('NIST-Logo-Brand-White.svg') no-repeat;
   background-size: 280px auto;
   text-indent: -9999px;
   overflow: hidden;
@@ -68,7 +68,7 @@ a.nist-links-button {
   .nist-header h1 a {
     height: 26px;
     width: 80px;
-    background: url('nist_logo_mark.png') 0 4px no-repeat;
+    background: url('NIST-Logo-Brand-White.svg') 0 4px no-repeat;
     background-size: 80px auto;
   }
   .mobile-hide {
