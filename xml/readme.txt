@@ -1,4 +1,4 @@
-This NIST Technical Series Publication Metadata readme.txt file was generated on 20220512 by Kathryn Miller
+This NIST Technical Series Publication Metadata readme.txt file was generated on 20221017 by Kathryn Miller
 
 
 -------------------
@@ -21,7 +21,7 @@ Author Information
            Email: kathryn.miller@nist.gov
 
 
-Date of data collection: 20220512 
+Date of data collection: 20221017
 
 --------------------------
 SHARING/ACCESS INFORMATION
@@ -68,7 +68,7 @@ File List
    
 Relationship between files: allrecords.xml was transformed to NIST_Tech_Pubs_all.txt using an XSLT that pulled the following fields into a text-based format:
 
-DOI Created|DOI Last Updated|Series|Report Number|Year Published|Month Published|Title|Authors|OU|DOI|URL
+Series|Report Number|Month Published|Year Published|Title|Authors|OU|DOI|URL
 
 
 
@@ -115,12 +115,11 @@ http://www.crossref.org/schemas/crossref_query_output3.0.xsd
 -----------------------------------------
 DATA-SPECIFIC INFORMATION FOR: NIST_Tech_Pubs_all.txt 
 -----------------------------------------
-DOI Created = date first deposited DOI
-DOI Last Updated = last date DOI metadata was updated
+
 Series = NIST Technical Series abbreviation
 Report Number = NIST Technical Series report number
-Year Published = first year published
 Month Published = first month published
+Year Published = first year published
 Title = full title
 Authors = all authors
 OU = NIST operating unit / office / lab
