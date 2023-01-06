@@ -42,6 +42,9 @@
                     <xsl:if test="contains(doi, 'NIST.SP.2100-')">
                         <xsl:text>2100</xsl:text>
                     </xsl:if>
+                    <xsl:if test="contains(doi, 'NIST.SP.2200-')">
+                        <xsl:text>2200</xsl:text>
+                    </xsl:if>
                     <xsl:if test="contains(doi, 'NIST.SP.250-')">
                         <xsl:text>250</xsl:text>
                     </xsl:if>

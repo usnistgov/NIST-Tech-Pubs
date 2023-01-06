@@ -1,4 +1,4 @@
-This NIST Technical Series Publication Metadata readme.txt file was generated on 20221212 by Kathryn Miller
+This NIST Technical Series Publication Metadata readme.txt file was generated on 20230106 by Kathryn Miller
 
 
 -------------------
@@ -21,7 +21,7 @@ Author Information
            Email: kathryn.miller@nist.gov
 
 
-Date of data collection: 20221212
+Date of data collection: 20230106
 
 --------------------------
 SHARING/ACCESS INFORMATION
@@ -47,7 +47,7 @@ Was data derived from another source? (example, Open FEMA)
 
 Recommended citation for the data:
 
-NIST Research Library (2022) NIST Technical Series Publication Metadata. (National Institute of Standards and Technology, Gaithersburg, MD) https://doi.org/10.18434/M32192
+NIST Research Library (2023) NIST Technical Series Publication Metadata. (National Institute of Standards and Technology, Gaithersburg, MD) https://doi.org/10.18434/M32192
 
 
 ---------------------
