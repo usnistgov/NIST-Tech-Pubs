@@ -203,17 +203,11 @@
 
                             </section>
                         </xsl:when>
-                       
                         <xsl:when test="$report-type = 'date'">
                             <section id="content">
                                 <xsl:apply-templates select="query">
                                     <xsl:sort order="descending"
-                                        select="doi_record/report-paper/report-paper_metadata/publication_date[1]/year"/>
-                                    <xsl:sort order="descending"
-                                        select="doi_record/report-paper/report-paper_metadata/publication_date[1]/month"/>
-                                    <xsl:sort order="descending"
-                                        select="doi_record/report-paper/report-paper_metadata/publication_date[1]/date"
-                                    />
+                                        select="crm-item[8]"/>
                                 </xsl:apply-templates>
                             </section>
                         </xsl:when>
@@ -225,12 +219,7 @@
                                 </h3>
                                 <xsl:for-each select="current-group()">
                                     <xsl:sort order="descending"
-                                        select="doi_record/report-paper/report-paper_metadata/publication_date[1]/year"/>
-                                    <xsl:sort order="descending"
-                                        select="doi_record/report-paper/report-paper_metadata/publication_date[1]/month"/>
-                                    <xsl:sort order="descending"
-                                        select="doi_record/report-paper/report-paper_metadata/publication_date[1]/date"
-                                    />
+                                        select="crm-item[8]"/>
                                     <xsl:apply-templates select="."/>
                                 </xsl:for-each>
                             </section>
@@ -243,6 +232,7 @@
                     <aside id="sidebar">
                         <br/>
                         <h2 class="filter"> Filter by Series </h2>
+								<p><a href="./AI.html">Trustworthy and Responsible AI</a></p>
                         <p>
                             <a href="./AMS.html">Advanced Manufacturing Series</a>
                         </p>
@@ -398,6 +388,9 @@
                         <p>
                             <a href="./TTB.html">Technology Transfer Brief</a>
                         </p>
+								<p>
+									<a href="./VTS.html">Voting Technology Series</a>
+								</p>
 
                         <!-- Sidebar content -->
                     </aside>
@@ -489,6 +482,7 @@
 
                                
                                     <h2 class="filter"> Filter by Series </h2>
+												<p><a href="./AI.html">Trustworthy and Responsible AI</a></p>
                                     <p>
                                         <a href="./AMS.html">Advanced Manufacturing Series</a>
                                     </p>
@@ -644,6 +638,9 @@
                                     <p>
                                         <a href="./TTB.html">Technology Transfer Brief</a>
                                     </p>
+<p>
+									<a href="./VTS.html">Voting Technology Series</a>
+								</p>
                                 </section>
                         </xsl:when>
                        
