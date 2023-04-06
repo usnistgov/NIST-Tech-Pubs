@@ -1,13 +1,14 @@
 TY  - RPRT
-TI  - General Access Control Guidance for Cloud Systems 
-AU  - Hu, Vincent C.
+TI  - General access control guidance for cloud systems 
+AU  - Hu, Vincent C
 AU  - Iorga, Michaela
 AU  - Bao, Wei
 AU  - Li, Ang
 AU  - Li, Qinghua
 AU  - Gouglidis, Antonios
 PY  - 2020
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
 SN  - NIST SP 800-210
 DO  - 10.6028/NIST.SP.800-210
 ER  - 

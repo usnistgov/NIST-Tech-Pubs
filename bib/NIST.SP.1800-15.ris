@@ -1,5 +1,5 @@
 TY  - RPRT
-TI  - Securing Small-Business and Home Internet of Things (IoT) Devices: Mitigating Network-Based Attacks Using Manufacturer Usage Description (MUD) 
+TI  - Securing small-business and home internet of things (IoT) devices : mitigating network-based attacks using manufacturer usage description (MUD)
 AU  - Dodson, Donna
 AU  - Montgomery, Douglas
 AU  - Polk, Tim
@@ -12,7 +12,7 @@ AU  - Thakore, Darshak
 AU  - Walker, Mark
 AU  - Lear, Eliot
 AU  - Weis, Brian
-AU  - Barker, William C.
+AU  - Barker, William C
 AU  - Coclin, Dean
 AU  - Hojjati, Avesta
 AU  - Wilson, Clint
@@ -28,7 +28,8 @@ AU  - Mulugeta, Blaine
 AU  - Symington, Susan
 AU  - Singh, Jaideep
 PY  - 2021
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
 SN  - NIST SP 1800-15
 DO  - 10.6028/NIST.SP.1800-15
 ER  - 

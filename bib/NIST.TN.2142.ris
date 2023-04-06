@@ -1,12 +1,13 @@
 TY  - RPRT
-TI  - An Evaluation Design for Comparing Netflow Based Network Anomaly Detection Systems Using Synthetic Malicious Traffic 
+TI  - An evaluation design for comparing netflow based network anomaly detection systems using synthetic malicious traffic 
 AU  - Bardhan, Shuvo
 AU  - Hatada, Mitsuhiro
 AU  - Filliben, James
 AU  - Montgomery, Douglas
 AU  - Jia, Alexander
 PY  - 2021
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
 SN  - NIST TN 2142
 DO  - 10.6028/NIST.TN.2142
 ER  - 

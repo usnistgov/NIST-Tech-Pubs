@@ -1,4 +1,4 @@
-This NIST Technical Series Publication Metadata readme.txt file was generated on 20230213 by Kathryn Miller
+This NIST Technical Series Publication Metadata readme.txt file was generated on 20230404 by Kathryn Miller
 
 
 -------------------
@@ -21,7 +21,7 @@ Author Information
            Email: kathryn.miller@nist.gov
 
 
-Date of data collection: 20230213
+Date of data collection: 20230404
 
 --------------------------
 SHARING/ACCESS INFORMATION

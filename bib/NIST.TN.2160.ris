@@ -1,9 +1,10 @@
 TY  - RPRT
-TI  - VEMOS:A GUI for Evaluation of Similarity Metrics on Complex Data Sets 
+TI  - VEMOS : a GUI for evaluation of similarity metrics on complex data sets
 AU  - Dogan, Gunay
 AU  - Fleisig, Eve
 PY  - 2021
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
 SN  - NIST TN 2160
 DO  - 10.6028/NIST.TN.2160
 ER  - 

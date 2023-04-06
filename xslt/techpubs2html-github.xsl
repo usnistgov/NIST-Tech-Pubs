@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
 
@@ -207,7 +207,7 @@
                             <section id="content">
                                 <xsl:apply-templates select="query">
                                     <xsl:sort order="descending"
-                                        select="crm-item[8]"/>
+                                        select="crm-item[9]"/>
                                 </xsl:apply-templates>
                             </section>
                         </xsl:when>
@@ -219,7 +219,7 @@
                                 </h3>
                                 <xsl:for-each select="current-group()">
                                     <xsl:sort order="descending"
-                                        select="crm-item[8]"/>
+                                        select="crm-item[9]"/>
                                     <xsl:apply-templates select="."/>
                                 </xsl:for-each>
                             </section>
@@ -483,6 +483,13 @@
                                
                                     <h2 class="filter"> Filter by Series </h2>
 												<p><a href="./AI.html">Trustworthy and Responsible AI</a></p>
+                                <ul><li>The following publications  are considered part of the NIST AI series:</li>
+                                <ul>
+                                    <li><a href="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8312.pdf">NIST IR 8312</a>: Four Principles of Explainable Artificial Intelligence</li>
+                                    <li><a href="https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8367.pdf">NIST IR 8367</a>: Psychological foundations of explainability and interpretability in artificial intelligence</li>
+                                    <li><a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf">NIST SP 1270</a>: Towards a Standard for Identifying and Managing Bias in Artificial Intelligence</li>
+                                </ul>
+                                </ul>
                                     <p>
                                         <a href="./AMS.html">Advanced Manufacturing Series</a>
                                     </p>

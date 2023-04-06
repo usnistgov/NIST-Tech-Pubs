@@ -1,11 +1,12 @@
 TY  - RPRT
-TI  - NIST Software Package for Obtaining Charpy Transition Curves 
+TI  - NIST software package for obtaining Charpy transition curves 
 AU  - Lucon, Enrico
 AU  - Splett, Jolene
 AU  - Koepke, Amanda
 AU  - Newton, David
 PY  - 2021
-PB  - National Institute of Standards and Technology
-SN  - NISTIR 2158
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
+SN  - NIST TN 2158
 DO  - 10.6028/NIST.TN.2158
 ER  - 

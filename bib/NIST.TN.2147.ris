@@ -1,5 +1,5 @@
 TY  - RPRT
-TI  - Characterizing LTE User Equipment Emissions Under Closed-Loop Power Control 
+TI  - Characterizing LTE user equipment emissions under closed-loop power control 
 AU  - Coder, Jason
 AU  - Sanders, Aric
 AU  - Frey, Michael
@@ -11,7 +11,8 @@ AU  - Kuester, Daniel
 AU  - McGillivray, Duncan
 AU  - Ladbury, John
 PY  - 2021
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
 SN  - NIST TN 2147
 DO  - 10.6028/NIST.TN.2147
 ER  - 
