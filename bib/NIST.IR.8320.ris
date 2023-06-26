@@ -1,8 +1,21 @@
 TY  - RPRT
-TI  - Hardware-Enabled Security: Enabling a Layered Approach to Platform Security for Cloud and Edge Computing Use Cases
+TI  - Hardware-enabled security : enabling a layered approach to platform security for cloud and edge computing use cases
+AU  - Bartock, Michael
 AU  - Souppaya, Murugiah
+AU  - Savino, Ryan
+AU  - Knoll, Tim
+AU  - Shetty, Uttam
+AU  - Cherfaoui, Mourad
+AU  - Yeluri, Raghu
+AU  - Malhotra, Akash
+AU  - Banks, Don
+AU  - Jordan, Michael
+AU  - Pendarakis, Dimitrios
+AU  - Rao, J R
+AU  - Romness, Peter
+AU  - Scarfone, Karen
 PY  - 2022
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
 CY  - Gaithersburg, MD
 SN  - NIST IR 8320
 DO  - 10.6028/NIST.IR.8320

@@ -1,5 +1,5 @@
 TY  - RPRT
-TI  - Protecting Information and System Integrity in Industrial Control System Environments: Cybersecurity for the Manufacturing Sector 
+TI  - Protecting information and system integrity in industrial control system environments : cybersecurity for the manufacturing sector
 AU  - Powell, Michael
 AU  - Brule, Joseph
 AU  - Pease, Michael
@@ -13,7 +13,8 @@ AU  - Sherule, Aslam
 AU  - Zheng, Kangmin
 AU  - Zopf, Matthew
 PY  - 2022
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
 SN  - NIST SP 1800-10
 DO  - 10.6028/NIST.SP.1800-10
 ER  - 

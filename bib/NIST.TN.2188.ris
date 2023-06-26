@@ -1,6 +1,6 @@
 TY  - RPRT
-TI  - Report on High Energy Arcing Fault Experiments: Experimental Results from Medium Voltage Electrical Enclosures 
-AU  - Putorti Jr., Anthony D.
+TI  - Report on high energy arcing fault experiments : experimental results from medium voltage electrical enclosures
+AU  - Putorti, Anthony D Jr
 AU  - Bareham, Scott
 AU  - Hnetkovsky, Edward
 AU  - Brown, Christopher
@@ -19,7 +19,8 @@ AU  - LaFleur, Chris
 AU  - Martinez, Raymond
 AU  - Tanbakuchi, Anthony
 PY  - 2021
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
 SN  - NIST TN 2188
 DO  - 10.6028/NIST.TN.2188
 ER  - 

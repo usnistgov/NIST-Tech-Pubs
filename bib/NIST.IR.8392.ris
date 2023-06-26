@@ -1,5 +1,5 @@
 TY  - RPRT
-TI  - Evaluating the Impact of Contactless Fingerprint Imagery Spatial Loss on Matcher Performance 
+TI  - Evaluating the impact of contactless fingerprint imagery spatial loss on matcher performance 
 AU  - Orandi, Shahram
 AU  - Libert, John
 AU  - Bandini, Bruce
@@ -8,7 +8,8 @@ AU  - Grantham, John
 AU  - Cochran, Brian
 AU  - Watson, Craig
 PY  - 2021
-PB  - National Institute of Standards and Technology
-SN  - NISTIR 8392
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
+SN  - NIST IR 8392
 DO  - 10.6028/NIST.IR.8392
 ER  - 

@@ -1,5 +1,5 @@
 TY  - RPRT
-TI  - Securing Telehealth Remote Patient Monitoring Ecosystem 
+TI  - Securing telehealth remote patient monitoring ecosystem 
 AU  - Cawthra, Jennifer
 AU  - Grayson, Nakia
 AU  - Pulivarti, Ronald
@@ -11,7 +11,8 @@ AU  - Wang, Sue
 AU  - Williams, Ryan
 AU  - Zheng, Kangmin
 PY  - 2022
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
 SN  - NIST SP 1800-30
 DO  - 10.6028/NIST.SP.1800-30
 ER  - 

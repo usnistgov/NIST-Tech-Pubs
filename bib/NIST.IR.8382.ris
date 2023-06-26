@@ -1,5 +1,5 @@
 TY  - RPRT
-TI  - NFIQ 2 NIST Fingerprint Image Quality 
+TI  - NFIQ 2 NIST fingerprint image quality 
 AU  - Tabassi, Elham
 AU  - Olsen, Martin
 AU  - Bausinger, Oliver
@@ -12,7 +12,8 @@ AU  - Ruhland, Timo
 AU  - Schiel, Christopher
 AU  - Schwaiger, Michael
 PY  - 2021
-PB  - National Institute of Standards and Technology
-SN  - NISTIR 8382
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
+SN  - NIST IR 8382
 DO  - 10.6028/NIST.IR.8382
 ER  - 

@@ -1,12 +1,13 @@
 TY  - RPRT
-TI  - A Tool to Model Virus Particle Exposure in Residences (ViPER) 
-AU  - Zimmerman, Stephen
+TI  - A tool to model Virus Particle Exposure in Residences (ViPER) 
+AU  - Zimmerman, Stephen M
 AU  - Polidoro, Brian
-AU  - Ng, Lisa
-AU  - Dols, William Stuart
+AU  - Ng, Lisa C
+AU  - Dols, W Stuart
 AU  - Emmerich, Steven
 PY  - 2022
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
 SN  - NIST TN 2211
 DO  - 10.6028/NIST.TN.2211
 ER  - 

@@ -1,5 +1,5 @@
 TY  - RPRT
-TI  - Certification of Standard Reference Material® 2917: Plasmid DNA for Fecal Indicator Detection and Identification 
+TI  - Certification of Standard Reference Material 2917 : plasmid DNA for fecal indicator detection and identification
 AU  - Kralj, Jason
 AU  - Servetas, Stephanie
 AU  - Hunter, Monique
@@ -8,7 +8,8 @@ AU  - Jackson, Scott
 AU  - Shanks, Orin
 AU  - Willis, Jessica
 PY  - 2021
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
 SN  - NIST SP 260-221
 DO  - 10.6028/NIST.SP.260-221
 ER  - 

@@ -1,8 +1,20 @@
 TY  - RPRT
-TI  - Measuring the Common Vulnerability Scoring System Base Score Equation 
+TI  - Measuring the Common Vulnerability Scoring System base score equation 
 AU  - Mell, Peter
+AU  - Spring, Jonathan
+AU  - Dugal, Dave
+AU  - Ananthakrishna, Srividya
+AU  - Casotto, Francesco
+AU  - Fridley, Troy
+AU  - Ganas, Christopher
+AU  - Kundu, Arkadeep
+AU  - Nordwall, Phillip
+AU  - Pushpanathan, Vijayamurugan
+AU  - Sommerfeld, Daniel
+AU  - Tesauro, Matt
+AU  - Turner, Chris
 PY  - 2022
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
 CY  - Gaithersburg, MD
 SN  - NIST IR 8409
 DO  - 10.6028/NIST.IR.8409

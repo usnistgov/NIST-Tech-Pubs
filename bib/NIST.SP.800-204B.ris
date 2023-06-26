@@ -1,10 +1,11 @@
 TY  - RPRT
-TI  - Attribute-based Access Control for Microservices-based Applications Using a Service Mesh 
+TI  - Attribute-based access control for microservices-based applications using a service mesh 
 AU  - Chandramouli, Ramaswamy
 AU  - Butcher, Zack
 AU  - Chetal, Aradhna
 PY  - 2021
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
 SN  - NIST SP 800-204B
 DO  - 10.6028/NIST.SP.800-204B
 ER  - 

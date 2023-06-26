@@ -1,9 +1,9 @@
 TY  - RPRT
-TI  - Mobile Application Single Sign-On: Improving Authentication for Public Safety First Responders 
+TI  - Mobile application single sign-on : improving authentication for public safety first responders
 AU  - Fisher, William
 AU  - Grassi, Paul
-AU  - Barker, William C.
-AU  - Dog, Spike E.
+AU  - Barker, William C
+AU  - Dog, Spike E
 AU  - Jha, Santos
 AU  - Kim, William
 AU  - McCorkill, Taylor
@@ -11,7 +11,8 @@ AU  - Portner, Joseph
 AU  - Russell, Mark
 AU  - Umarji, Sudhi
 PY  - 2021
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
 SN  - NIST SP 1800-13
 DO  - 10.6028/NIST.SP.1800-13
 ER  - 

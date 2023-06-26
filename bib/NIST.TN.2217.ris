@@ -1,8 +1,14 @@
 TY  - RPRT
-TI  - IEC 61850 Profile for Distributed Energy Resources Supporting IEEE 1547 
-AU  - Hasan Giray, Oral
+TI  - IEC 61850 profile for distributed energy resources supporting IEEE 1547 
+AU  - Oral, Hasan Giray
+AU  - Anand, Dhananjay
+AU  - Nguyen, Cuong
+AU  - Gopstein, Avi
+AU  - Brunner, Christoph
+AU  - Apostolov, Alexander
 PY  - 2022
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
 SN  - NIST TN 2217
 DO  - 10.6028/NIST.TN.2217
 ER  - 

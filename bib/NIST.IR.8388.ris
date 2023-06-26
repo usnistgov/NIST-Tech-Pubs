@@ -1,10 +1,11 @@
 TY  - RPRT
-TI  - Verifying Executability of SysML Behavior Models Using Alloy Analyzere 
+TI  - Verifying executability of SysML behavior models using Alloy Analyzer 
 AU  - Doerr, Jeremy
 AU  - Bock, Conrad
 AU  - Barbau, Raphael
-PY  - 2022
-PB  - National Institute of Standards and Technology
-SN  - NISTIR 8388
+PY  - 2021
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
+SN  - NIST IR 8388
 DO  - 10.6028/NIST.IR.8388
 ER  - 

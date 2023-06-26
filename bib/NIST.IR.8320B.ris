@@ -1,8 +1,19 @@
 TY  - RPRT
-TI  - Hardware-Enabled Security: Policy-Based Governance in Trusted Container Platforms
+TI  - Hardware-enabled security : policy-based governance in trusted container platforms
+AU  - Bartock, Michael
 AU  - Souppaya, Murugiah
+AU  - Xia, Haidong
+AU  - Yeluri, Raghu
+AU  - Shetty, Uttam
+AU  - Lum, Brandon
+AU  - Sabath, Mariusz
+AU  - Singh, Harmeet
+AU  - Youssef, Alaa
+AU  - Steinder, Gosia
+AU  - Cao, Yu
+AU  - Ramanathan, Jayashree
 PY  - 2022
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
 CY  - Gaithersburg, MD
 SN  - NIST IR 8320B
 DO  - 10.6028/NIST.IR.8320B

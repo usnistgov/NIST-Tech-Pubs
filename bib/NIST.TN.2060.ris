@@ -1,5 +1,5 @@
 TY  - RPRT
-TI  - BGP Secure Routing Extension (BGP-SRx): Reference Implementation and Test Tools for Emerging BGP Security Standards 
+TI  - BGP secure routing extension (BGP-SRx) : reference implementation and test tools for emerging BGP security standards
 AU  - Borchert, Oliver
 AU  - Lee, Kyehwan
 AU  - Sriram, Kotikalapudi
@@ -7,7 +7,8 @@ AU  - Montgomery, Doug
 AU  - Gleichmann, Patrick
 AU  - Adalier, Mehmet
 PY  - 2021
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
 SN  - NIST TN 2060
 DO  - 10.6028/NIST.TN.2060
 ER  - 

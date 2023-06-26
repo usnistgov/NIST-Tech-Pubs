@@ -1,8 +1,12 @@
 TY  - RPRT
-TI  - Automated Secure Configuration Guidance from the macOS Security Compliance Project (mSCP) 
+TI  - Automated secure configuration guidance from the macOS Security Compliance Project (mSCP) 
 AU  - Trapnell, Mark
+AU  - Trapnell, Eric
+AU  - Souppaya, Murugiah
+AU  - Gendler, Bob
+AU  - Scarfone, Karen
 PY  - 2022
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
 CY  - Gaithersburg, MD
 SN  - NIST SP 800-219
 DO  - 10.6028/NIST.SP.800-219

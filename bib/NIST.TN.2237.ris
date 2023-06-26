@@ -1,8 +1,11 @@
 TY  - RPRT
-TI  - Collection Methods for Wi-Fi and Bluetooth I/Q Recordings in the 2.4 GHz and 5 GHz Bands with Low-Cost Software Defined Radios 
+TI  - Collection methods for Wi-Fi and Bluetooth IQ recordings in the 2.4 GHz and 5 GHz bands with low-cost software defined radios 
+AU  - Tschimben, Stefan
+AU  - Subray, Siddhartha
+AU  - Sanders, Aric
 AU  - Wunderlich, Adam
 PY  - 2022
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
 CY  - Gaithersburg, MD
 SN  - NIST TN 2237
 DO  - 10.6028/NIST.TN.2237

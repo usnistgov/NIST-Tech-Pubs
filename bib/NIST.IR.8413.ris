@@ -1,8 +1,21 @@
 TY  - RPRT
-TI  - Status Report on the Third Round of the NIST Post-Quantum Cryptography Standardization Process 
+TI  - Status report on the third round of the NIST Post-Quantum Cryptography Standardization process 
+AU  - Alagic, Gorjan
+AU  - Apon, Daniel
+AU  - Cooper, David
+AU  - Dang, Quynh
+AU  - Dang, Thinh
+AU  - Kelsey, John
+AU  - Lichtinger, Jacob
+AU  - Liu, Yi-Kai
+AU  - Miller, Carl
 AU  - Moody, Dustin
+AU  - Peralta, Rene
+AU  - Perlner, Ray
+AU  - Robinson, Angela
+AU  - Smith-Tone, Daniel
 PY  - 2022
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
 CY  - Gaithersburg, MD
 SN  - NIST IR 8413
 DO  - 10.6028/NIST.IR.8413

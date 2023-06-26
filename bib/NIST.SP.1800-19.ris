@@ -1,8 +1,28 @@
 TY  - RPRT
-TI  - Trusted Cloud: Security Practice Guide for VMware Hybrid Cloud Infrastructure as a Service (IaaS) Environments
+TI  - Trusted cloud : security practice guide for VMware hybrid cloud infrastructure as a service (IaaS) environments
 AU  - Bartock, Michael
+AU  - Dodson, Donna
+AU  - Souppaya, Murugiah
+AU  - Carroll, Daniel
+AU  - Masten, Robert
+AU  - Scinta, Gina
+AU  - Massis, Paul
+AU  - Prafullchandra, Hemma
+AU  - Malnar, Jason
+AU  - Singh, Harmeet
+AU  - Ghandi, Rajeev
+AU  - Storey, Laura E
+AU  - Yeluri, Raghuram
+AU  - Shea, Tim
+AU  - Dalton, Michael
+AU  - Weber, Rocky
+AU  - Scarfone, Karen
+AU  - Dukes, Anthony
+AU  - Haskins, Jeff
+AU  - Phoenix, Carlos
+AU  - Swarts, Brenda
 PY  - 2022
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
 CY  - Gaithersburg, MD
 SN  - NIST SP 1800-19
 DO  - 10.6028/NIST.SP.1800-19

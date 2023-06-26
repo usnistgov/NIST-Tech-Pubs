@@ -1,8 +1,9 @@
 TY  - RPRT
-TI  - Implementation of DevSecOps for a Microservices-based Application with Service Mesh 
+TI  - Implementation of DevSecOps for a microservices-based application with service mesh 
 AU  - Chandramouli, Ramaswamy
 PY  - 2022
-PB  - National Institute of Standards and Technology
+PB  - National Institute of Standards and Technology (U.S.)
+CY  - Gaithersburg, MD
 SN  - NIST SP 800-204C
 DO  - 10.6028/NIST.SP.800-204C
 ER  - 
