@@ -207,7 +207,7 @@
                             <section id="content">
                                 <xsl:apply-templates select="query">
                                     <xsl:sort order="descending"
-                                        select="crm-item[9]"/>
+                                        select="crm-item[8]"/>
                                 </xsl:apply-templates>
                             </section>
                         </xsl:when>
@@ -219,7 +219,7 @@
                                 </h3>
                                 <xsl:for-each select="current-group()">
                                     <xsl:sort order="descending"
-                                        select="crm-item[9]"/>
+                                        select="crm-item[8]"/>
                                     <xsl:apply-templates select="."/>
                                 </xsl:for-each>
                             </section>
