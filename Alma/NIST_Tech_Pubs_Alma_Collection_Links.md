@@ -2,6 +2,8 @@
 
 This list is of all the NIST Technical Series Publications in the Collection Lobby of Alma Digital.
 
+> **_Note:_** The links are "live" but the contents are currently suppressed. The Library is projected to have these filled with resources in the spring of 2024.
+
 - [NIST Technical Series Publications](https://nist.alma.exlibrisgroup.com/discovery/collectionDiscovery?vid=01NIST_INST:01NIST&collectionId=8125129820008106)
 - [Trustworthy and Responsible AI](https://nist.alma.exlibrisgroup.com/discovery/collectionDiscovery?vid=01NIST_INST:01NIST&collectionId=8125129810008106)
 - [Advanced Manufacturing Series](https://nist.alma.exlibrisgroup.com/discovery/collectionDiscovery?vid=01NIST_INST:01NIST&collectionId=8125129800008106)
