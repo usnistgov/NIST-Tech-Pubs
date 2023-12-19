@@ -1,7 +1,11 @@
 TY  - RPRT
 TI  - Recommendations for Discrete Logarithm-based Cryptography: Elliptic Curve Domain Parameters
+AU  - Chen, Lily
 AU  - Moody, Dustin
-PY  - 2022
+AU  - Regenscheid, Andrew
+AU  - Robinson, Angela
+AU  - Randall, Karen
+PY  - 2023
 PB  - National Institute of Standards and Technology
 CY  - Gaithersburg, MD
 SN  - NIST SP 800-186

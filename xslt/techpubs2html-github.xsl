@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
 
@@ -205,21 +205,24 @@
                         </xsl:when>
                         <xsl:when test="$report-type = 'date'">
                             <section id="content">
+                                <h2 class="links">Date Updated: <xsl:value-of  select="current-date()"/></h2>
+
                                 <xsl:apply-templates select="query">
                                     <xsl:sort order="descending"
-                                        select="crm-item[8]"/>
+                                        select="crm-item[9]"/>
                                 </xsl:apply-templates>
                             </section>
                         </xsl:when>
                         <xsl:otherwise>
                             <section id="content">
+                                <h2 class="links">Date Updated: <xsl:value-of  select="current-date()"/></h2>
                                 <h3 class="type-head">
                                     <xsl:attribute name="id" select="current-grouping-key()"/>
                                     <xsl:value-of select="current-grouping-key()"/>
                                 </h3>
                                 <xsl:for-each select="current-group()">
                                     <xsl:sort order="descending"
-                                        select="crm-item[8]"/>
+                                        select="crm-item[9]"/>
                                     <xsl:apply-templates select="."/>
                                 </xsl:for-each>
                             </section>
