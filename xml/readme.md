@@ -1,5 +1,5 @@
 This NIST Technical Series Publication Metadata readme file was generated on 20240501 by Kathryn Miller
-# See release notes for file downloads.
+# See [release notes for file downloads](https://github.com/usnistgov/NIST-Tech-Pubs/releases).
 
 -------------------
 GENERAL INFORMATION
