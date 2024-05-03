@@ -183,9 +183,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .welcome, .links, .contact, .filter {
+    padding-top: 25px;
     font-size: 18px; 
     line-height: 1.4em;
         color: #000;
+    
+}
+
+.outdated {
+    padding-top: 50px;
+    font-size: 18px; 
+    line-height: 1.4em;
+        color: #ff0000;
     
 }
 
