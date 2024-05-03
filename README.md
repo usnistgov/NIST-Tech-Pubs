@@ -1,1 +1,1 @@
-This is a repository that holds files needed for the project to keep track of NIST Tech Pubs metadata in an xml format that can then be transformed to HTML, reference manager files (RIS), and plaintext. More detailed README is in [XML](https://github.com/usnistgov/NIST-Tech-Pubs/tree/nist-pages/xml).
+This is a repository that holds files needed for the project to keep track of NIST Tech Pubs metadata in an xml format. More detailed README is in [XML](https://github.com/usnistgov/NIST-Tech-Pubs/tree/nist-pages/xml).
