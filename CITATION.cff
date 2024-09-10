@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: NIST Technical Series Publication Metadata
+message: 'If you use this data, please cite it as below.'
+type: dataset
+authors:
+  - name: NIST Research Library
+    email: techpubs@nist.gov
+    city: 'Gaithersburg, MD'
+    country: US
+    website: 'https://www.nist.gov/nist-research-library'
+identifiers:
+  - type: doi
+    value: 10.18434/M32192
+repository-code: 'https://github.com/usnistgov/NIST-Tech-Pubs'
+url: 'https://pages.nist.gov/NIST-Tech-Pubs/'
+abstract: >
+  Metadata for all final NIST Technical Series publications
+  available online, created and maintained by the NIST
+  Research Library.
+keywords:
+  - open access
+  - NIST technical reports
+  - NIST publications
