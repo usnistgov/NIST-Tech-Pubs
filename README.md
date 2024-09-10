@@ -43,7 +43,7 @@ Repository includes:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Since this repository is a method of delivery rather than a place to collaborate, you can use the information here in any way you'd like as long as it adheres to the NIST [LICENSE](https://github.com/usnistgov/NIST-Tech-Pubs/blob/nist-pages/LICENSE).
+Since this repository is a method of delivery rather than a place to collaborate, you can use the information here in any way you'd like as long as it adheres to the NIST [LICENSE](https://github.com/usnistgov/NIST-Tech-Pubs/tree/nist-pages?tab=License-1-ov-file).
 
 Some usage examples:
 
@@ -72,7 +72,7 @@ If you have a question or suggestion that would make this better, please open an
 <!-- LICENSE -->
 ## License
 
-Distributed under the NIST License. See [LICENSE](https://github.com/usnistgov/NIST-Tech-Pubs/blob/nist-pages/LICENSE) for more information.
+Distributed under the NIST License. See [LICENSE](https://github.com/usnistgov/NIST-Tech-Pubs/tree/nist-pages?tab=License-1-ov-file) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,9 +93,9 @@ Project Link: [https://github.com/usnistgov/NIST-Tech-Pubs](https://github.com/u
 [stars-url]: https://github.com/usnistgov/NIST-Tech-Pubs/stargazers
 [issues-shield]: https://img.shields.io/github/issues/usnistgov/NIST-Tech-Pubs.svg?style=for-the-badge
 [issues-url]: https://github.com/usnistgov/NIST-Tech-Pubs/issues
-[license-shield]: https://img.shields.io/badge/license-NIST-green?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fusnistgov%2FNIST-Tech-Pubs%2Fblob%2Fnist-pages%2FLICENSE
+[license-shield]: https://img.shields.io/badge/license-NIST-green?style=for-the-badge&link=https://github.com/usnistgov/NIST-Tech-Pubs/tree/nist-pages?tab=License-1-ov-file
 
-[license-url]: https://github.com/usnistgov/NIST-Tech-Pubs/blob/nist-pages/LICENSE
+[license-url]: https://github.com/usnistgov/NIST-Tech-Pubs/tree/nist-pages?tab=License-1-ov-file
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
