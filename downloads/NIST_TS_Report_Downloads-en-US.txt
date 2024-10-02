@@ -1,0 +1,77 @@
+0:05
+There's a new menu link on the NIST Technical Series Publications List page Report Downloads.
+
+0:13
+These pages display a searchable table with the number of hits and visitors for each NIST Technical Series Publication PDF.
+
+0:21
+This video will show you how to view the monthly pages and the raw data as well.
+
+0:27
+The monthly pages are generated using some Python in a Jupiter notebook.
+
+0:32
+This is also linked on the page as well.
+
+0:35
+Let's take a look at August 2024.
+
+0:40
+You'll see two blocks of Python that reads the CSV file and displays a table with a search box.
+
+0:47
+It automatically sorts by most hits descending.
+
+0:53
+You can see three columns Hits, visitors and File hits count the number of times a file was accessed or downloaded.
+
+1:03
+A visitor is counted when a file is accessed on a particular date by a unique user, and the file column displays the reports URL.
+
+1:12
+For a technical description, see the landing page in the link here.
+
+1:19
+You're probably most concerned about searching for a specific report or series.
+
+1:24
+To filter what's displayed on the table, simply type the series abbreviation with a period or- depending on the series URL structure.
+
+1:33
+Let's try SP dot 1800.
+
+1:38
+We see it quickly filters only publications that fall in this category.
+
+1:42
+You can filter down even further by following the URL structure.
+
+1:46
+For example, SP 1800-, 29.
+
+1:52
+Let's look at SP .800.
+
+1:56
+It has 530 entries for this series, but only displays 10 of them at a time.
+
+2:05
+You can simply select Copy, which will copy the filtered table, in this case 530 entries, or download a CSV or Excel spreadsheet of the same filtered entries.
+
+2:17
+It's that simple.
+
+2:20
+One more thing to mention is the raw CSV files.
+
+2:23
+These files were generated directly from the web logs in a neatly packaged CSV file.
+
+2:30
+The folder is linked on the report Downloads page 2 at the bottom, hosted on GitHub.
+
+2:38
+Thanks for watching.
+
+2:39
+If you have any questions, please e-mail us at techpubs@nist.gov.
