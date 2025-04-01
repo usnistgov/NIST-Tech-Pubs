@@ -4,4 +4,4 @@ __pycache__
 .vscode/
 downloads/.ipynb_checkpoints/
 downloads/csv/.ipynb_checkpoints/
-downloads/csv-staging/
+downloads/csv-staging/.ipynb_checkpoints
