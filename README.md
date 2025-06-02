@@ -32,8 +32,8 @@ Repository includes:
 
 - [NIST Technical Series Publication metadata](https://github.com/usnistgov/NIST-Tech-Pubs/releases): Metadata created in ExLibris Catalog for all NIST Technical Series Publications with public Digital Object Identifiers (DOIs)
   - [Schemas and transformations](https://github.com/usnistgov/NIST-Tech-Pubs/tree/nist-pages/xslt): XSLT files to create XML metadata
-  - [HTML discovery](https://pages.nist.gov/NIST-Tech-Pubs/): HTML pages generated from metadata (not updated as of March 2024)
-- [NIST Technical Series Publication downloads](https://github.com/usnistgov/NIST-Tech-Pubs/tree/nist-pages/downloads): Monthly and Yearly Report Downloads with the number of [hits and visitors](https://github.com/allinurl/goaccess/issues/2133#issuecomment-859188022) for each NIST Technical Series Publication PDF.
+  - [NIST Technical Series Publication List](https://pages.nist.gov/NIST-Tech-Pubs/): Github Pages index 
+- [NIST Technical Series Publication downloads](https://github.com/usnistgov/NIST-Tech-Pubs/tree/nist-pages/downloads): Monthly and Yearly Report Downloads for each NIST Technical Series Publication PDF.
   - Each Report Downloads page is an imported Jupyter Notebook `.html` file that uses python to display a searchable table from a `.csv` file.
   - If you're interested in running and/or tweaking the code yourself, please [visit the Jupyter notebook file](https://github.com/usnistgov/NIST-Tech-Pubs/blob/nist-pages/downloads/report-downloads-notebook.ipynb).
 - [Journal of Research of NIST metadata](https://github.com/usnistgov/NIST-Tech-Pubs/tree/nist-pages/xml/JRes-NIST-XML): Metadata created by CrossRef for all Journal of Research of NIST articles with public DOIs
